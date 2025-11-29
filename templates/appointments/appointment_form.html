@@ -1,0 +1,94 @@
+{% extends 'base.html' %}
+
+{% block title %}New Appointment{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Book New Appointment</h1>
+
+    <div class="card">
+        <div class="card-body">
+            <form method="post">
+                {% csrf_token %}
+                
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label class="form-label">Patient *</label>
+                        {{ form.patient }}
+                        {% if form.patient.errors %}
+                            <div class="text-danger">{{ form.patient.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <label class="form-label">Doctor *</label>
+                        {{ form.doctor }}
+                        {% if form.doctor.errors %}
+                            <div class="text-danger">{{ form.doctor.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <label class="form-label">Appointment Date *</label>
+                        {{ form.appointment_date }}
+                        {% if form.appointment_date.errors %}
+                            <div class="text-danger">{{ form.appointment_date.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <label class="form-label">Appointment Time *</label>
+                        {{ form.appointment_time }}
+                        {% if form.appointment_time.errors %}
+                            <div class="text-danger">{{ form.appointment_time.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="col-12">
+                        <label class="form-label">Reason for Visit *</label>
+                        {{ form.reason }}
+                        {% if form.reason.errors %}
+                            <div class="text-danger">{{ form.reason.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Distance from Hospital (km)</label>
+                        {{ form.distance_from_hospital }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Weather Condition</label>
+                        {{ form.weather_condition }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">SMS Reminder</label>
+                        <div class="form-check mt-2">
+                            {{ form.sms_sent }}
+                            <label class="form-check-label">Send SMS reminder</label>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-4">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-calendar-check"></i> Book Appointment
+                    </button>
+                    <a href="{% url 'appointment_list' %}" class="btn btn-secondary">
+                        <i class="bi bi-x-circle"></i> Cancel
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-control, .form-select {
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        padding: 0.375rem 0.75rem;
+    }
+</style>
+{% endblock %}

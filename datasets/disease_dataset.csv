@@ -1,0 +1,2001 @@
+age,gender,region,woreda,fever,headache,fatigue,cough,vomiting,diarrhea,joint_pain,rash,malaria_test,rdt_result,blood_pressure_systolic,blood_pressure_diastolic,glucose_level,diagnosis
+47,M,Tigray,Axum,0,0,0,0,1,0,1,0,negative,negative,182,114,95,Hypertension
+47,F,Amhara,Dessie,0,0,1,0,0,0,0,0,negative,negative,145,88,191,Diabetes
+17,F,Tigray,Wukro,1,1,1,1,0,1,0,0,negative,negative,131,81,92,Pneumonia
+29,F,Oromia,Jimma,1,1,1,0,1,0,1,0,positive,positive,130,72,90,Malaria
+50,M,SNNPR,Dilla,0,0,1,1,0,0,1,0,negative,negative,160,95,231,Diabetes
+29,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,128,82,96,TB
+28,F,Oromia,Adama,1,1,1,0,1,1,0,0,negative,negative,128,75,93,Typhoid
+74,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,156,115,104,Hypertension
+72,M,Amhara,Debre Markos,0,1,0,0,1,0,1,0,negative,negative,169,102,96,Hypertension
+25,M,SNNPR,Hawassa,0,1,1,0,0,1,0,0,negative,negative,126,81,99,Typhoid
+52,F,Addis Ababa,Arada,1,1,1,1,0,0,1,0,negative,negative,127,77,91,Pneumonia
+29,M,Tigray,Adigrat,1,1,0,1,0,0,0,0,negative,negative,118,83,96,TB
+57,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,134,82,92,Pneumonia
+17,M,Addis Ababa,Bole,0,0,1,1,0,0,0,1,negative,negative,132,75,102,Pneumonia
+54,F,SNNPR,Hosanna,1,1,1,1,1,0,1,0,negative,negative,116,85,101,TB
+45,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,136,104,190,Diabetes
+45,F,Amhara,Debre Markos,1,1,1,1,0,0,1,0,negative,negative,138,78,92,Pneumonia
+48,F,Amhara,Debre Markos,0,0,1,1,0,0,0,0,negative,negative,155,101,181,Diabetes
+75,F,Oromia,Jimma,0,0,0,0,0,0,0,0,negative,negative,166,111,110,Hypertension
+28,M,SNNPR,Wolaita,1,1,1,0,0,0,0,0,negative,negative,118,72,89,TB
+37,F,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,142,88,225,Diabetes
+61,M,Amhara,Gondar,0,0,0,1,0,0,0,0,negative,negative,158,92,214,Diabetes
+26,F,Oromia,Dire Dawa,1,1,1,1,0,1,1,0,negative,negative,130,83,92,Typhoid
+47,F,Addis Ababa,Yeka,0,1,0,1,0,0,0,0,negative,negative,125,83,104,TB
+42,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,146,98,188,Diabetes
+61,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,161,114,113,Hypertension
+50,M,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,120,72,94,TB
+75,F,Oromia,Jimma,0,1,1,1,0,0,0,1,negative,negative,148,105,204,Diabetes
+64,F,SNNPR,Arba Minch,0,1,0,0,0,0,0,0,negative,negative,183,109,96,Hypertension
+50,M,SNNPR,Arba Minch,0,0,0,0,0,0,0,0,negative,negative,151,98,250,Diabetes
+25,F,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,127,83,100,Pneumonia
+59,M,Amhara,Gondar,1,0,1,1,0,0,0,0,negative,negative,128,82,103,TB
+41,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,164,110,102,Hypertension
+52,F,Oromia,Dire Dawa,1,0,1,1,0,0,0,1,negative,negative,127,70,87,TB
+67,M,SNNPR,Arba Minch,1,1,1,0,0,0,0,0,negative,negative,166,97,110,Hypertension
+49,M,Tigray,Axum,1,1,1,0,0,0,1,0,positive,positive,114,85,88,Malaria
+48,F,Tigray,Shire,0,0,1,1,0,0,0,1,negative,negative,144,103,228,Diabetes
+30,M,Addis Ababa,Kirkos,1,0,0,1,0,0,0,0,negative,negative,133,86,92,Pneumonia
+56,M,SNNPR,Dilla,0,0,1,0,0,0,0,0,negative,negative,143,104,248,Diabetes
+64,F,Addis Ababa,Yeka,1,1,0,1,0,0,0,0,negative,negative,130,75,105,Pneumonia
+36,F,Amhara,Debre Markos,0,1,1,1,0,1,0,1,negative,negative,128,85,102,TB
+50,F,SNNPR,Hawassa,1,1,1,1,1,1,0,0,negative,negative,130,86,104,Typhoid
+44,F,Amhara,Bahir Dar,0,1,1,0,0,0,0,0,negative,negative,124,73,91,TB
+39,F,Amhara,Debre Markos,1,0,1,0,0,0,0,0,negative,negative,130,73,85,TB
+53,F,SNNPR,Dilla,0,0,1,0,0,1,0,0,negative,negative,156,86,199,Diabetes
+39,M,Amhara,Bahir Dar,1,1,1,0,0,1,0,0,negative,negative,133,84,108,Typhoid
+38,M,Amhara,Gondar,0,1,1,0,0,0,0,0,negative,negative,136,92,216,Diabetes
+58,F,Oromia,Jimma,0,0,0,0,0,0,0,0,negative,negative,167,99,97,Hypertension
+25,F,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,129,71,98,Malaria
+60,F,Oromia,Adama,0,1,0,0,1,0,0,0,negative,negative,161,110,111,Hypertension
+68,F,Amhara,Debre Birhan,0,0,0,0,0,0,0,0,negative,negative,176,117,110,Hypertension
+50,M,SNNPR,Hawassa,1,1,0,1,0,0,0,0,negative,negative,128,71,91,TB
+58,F,SNNPR,Hawassa,0,0,0,0,0,0,0,0,negative,negative,142,90,219,Diabetes
+35,F,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,143,98,241,Diabetes
+36,F,Addis Ababa,Kirkos,1,0,1,1,0,0,0,0,negative,negative,136,83,90,Pneumonia
+44,F,Amhara,Dessie,1,1,1,1,0,0,0,0,negative,negative,127,77,98,TB
+35,F,SNNPR,Dilla,0,1,1,0,0,0,0,0,positive,positive,113,84,88,Malaria
+64,M,Amhara,Dessie,0,0,1,0,0,0,0,1,negative,negative,145,102,228,Diabetes
+65,F,Addis Ababa,Bole,1,1,1,1,0,1,0,0,negative,negative,118,84,90,TB
+59,M,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,155,114,107,Hypertension
+50,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,137,99,224,Diabetes
+54,F,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,144,85,230,Diabetes
+25,M,Addis Ababa,Arada,0,0,1,1,0,0,0,0,negative,negative,119,73,105,TB
+42,F,SNNPR,Hawassa,0,0,1,0,0,0,0,0,negative,negative,173,111,111,Hypertension
+35,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,127,81,87,TB
+6,F,Addis Ababa,Bole,1,0,1,1,0,0,0,0,negative,negative,120,85,109,Pneumonia
+24,F,Tigray,Adigrat,1,1,1,0,1,1,0,0,negative,negative,131,88,108,Typhoid
+49,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,173,112,115,Hypertension
+28,F,Tigray,Axum,0,0,1,1,0,0,0,1,negative,negative,125,77,89,TB
+48,M,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,139,102,212,Diabetes
+27,M,Amhara,Bahir Dar,1,1,1,1,1,1,0,0,negative,negative,122,90,104,Typhoid
+57,M,SNNPR,Hosanna,1,0,1,1,0,0,0,1,negative,negative,130,82,98,TB
+46,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,188,111,104,Hypertension
+69,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,134,87,103,Pneumonia
+46,F,SNNPR,Wolaita,0,1,1,0,1,0,1,1,negative,negative,173,120,99,Hypertension
+38,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,153,101,207,Diabetes
+50,M,Oromia,Nekemte,1,1,1,1,0,0,0,0,negative,negative,120,83,90,Typhoid
+37,F,Tigray,Shire,1,0,1,1,1,0,1,0,negative,negative,126,87,103,Typhoid
+48,M,Tigray,Shire,1,0,1,1,1,0,0,0,negative,negative,128,89,103,Pneumonia
+61,F,Tigray,Axum,1,1,1,1,0,0,0,1,negative,negative,132,76,90,Pneumonia
+39,M,Amhara,Debre Markos,1,1,1,1,1,1,0,0,negative,negative,131,77,102,Typhoid
+42,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,1,negative,negative,170,100,120,Hypertension
+64,F,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,140,87,245,Diabetes
+47,M,Tigray,Shire,0,0,0,0,0,0,0,0,negative,negative,154,100,119,Hypertension
+71,F,Addis Ababa,Lideta,0,0,1,0,0,0,0,0,negative,negative,154,110,109,Hypertension
+59,F,Addis Ababa,Bole,0,1,1,1,0,0,0,0,negative,negative,155,114,114,Hypertension
+59,F,Addis Ababa,Lideta,0,0,1,0,0,0,0,0,negative,negative,136,99,193,Diabetes
+30,M,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,116,80,87,TB
+31,F,Tigray,Shire,0,0,0,1,0,0,0,0,negative,negative,127,74,104,TB
+45,F,Addis Ababa,Arada,0,1,1,0,0,0,0,1,negative,negative,177,111,106,Hypertension
+38,F,Amhara,Gondar,1,1,1,0,1,0,0,0,positive,positive,127,71,95,Malaria
+43,F,Amhara,Gondar,0,0,1,0,0,1,0,0,negative,negative,149,104,216,Diabetes
+68,M,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,168,119,107,Hypertension
+68,F,Amhara,Gondar,0,1,1,0,0,0,0,0,negative,negative,138,94,190,Diabetes
+37,F,Addis Ababa,Kirkos,1,1,0,0,0,0,0,0,negative,negative,131,82,102,Typhoid
+38,M,Oromia,Nekemte,1,1,1,0,1,0,0,0,positive,positive,114,85,99,Malaria
+35,M,Oromia,Nekemte,0,1,0,0,0,0,0,0,negative,negative,142,98,238,Diabetes
+22,F,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,112,81,87,Malaria
+69,M,SNNPR,Dilla,1,1,1,0,0,1,0,0,negative,negative,138,103,222,Diabetes
+22,F,Addis Ababa,Yeka,1,1,1,1,1,0,0,1,negative,negative,134,76,99,Typhoid
+22,M,Oromia,Nekemte,1,1,0,1,1,0,0,0,negative,negative,121,85,98,Typhoid
+38,F,SNNPR,Dilla,1,1,0,0,0,0,1,0,positive,positive,123,72,98,Malaria
+46,F,Tigray,Mekelle,1,0,1,0,0,0,0,1,negative,negative,146,104,235,Diabetes
+65,M,Oromia,Dire Dawa,1,0,1,0,0,0,0,1,negative,negative,117,77,105,TB
+48,F,Addis Ababa,Bole,1,0,0,1,0,0,0,0,negative,negative,123,77,88,TB
+26,F,Addis Ababa,Arada,1,1,1,0,1,0,1,0,positive,positive,116,73,89,Malaria
+43,M,SNNPR,Hawassa,1,0,0,0,0,0,1,0,positive,positive,115,75,96,Malaria
+49,M,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,137,94,230,Diabetes
+70,F,SNNPR,Hosanna,1,0,0,0,0,0,0,0,negative,negative,190,113,100,Hypertension
+47,M,Oromia,Harar,1,1,1,0,1,0,0,0,negative,negative,128,81,110,Typhoid
+52,M,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,153,86,183,Diabetes
+17,F,Amhara,Debre Birhan,1,1,1,0,1,0,1,0,positive,positive,122,79,99,Malaria
+18,M,SNNPR,Dilla,1,1,1,0,0,0,0,0,positive,positive,114,81,88,Malaria
+40,F,Oromia,Nekemte,1,1,1,1,0,0,0,0,negative,negative,125,80,91,TB
+51,F,SNNPR,Wolaita,1,1,1,1,1,1,1,0,negative,negative,135,84,107,Typhoid
+21,F,Amhara,Debre Markos,1,1,1,0,0,0,1,1,positive,positive,126,84,93,Malaria
+74,M,Amhara,Bahir Dar,0,0,1,0,0,0,0,0,negative,negative,136,86,197,Diabetes
+61,F,Addis Ababa,Arada,0,0,1,0,0,0,0,0,negative,negative,187,105,111,Hypertension
+69,F,Addis Ababa,Yeka,0,1,1,1,0,0,0,0,negative,negative,155,85,240,Diabetes
+62,M,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,118,76,85,TB
+45,F,Amhara,Dessie,1,1,1,1,0,0,1,0,negative,negative,126,85,105,Pneumonia
+59,F,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,141,92,215,Diabetes
+54,M,Tigray,Shire,0,0,1,0,0,0,0,0,negative,negative,153,102,228,Diabetes
+49,M,Tigray,Mekelle,1,0,1,1,0,0,0,0,negative,negative,137,83,94,Pneumonia
+30,M,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,115,83,100,Malaria
+30,F,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,125,88,95,Pneumonia
+40,F,Amhara,Debre Markos,1,1,1,0,0,0,0,0,positive,positive,125,74,99,Malaria
+37,M,Tigray,Axum,0,0,1,1,0,0,0,0,negative,negative,127,83,101,TB
+30,F,Oromia,Jimma,0,1,0,1,0,0,0,0,negative,negative,115,78,105,TB
+40,M,Oromia,Dire Dawa,1,1,1,1,0,0,0,0,negative,negative,124,81,104,TB
+34,M,SNNPR,Arba Minch,1,0,1,0,0,0,0,0,negative,negative,127,77,106,Typhoid
+51,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,126,90,92,Pneumonia
+63,M,SNNPR,Arba Minch,0,0,1,0,0,0,0,0,negative,negative,158,91,189,Diabetes
+42,F,Oromia,Harar,0,0,1,0,1,0,0,0,positive,positive,130,83,96,Malaria
+62,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,127,75,90,Pneumonia
+54,F,Addis Ababa,Arada,0,1,1,1,0,0,0,0,negative,negative,128,70,92,TB
+24,M,Addis Ababa,Bole,1,1,1,1,1,1,0,0,negative,negative,121,79,106,Typhoid
+39,F,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,120,83,102,TB
+11,F,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,124,89,91,Pneumonia
+61,F,Addis Ababa,Lideta,0,1,1,0,0,0,1,0,negative,negative,141,86,214,Diabetes
+10,M,Amhara,Debre Birhan,1,1,1,1,0,0,1,0,negative,negative,123,90,97,Pneumonia
+78,M,SNNPR,Arba Minch,0,0,1,0,0,0,0,0,negative,negative,156,120,118,Hypertension
+45,M,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,124,81,100,Pneumonia
+44,M,SNNPR,Hosanna,1,1,1,0,0,0,0,0,negative,negative,131,80,94,Typhoid
+74,F,Amhara,Debre Birhan,0,0,1,0,1,0,1,1,negative,negative,158,115,102,Hypertension
+24,M,Amhara,Debre Birhan,1,1,1,0,0,0,1,0,positive,positive,123,70,85,Malaria
+52,F,Oromia,Harar,0,0,0,0,0,1,0,0,negative,negative,151,93,225,Diabetes
+50,M,Tigray,Adigrat,1,1,1,1,0,1,0,0,negative,negative,116,72,97,TB
+53,F,Oromia,Adama,1,1,1,1,0,0,0,0,negative,negative,121,82,96,Pneumonia
+76,F,Tigray,Mekelle,0,1,1,0,0,0,0,1,negative,negative,163,113,99,Hypertension
+65,M,Tigray,Axum,0,1,0,0,0,0,0,0,negative,negative,155,111,118,Hypertension
+28,M,SNNPR,Arba Minch,0,1,1,0,0,0,1,0,negative,negative,129,85,92,TB
+60,F,SNNPR,Arba Minch,1,0,1,1,0,0,1,0,negative,negative,119,82,95,TB
+31,M,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,117,81,102,TB
+35,F,Oromia,Nekemte,1,1,1,0,0,0,1,0,positive,positive,115,74,93,Malaria
+42,F,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,121,84,88,TB
+39,M,SNNPR,Wolaita,1,1,1,1,1,0,0,0,negative,negative,129,85,109,Typhoid
+52,F,Tigray,Axum,0,0,1,0,0,0,0,0,negative,negative,175,106,98,Hypertension
+47,M,Addis Ababa,Bole,0,0,1,0,0,0,0,0,negative,negative,148,100,197,Diabetes
+59,M,Tigray,Axum,0,0,1,0,0,0,0,0,negative,negative,176,112,96,Hypertension
+59,M,Oromia,Jimma,1,1,1,1,0,0,0,0,negative,negative,128,73,85,TB
+31,M,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,110,85,88,Malaria
+51,M,Oromia,Jimma,1,1,1,1,0,1,0,0,negative,negative,117,79,86,TB
+47,M,Tigray,Mekelle,0,1,0,0,0,0,0,0,negative,negative,164,120,107,Hypertension
+51,M,SNNPR,Dilla,1,1,1,0,0,0,0,0,negative,negative,154,113,98,Hypertension
+46,F,Tigray,Axum,0,1,0,0,0,0,0,0,negative,negative,146,96,238,Diabetes
+46,F,Addis Ababa,Lideta,1,1,1,0,0,0,0,0,negative,negative,139,103,229,Diabetes
+28,F,Addis Ababa,Kirkos,1,1,1,1,0,1,0,1,negative,negative,124,81,102,Pneumonia
+67,F,SNNPR,Dilla,0,0,1,1,1,0,0,0,negative,negative,152,94,201,Diabetes
+68,M,Addis Ababa,Bole,1,1,0,1,0,0,0,0,negative,negative,133,78,110,Pneumonia
+39,M,SNNPR,Wolaita,1,1,1,0,0,1,0,0,negative,negative,131,88,95,Typhoid
+43,M,Amhara,Bahir Dar,0,0,1,1,0,0,0,0,negative,negative,151,88,197,Diabetes
+12,F,Amhara,Gondar,1,0,1,1,0,0,0,0,negative,negative,133,87,104,Pneumonia
+20,F,Addis Ababa,Yeka,1,1,1,0,0,0,0,1,positive,positive,124,81,87,Malaria
+60,M,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,159,86,185,Diabetes
+44,M,Oromia,Jimma,1,1,0,0,0,0,1,0,positive,positive,118,72,96,Malaria
+30,F,Amhara,Bahir Dar,1,1,1,1,0,0,1,0,negative,negative,119,77,101,TB
+68,M,Oromia,Nekemte,0,0,1,0,1,0,0,0,negative,negative,170,106,104,Hypertension
+44,M,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,134,81,92,Typhoid
+23,M,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,119,70,94,Malaria
+53,M,SNNPR,Wolaita,1,1,1,1,1,1,0,1,negative,negative,120,86,100,Typhoid
+44,F,Tigray,Wukro,1,1,0,0,1,1,0,1,negative,negative,121,87,106,Typhoid
+65,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,125,82,103,TB
+44,F,SNNPR,Arba Minch,1,1,1,0,0,0,0,0,negative,negative,157,95,117,Hypertension
+20,M,SNNPR,Wolaita,1,1,1,1,1,0,0,0,negative,negative,120,85,103,Typhoid
+58,M,Tigray,Wukro,1,1,1,1,0,0,0,0,negative,negative,118,77,101,TB
+17,M,Amhara,Bahir Dar,1,1,1,0,0,0,0,0,positive,positive,123,77,95,Malaria
+46,F,Tigray,Mekelle,1,1,1,1,1,1,1,0,negative,negative,134,84,99,Typhoid
+30,F,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,121,77,89,TB
+41,M,Amhara,Debre Birhan,1,1,1,0,1,0,0,0,positive,positive,113,76,92,Malaria
+67,M,Amhara,Debre Markos,1,0,0,1,0,0,0,1,negative,negative,123,79,110,Pneumonia
+14,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,122,81,94,Pneumonia
+41,M,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,137,90,218,Diabetes
+78,M,Amhara,Debre Markos,0,0,0,0,1,0,0,0,negative,negative,175,109,112,Hypertension
+75,M,Oromia,Dire Dawa,0,0,1,1,0,0,0,0,negative,negative,190,115,97,Hypertension
+72,F,Oromia,Adama,0,1,1,0,1,0,0,0,negative,negative,149,86,201,Diabetes
+62,F,SNNPR,Hawassa,0,0,1,0,0,0,0,0,negative,negative,154,92,217,Diabetes
+57,F,Oromia,Adama,1,1,1,1,0,0,0,0,negative,negative,132,86,105,Pneumonia
+66,F,Addis Ababa,Lideta,0,1,1,0,1,0,0,0,negative,negative,150,101,225,Diabetes
+49,M,Oromia,Jimma,0,1,0,0,1,0,0,0,negative,negative,160,97,225,Diabetes
+31,M,Addis Ababa,Yeka,1,1,0,1,0,0,0,0,negative,negative,126,90,107,Typhoid
+36,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,120,80,86,TB
+24,M,Oromia,Harar,1,0,1,0,0,0,1,0,positive,positive,115,83,100,Malaria
+60,M,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,186,107,119,Hypertension
+37,M,Addis Ababa,Yeka,0,0,1,0,0,0,0,0,negative,negative,145,90,191,Diabetes
+80,F,SNNPR,Hawassa,0,1,1,0,0,1,0,0,negative,negative,160,108,110,Hypertension
+49,F,Oromia,Dire Dawa,1,1,1,1,0,0,1,1,negative,negative,128,78,92,Pneumonia
+35,F,Amhara,Bahir Dar,1,0,1,1,0,0,1,0,negative,negative,120,83,90,TB
+21,F,Amhara,Gondar,1,1,0,0,0,0,1,0,positive,positive,127,85,89,Malaria
+38,M,SNNPR,Hawassa,1,1,1,0,1,0,1,1,positive,positive,113,79,97,Malaria
+67,F,Oromia,Harar,1,1,1,1,1,0,0,0,negative,negative,138,76,94,Pneumonia
+46,M,Tigray,Wukro,0,0,1,1,0,0,0,0,negative,negative,180,113,102,Hypertension
+43,M,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,125,81,96,Pneumonia
+22,F,Oromia,Dire Dawa,1,1,1,1,1,0,0,1,negative,negative,132,85,98,Typhoid
+64,M,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,153,88,216,Diabetes
+57,F,Tigray,Adigrat,0,0,1,1,0,0,0,0,negative,negative,147,95,210,Diabetes
+45,F,Tigray,Mekelle,1,1,1,0,0,0,0,0,positive,positive,119,84,95,Malaria
+51,M,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,124,82,89,TB
+71,M,Amhara,Gondar,0,1,1,1,1,0,0,0,negative,negative,149,101,230,Diabetes
+47,M,Amhara,Debre Markos,0,1,0,0,0,0,0,0,negative,negative,155,104,95,Hypertension
+11,M,Addis Ababa,Kirkos,1,0,1,1,0,1,0,0,negative,negative,120,90,94,Pneumonia
+51,M,Amhara,Debre Markos,0,0,0,0,0,0,0,0,negative,negative,163,109,104,Hypertension
+73,F,Addis Ababa,Bole,1,0,0,0,0,0,0,0,negative,negative,180,97,105,Hypertension
+65,F,Tigray,Shire,1,0,1,1,0,0,1,0,negative,negative,127,80,89,TB
+41,F,Tigray,Shire,0,1,0,0,0,0,0,0,negative,negative,184,115,120,Hypertension
+50,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,130,77,97,Pneumonia
+39,F,SNNPR,Wolaita,1,0,1,1,1,0,0,0,negative,negative,130,76,101,TB
+39,F,SNNPR,Hawassa,1,1,0,0,0,0,0,0,positive,positive,115,72,100,Malaria
+65,M,Tigray,Mekelle,1,1,1,1,0,0,0,1,negative,negative,128,83,97,TB
+66,F,Oromia,Adama,1,0,0,1,0,0,1,1,negative,negative,127,82,101,Pneumonia
+33,M,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,119,80,100,TB
+37,M,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,116,82,105,TB
+59,M,Addis Ababa,Bole,1,0,1,1,0,0,0,0,negative,negative,119,76,105,TB
+34,F,Oromia,Harar,1,1,1,0,1,0,1,0,positive,positive,113,85,91,Malaria
+47,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,135,87,194,Diabetes
+66,M,Oromia,Harar,1,0,0,0,0,0,0,1,negative,negative,140,86,217,Diabetes
+45,F,Oromia,Adama,0,0,1,1,0,0,0,0,negative,negative,123,72,96,TB
+36,M,SNNPR,Dilla,0,1,1,1,0,0,0,0,negative,negative,116,75,88,TB
+66,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,123,88,104,Pneumonia
+19,F,Tigray,Mekelle,1,1,1,0,0,0,1,0,positive,positive,126,73,98,Malaria
+55,F,Tigray,Adigrat,0,0,0,0,1,0,0,0,negative,negative,181,100,97,Hypertension
+46,M,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,135,89,100,Pneumonia
+46,M,Oromia,Dire Dawa,1,1,1,1,0,0,1,0,positive,positive,116,84,95,Malaria
+28,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,125,81,105,TB
+60,F,Oromia,Adama,0,1,1,1,0,0,0,0,negative,negative,127,76,99,TB
+41,M,SNNPR,Hawassa,1,1,1,0,1,0,0,0,negative,negative,135,75,106,Typhoid
+43,F,Addis Ababa,Arada,0,0,0,0,0,0,0,0,negative,negative,188,105,111,Hypertension
+58,M,Tigray,Adigrat,0,0,1,1,0,0,0,0,negative,negative,137,85,107,Pneumonia
+53,M,Amhara,Debre Birhan,0,1,0,0,0,0,0,0,negative,negative,190,105,117,Hypertension
+37,F,Addis Ababa,Lideta,1,1,1,0,0,0,1,1,positive,positive,113,70,97,Malaria
+23,M,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,121,86,104,Typhoid
+50,M,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,120,71,85,Malaria
+56,M,Addis Ababa,Arada,0,0,0,0,0,0,0,0,negative,negative,162,104,109,Hypertension
+24,M,Amhara,Debre Birhan,1,1,1,1,1,0,1,0,negative,negative,124,76,94,Typhoid
+63,M,Addis Ababa,Yeka,1,0,1,1,0,0,0,1,negative,negative,120,83,102,TB
+60,M,Tigray,Axum,0,0,1,1,0,0,0,0,negative,negative,159,105,181,Diabetes
+37,F,Amhara,Debre Birhan,1,1,1,0,0,0,1,0,positive,positive,119,70,96,Malaria
+67,F,SNNPR,Hawassa,0,0,1,1,1,0,0,0,negative,negative,155,87,206,Diabetes
+80,M,SNNPR,Hawassa,0,0,0,0,0,0,1,0,negative,negative,151,109,117,Hypertension
+27,M,Oromia,Adama,1,1,1,1,0,0,0,0,negative,negative,125,70,97,TB
+47,M,Addis Ababa,Bole,0,1,0,1,0,0,0,0,negative,negative,155,104,119,Hypertension
+53,F,Oromia,Dire Dawa,1,1,1,1,0,0,0,0,negative,negative,140,86,90,Pneumonia
+70,M,Oromia,Adama,1,0,1,0,0,0,0,0,negative,negative,148,105,245,Diabetes
+30,M,Amhara,Debre Birhan,1,1,1,0,0,0,0,0,negative,negative,134,77,99,Typhoid
+44,F,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,170,110,109,Hypertension
+64,F,Addis Ababa,Kirkos,1,1,1,1,1,0,0,0,negative,negative,128,78,96,TB
+41,F,SNNPR,Dilla,1,1,1,1,1,0,0,0,negative,negative,126,83,110,Typhoid
+19,M,Addis Ababa,Bole,1,1,1,0,1,0,0,0,positive,positive,130,74,96,Malaria
+33,F,Amhara,Dessie,1,1,1,1,0,0,0,0,negative,negative,136,79,104,Pneumonia
+31,M,SNNPR,Wolaita,1,1,1,1,1,0,0,0,negative,negative,132,90,104,Typhoid
+17,F,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,112,78,97,Malaria
+53,F,Tigray,Shire,1,1,1,1,1,1,1,0,negative,negative,126,79,95,Typhoid
+43,M,Amhara,Dessie,1,1,1,1,1,1,0,1,negative,negative,121,79,108,Typhoid
+45,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,158,94,190,Diabetes
+48,F,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,130,89,109,Typhoid
+39,M,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,154,104,184,Diabetes
+67,M,Oromia,Dire Dawa,0,0,1,1,0,0,0,0,negative,negative,136,101,234,Diabetes
+50,F,Tigray,Wukro,1,0,1,1,1,1,0,0,negative,negative,122,84,109,Typhoid
+61,F,Amhara,Bahir Dar,0,0,1,1,1,0,0,0,negative,negative,146,88,199,Diabetes
+37,F,Addis Ababa,Arada,1,0,0,1,0,0,0,0,negative,negative,137,90,98,Pneumonia
+61,F,SNNPR,Arba Minch,0,0,1,1,0,0,0,0,negative,negative,125,71,90,TB
+5,M,Amhara,Dessie,0,1,1,1,1,1,0,0,negative,negative,139,84,109,Pneumonia
+26,F,SNNPR,Hawassa,1,1,1,0,1,0,1,0,positive,positive,115,71,96,Malaria
+20,M,Oromia,Nekemte,1,1,1,1,1,0,1,1,negative,negative,129,86,101,Typhoid
+39,M,SNNPR,Dilla,1,1,1,1,1,0,0,0,negative,negative,123,78,99,TB
+66,M,Tigray,Adigrat,1,0,0,1,0,0,0,0,negative,negative,127,85,103,Pneumonia
+58,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,123,75,91,TB
+30,M,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,135,75,107,Pneumonia
+45,F,Addis Ababa,Yeka,1,0,1,0,0,0,0,0,positive,positive,117,74,86,Malaria
+62,F,Addis Ababa,Bole,0,1,1,1,0,0,0,0,negative,negative,135,91,228,Diabetes
+41,F,Tigray,Wukro,0,1,1,1,0,0,0,0,negative,negative,148,96,226,Diabetes
+40,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,124,79,105,Pneumonia
+26,F,SNNPR,Arba Minch,0,1,1,0,0,0,1,0,positive,positive,122,73,90,Malaria
+28,F,SNNPR,Hawassa,1,1,1,0,0,0,1,0,positive,positive,129,76,90,Malaria
+47,F,Addis Ababa,Arada,0,1,1,1,0,0,0,0,negative,negative,125,83,105,TB
+71,F,Oromia,Adama,0,1,1,1,0,0,0,0,negative,negative,146,103,246,Diabetes
+57,M,Amhara,Bahir Dar,1,1,1,1,0,0,0,1,negative,negative,135,76,90,Pneumonia
+15,M,Tigray,Wukro,1,0,0,1,0,0,0,0,negative,negative,125,75,91,Pneumonia
+62,F,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,190,118,115,Hypertension
+62,F,Tigray,Adigrat,0,0,1,0,0,0,1,0,negative,negative,139,96,216,Diabetes
+6,F,SNNPR,Wolaita,1,1,1,1,1,0,0,0,negative,negative,132,82,95,Pneumonia
+64,F,Amhara,Debre Markos,1,1,1,0,0,0,0,0,negative,negative,184,120,103,Hypertension
+29,M,Amhara,Gondar,1,0,1,1,0,0,1,1,negative,negative,137,75,95,Pneumonia
+33,F,Amhara,Dessie,1,1,1,0,0,0,0,0,positive,positive,124,71,95,Malaria
+24,M,Tigray,Adigrat,1,1,1,0,0,0,1,0,positive,positive,117,82,99,Malaria
+22,M,SNNPR,Hawassa,1,0,1,0,1,1,0,1,negative,negative,123,83,105,Typhoid
+59,M,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,165,95,96,Hypertension
+65,M,Tigray,Mekelle,0,0,1,0,0,0,1,0,negative,negative,139,102,193,Diabetes
+51,M,Tigray,Wukro,1,1,1,1,1,0,0,0,negative,negative,121,90,104,Typhoid
+53,F,Amhara,Debre Birhan,0,1,1,1,0,0,0,1,negative,negative,139,99,217,Diabetes
+59,F,SNNPR,Hawassa,0,0,1,1,0,0,0,0,negative,negative,117,82,91,TB
+66,M,Addis Ababa,Yeka,0,0,1,0,1,0,0,0,negative,negative,141,88,242,Diabetes
+26,M,Addis Ababa,Arada,1,1,1,1,1,0,1,0,negative,negative,126,90,92,Typhoid
+12,F,Addis Ababa,Arada,1,0,1,1,0,0,0,1,negative,negative,126,78,93,Pneumonia
+54,F,Amhara,Gondar,0,1,0,0,0,0,0,0,negative,negative,172,116,109,Hypertension
+67,M,Amhara,Gondar,0,1,0,0,0,0,0,0,negative,negative,170,106,108,Hypertension
+67,F,Addis Ababa,Kirkos,0,1,0,0,0,0,0,0,negative,negative,152,104,114,Hypertension
+48,M,Tigray,Mekelle,1,1,1,1,0,0,1,0,positive,positive,127,74,88,Malaria
+44,F,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,112,80,100,Malaria
+51,M,Addis Ababa,Yeka,1,1,1,0,0,1,0,0,negative,negative,123,82,110,Typhoid
+35,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,149,104,244,Diabetes
+29,F,Tigray,Adigrat,1,1,1,0,0,0,1,0,positive,positive,114,74,100,Malaria
+47,F,SNNPR,Hosanna,0,0,1,1,1,0,0,0,negative,negative,137,88,232,Diabetes
+51,F,Amhara,Debre Markos,1,0,1,1,0,0,0,0,negative,negative,134,76,97,Pneumonia
+43,M,Oromia,Adama,1,1,1,1,0,1,0,0,negative,negative,129,89,105,Typhoid
+36,M,Addis Ababa,Kirkos,1,1,1,0,0,0,1,1,positive,positive,128,71,93,Malaria
+23,F,Amhara,Debre Birhan,1,1,0,1,1,0,0,0,negative,negative,123,75,99,Typhoid
+64,M,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,151,96,102,Hypertension
+54,F,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,136,105,212,Diabetes
+8,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,133,82,108,Pneumonia
+47,F,Addis Ababa,Yeka,1,1,1,1,1,1,0,0,negative,negative,124,88,94,Typhoid
+76,M,Tigray,Mekelle,0,0,1,0,0,0,0,0,negative,negative,176,108,104,Hypertension
+40,M,Amhara,Bahir Dar,1,1,0,1,0,0,0,0,negative,negative,120,86,92,Pneumonia
+70,M,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,150,103,108,Hypertension
+32,M,Oromia,Jimma,1,0,1,1,1,1,0,0,negative,negative,121,87,100,Typhoid
+9,M,SNNPR,Dilla,1,1,0,1,0,0,0,0,negative,negative,140,76,96,Pneumonia
+53,F,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,118,75,103,TB
+74,M,SNNPR,Dilla,0,1,1,0,0,0,1,0,negative,negative,160,117,118,Hypertension
+20,M,SNNPR,Wolaita,1,1,1,0,0,0,1,1,positive,positive,115,80,89,Malaria
+29,M,Oromia,Dire Dawa,1,1,0,1,1,0,0,1,negative,negative,128,75,104,Typhoid
+68,M,Addis Ababa,Arada,1,1,1,1,1,0,0,0,negative,negative,139,81,91,Pneumonia
+29,M,Tigray,Mekelle,1,1,1,0,1,1,0,0,negative,negative,125,84,109,Typhoid
+78,M,SNNPR,Hosanna,0,1,0,0,0,0,0,0,negative,negative,154,104,110,Hypertension
+27,F,Tigray,Wukro,1,1,1,1,1,0,0,1,negative,negative,129,88,109,Typhoid
+41,F,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,115,73,85,TB
+20,M,Addis Ababa,Arada,1,1,1,1,1,0,0,0,negative,negative,129,84,106,Pneumonia
+55,M,Oromia,Nekemte,0,0,1,1,0,0,0,0,negative,negative,150,86,197,Diabetes
+24,F,Addis Ababa,Yeka,1,0,0,1,0,0,0,0,negative,negative,120,81,108,Pneumonia
+61,F,Oromia,Jimma,0,1,0,0,0,0,0,0,negative,negative,169,117,105,Hypertension
+42,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,162,97,109,Hypertension
+36,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,151,89,206,Diabetes
+42,F,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,169,95,113,Hypertension
+65,M,Tigray,Axum,1,1,1,1,0,0,0,1,negative,negative,118,76,102,TB
+60,F,Tigray,Axum,0,0,1,1,0,0,0,1,negative,negative,115,85,86,TB
+39,M,Oromia,Dire Dawa,1,1,1,0,0,0,1,0,positive,positive,116,72,99,Malaria
+43,M,SNNPR,Hawassa,0,0,1,0,0,0,0,0,negative,negative,146,97,203,Diabetes
+61,F,SNNPR,Dilla,1,1,1,0,0,0,0,0,negative,negative,156,107,117,Hypertension
+35,M,Tigray,Wukro,1,1,1,0,1,0,1,0,positive,positive,128,83,98,Malaria
+56,M,Amhara,Bahir Dar,0,0,0,1,0,0,1,0,negative,negative,144,97,188,Diabetes
+41,F,Tigray,Adigrat,0,1,1,1,0,0,0,0,negative,negative,156,89,237,Diabetes
+53,F,Addis Ababa,Lideta,0,1,0,1,0,0,0,0,negative,negative,157,96,191,Diabetes
+35,F,Amhara,Debre Markos,1,0,0,1,0,0,0,0,negative,negative,135,92,235,Diabetes
+77,F,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,176,99,104,Hypertension
+48,M,Oromia,Adama,0,1,0,0,0,0,0,0,negative,negative,179,120,117,Hypertension
+62,M,SNNPR,Hosanna,0,0,1,1,0,1,0,0,negative,negative,157,101,214,Diabetes
+51,M,Oromia,Harar,1,1,1,0,1,0,0,0,negative,negative,128,89,106,Pneumonia
+48,M,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,127,70,100,Malaria
+70,F,Addis Ababa,Yeka,1,0,1,1,1,0,0,0,negative,negative,138,83,91,Pneumonia
+70,M,Addis Ababa,Bole,0,1,0,1,0,0,1,0,negative,negative,166,99,114,Hypertension
+42,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,120,71,95,TB
+24,M,SNNPR,Dilla,1,1,1,0,1,0,1,0,positive,positive,113,71,90,Malaria
+56,F,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,120,84,104,Pneumonia
+45,M,Oromia,Harar,1,0,1,1,0,0,0,1,negative,negative,140,87,104,Pneumonia
+55,M,Addis Ababa,Yeka,0,0,1,1,1,1,0,0,negative,negative,178,106,102,Hypertension
+58,F,Amhara,Bahir Dar,1,1,0,0,0,0,0,0,negative,negative,157,97,114,Hypertension
+44,M,Oromia,Jimma,1,1,0,0,0,1,0,0,negative,negative,130,83,95,Typhoid
+32,M,SNNPR,Dilla,1,1,0,0,0,0,0,0,positive,positive,115,85,88,Malaria
+54,F,Amhara,Debre Birhan,1,0,1,1,1,1,0,0,negative,negative,135,79,110,Typhoid
+40,M,SNNPR,Wolaita,0,1,1,1,0,0,0,0,negative,negative,154,112,102,Hypertension
+39,F,Oromia,Harar,1,0,1,0,1,0,1,0,positive,positive,120,72,99,Malaria
+37,M,Addis Ababa,Bole,0,0,1,1,0,0,0,0,negative,negative,129,76,89,TB
+27,M,Addis Ababa,Kirkos,1,1,1,0,0,0,1,0,positive,positive,111,80,86,Malaria
+27,F,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,116,74,100,TB
+41,F,Addis Ababa,Bole,0,1,1,0,0,0,1,0,negative,negative,187,97,98,Hypertension
+46,M,Oromia,Jimma,1,1,0,0,0,0,1,0,positive,positive,116,71,90,Malaria
+29,M,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,127,75,85,TB
+15,M,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,124,83,106,Pneumonia
+57,M,Amhara,Debre Birhan,1,1,1,1,1,0,0,0,negative,negative,137,82,96,Pneumonia
+48,M,Addis Ababa,Yeka,1,0,1,0,0,0,1,0,positive,positive,114,85,100,Malaria
+30,M,Oromia,Nekemte,1,1,1,0,0,1,0,0,negative,negative,125,80,90,Typhoid
+70,M,Oromia,Jimma,1,1,1,1,0,0,0,0,negative,negative,123,82,103,Pneumonia
+44,M,Oromia,Dire Dawa,1,1,1,1,1,1,0,0,negative,negative,126,86,98,Typhoid
+41,M,Oromia,Harar,1,1,1,1,1,1,0,0,negative,negative,125,82,92,Typhoid
+67,M,Addis Ababa,Arada,1,1,1,1,0,0,0,0,negative,negative,138,79,108,Pneumonia
+41,M,Oromia,Dire Dawa,1,1,1,0,0,0,1,0,positive,positive,112,70,98,Malaria
+28,F,Tigray,Axum,1,1,1,1,0,0,0,1,negative,negative,134,89,94,Typhoid
+65,M,Tigray,Adigrat,0,1,0,0,0,0,0,0,negative,negative,189,112,113,Hypertension
+25,F,Oromia,Harar,1,1,1,1,1,0,0,0,negative,negative,122,81,94,Typhoid
+40,M,SNNPR,Hosanna,0,0,1,1,0,0,0,0,negative,negative,116,72,96,TB
+53,F,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,117,76,99,TB
+20,F,Amhara,Debre Markos,0,1,1,0,1,0,1,0,positive,positive,110,79,98,Malaria
+74,M,SNNPR,Wolaita,0,0,1,0,1,0,0,0,negative,negative,171,108,113,Hypertension
+45,F,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,124,71,89,TB
+43,F,Amhara,Debre Birhan,0,0,1,0,0,0,0,0,negative,negative,122,73,86,TB
+61,M,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,124,73,85,TB
+68,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,138,79,108,Pneumonia
+68,F,Oromia,Dire Dawa,0,1,1,0,0,0,0,1,negative,negative,153,114,115,Hypertension
+53,M,Tigray,Axum,1,1,1,0,1,1,0,0,negative,negative,121,86,102,Typhoid
+47,F,SNNPR,Wolaita,1,1,1,1,1,1,0,0,negative,negative,133,89,99,Typhoid
+47,F,Amhara,Debre Birhan,1,1,1,0,1,1,0,0,negative,negative,132,77,90,Typhoid
+39,F,Amhara,Debre Birhan,1,1,0,1,0,0,0,0,negative,negative,129,84,105,Pneumonia
+64,M,Oromia,Adama,0,1,1,0,0,0,0,0,negative,negative,157,105,211,Diabetes
+22,F,SNNPR,Hawassa,1,1,1,0,1,0,0,0,positive,positive,121,70,93,Malaria
+23,M,Tigray,Adigrat,1,1,1,1,1,0,0,0,negative,negative,122,81,110,Typhoid
+26,M,Addis Ababa,Yeka,1,1,1,1,1,0,1,0,negative,negative,124,75,94,Typhoid
+53,F,SNNPR,Dilla,0,0,1,1,0,0,0,0,negative,negative,151,102,250,Diabetes
+47,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,183,119,105,Hypertension
+39,M,Oromia,Jimma,1,1,1,1,1,0,0,0,negative,negative,123,77,90,Typhoid
+60,M,Amhara,Bahir Dar,1,0,1,1,0,1,0,1,negative,negative,123,78,109,Pneumonia
+32,M,Tigray,Mekelle,1,1,0,0,1,1,0,0,negative,negative,127,77,93,Typhoid
+35,M,Amhara,Debre Markos,0,0,1,0,0,0,0,0,negative,negative,157,103,203,Diabetes
+18,M,Tigray,Adigrat,1,1,1,1,0,0,0,0,negative,negative,131,84,107,Pneumonia
+42,M,Tigray,Adigrat,0,1,0,0,0,0,0,0,negative,negative,177,101,97,Hypertension
+52,M,Oromia,Dire Dawa,1,1,1,1,0,0,0,0,negative,negative,125,77,101,Pneumonia
+41,M,Addis Ababa,Arada,1,1,1,1,0,1,0,0,negative,negative,132,86,105,Typhoid
+78,F,SNNPR,Hosanna,0,0,1,0,0,0,0,1,negative,negative,153,97,110,Hypertension
+41,M,SNNPR,Hosanna,0,1,0,1,1,0,0,0,negative,negative,162,104,116,Hypertension
+67,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,132,89,104,Pneumonia
+17,M,Addis Ababa,Yeka,1,1,1,0,0,0,1,0,positive,positive,127,85,100,Malaria
+45,M,SNNPR,Wolaita,0,0,1,0,0,0,1,1,negative,negative,146,96,183,Diabetes
+61,F,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,154,104,98,Hypertension
+35,M,Addis Ababa,Yeka,1,0,1,1,0,1,0,1,negative,negative,125,82,103,TB
+46,M,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,126,90,110,Pneumonia
+49,M,Tigray,Shire,1,0,1,0,0,1,0,1,positive,positive,120,78,87,Malaria
+68,F,SNNPR,Arba Minch,0,1,0,0,0,0,0,0,negative,negative,143,104,245,Diabetes
+28,M,Addis Ababa,Kirkos,1,1,0,1,0,0,0,0,negative,negative,133,76,106,Pneumonia
+43,F,Amhara,Gondar,1,1,1,1,1,0,1,0,negative,negative,133,83,99,Typhoid
+50,F,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,152,101,100,Hypertension
+33,M,Tigray,Shire,1,1,1,0,0,1,0,1,negative,negative,124,72,98,TB
+30,F,Amhara,Gondar,1,0,0,1,0,0,0,0,negative,negative,117,77,104,TB
+35,F,Addis Ababa,Arada,1,1,0,0,1,0,1,0,positive,positive,128,71,100,Malaria
+58,M,Tigray,Wukro,0,0,0,0,0,0,0,0,negative,negative,135,105,184,Diabetes
+43,M,Tigray,Wukro,0,1,0,0,0,0,0,0,negative,negative,150,107,103,Hypertension
+30,M,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,117,85,100,TB
+66,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,151,119,96,Hypertension
+51,F,Amhara,Bahir Dar,0,1,1,1,0,0,0,0,negative,negative,158,114,116,Hypertension
+45,F,SNNPR,Arba Minch,1,0,1,1,0,0,0,0,negative,negative,138,82,90,Pneumonia
+50,M,Oromia,Dire Dawa,1,1,1,0,0,0,1,0,positive,positive,128,73,85,Malaria
+73,F,SNNPR,Dilla,0,0,1,0,0,0,0,0,negative,negative,163,114,101,Hypertension
+37,F,Amhara,Dessie,0,1,0,1,0,0,0,0,negative,negative,117,70,100,TB
+40,F,Amhara,Dessie,1,1,1,1,1,1,0,0,negative,negative,121,75,98,Typhoid
+74,F,Tigray,Adigrat,0,1,0,1,0,0,0,0,negative,negative,149,89,191,Diabetes
+58,F,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,123,78,101,TB
+52,M,Tigray,Adigrat,0,1,1,1,0,1,0,0,negative,negative,116,85,93,TB
+49,F,Oromia,Dire Dawa,1,1,1,1,1,0,0,0,negative,negative,122,81,99,Typhoid
+30,F,Addis Ababa,Lideta,1,0,1,0,1,0,0,0,negative,negative,123,85,90,Typhoid
+32,F,Tigray,Wukro,0,1,1,1,0,0,0,0,negative,negative,123,70,95,TB
+43,F,Addis Ababa,Kirkos,1,1,1,0,1,1,0,0,positive,positive,122,78,90,Malaria
+45,M,Oromia,Jimma,1,1,1,0,1,1,0,0,negative,negative,129,79,101,Typhoid
+46,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,177,115,108,Hypertension
+17,F,SNNPR,Arba Minch,1,1,0,0,0,1,1,1,positive,positive,125,79,89,Malaria
+39,M,Addis Ababa,Arada,1,1,1,1,1,1,1,0,negative,negative,128,86,98,Typhoid
+40,M,Oromia,Dire Dawa,0,1,1,1,0,0,0,0,negative,negative,156,99,213,Diabetes
+36,M,Amhara,Bahir Dar,0,0,1,1,0,1,0,0,negative,negative,130,84,97,TB
+78,F,Tigray,Wukro,0,1,0,0,0,0,1,0,negative,negative,162,98,95,Hypertension
+52,M,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,180,108,95,Hypertension
+25,M,SNNPR,Dilla,1,1,1,0,0,0,1,1,positive,positive,130,83,98,Malaria
+42,M,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,133,85,107,Pneumonia
+32,F,SNNPR,Hawassa,1,0,1,0,1,0,1,0,positive,positive,117,77,95,Malaria
+64,M,Tigray,Adigrat,0,0,1,0,0,0,0,0,negative,negative,144,87,241,Diabetes
+31,M,Amhara,Debre Birhan,1,1,0,1,1,1,0,0,negative,negative,128,86,95,Typhoid
+52,M,Oromia,Nekemte,1,1,1,1,1,1,0,1,negative,negative,128,79,106,Typhoid
+41,M,SNNPR,Dilla,0,0,0,0,0,0,0,0,negative,negative,151,88,201,Diabetes
+47,M,Tigray,Axum,0,0,0,0,0,0,0,0,negative,negative,157,101,109,Hypertension
+5,M,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,136,88,97,Pneumonia
+47,F,SNNPR,Dilla,0,1,1,0,1,0,0,0,negative,negative,122,77,100,Typhoid
+50,M,SNNPR,Hawassa,1,1,0,1,0,0,0,0,negative,negative,124,83,97,TB
+75,F,Tigray,Shire,1,1,1,0,0,0,0,0,negative,negative,189,115,109,Hypertension
+62,F,Amhara,Debre Markos,1,1,1,0,0,0,0,0,negative,negative,182,112,104,Hypertension
+56,M,Oromia,Adama,0,0,1,0,0,0,0,0,negative,negative,146,93,244,Diabetes
+32,M,Oromia,Dire Dawa,1,0,1,0,0,0,0,0,negative,negative,122,81,94,TB
+61,M,SNNPR,Hosanna,0,1,1,1,0,0,0,0,negative,negative,128,72,87,TB
+42,M,SNNPR,Arba Minch,1,1,1,0,0,0,1,0,positive,positive,123,84,100,Malaria
+66,M,Amhara,Debre Birhan,0,0,1,0,0,0,0,0,negative,negative,160,112,106,Hypertension
+41,M,Oromia,Nekemte,1,1,1,0,0,0,1,0,positive,positive,114,83,86,Malaria
+43,M,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,127,85,104,TB
+28,F,SNNPR,Dilla,1,1,1,0,1,1,0,0,negative,negative,121,89,98,Typhoid
+45,M,Oromia,Harar,0,0,1,0,0,1,0,0,negative,negative,153,113,111,Hypertension
+50,M,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,130,87,108,Typhoid
+46,M,Tigray,Adigrat,1,1,1,0,1,0,1,0,positive,positive,115,78,87,Malaria
+39,F,Amhara,Bahir Dar,1,1,1,1,1,1,0,0,negative,negative,132,78,91,Typhoid
+35,M,SNNPR,Hosanna,1,1,1,1,1,1,0,0,negative,negative,127,75,98,Typhoid
+72,M,Amhara,Debre Birhan,0,1,1,0,0,0,0,0,negative,negative,152,90,211,Diabetes
+62,F,Oromia,Adama,0,0,1,0,0,1,0,0,negative,negative,143,97,224,Diabetes
+53,F,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,177,101,114,Hypertension
+55,F,Tigray,Adigrat,0,0,1,1,0,0,0,0,negative,negative,135,104,240,Diabetes
+15,M,SNNPR,Hosanna,1,1,1,0,0,0,1,1,positive,positive,124,73,96,Malaria
+50,F,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,126,77,109,Pneumonia
+59,M,Amhara,Dessie,0,1,1,0,0,1,0,0,negative,negative,157,103,113,Hypertension
+66,M,Addis Ababa,Kirkos,0,0,1,0,1,0,1,0,negative,negative,153,92,246,Diabetes
+57,M,Oromia,Harar,0,1,0,1,0,0,0,0,negative,negative,170,108,108,Hypertension
+32,F,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,125,72,103,TB
+29,F,Oromia,Jimma,1,1,1,0,1,0,1,0,positive,positive,120,78,92,Malaria
+45,M,Tigray,Mekelle,1,1,1,1,0,0,1,0,positive,positive,113,72,86,Malaria
+39,F,Oromia,Jimma,1,1,1,0,0,0,1,1,positive,positive,122,82,88,Malaria
+61,M,Addis Ababa,Lideta,1,1,1,0,0,0,0,0,negative,negative,149,101,222,Diabetes
+47,M,Oromia,Adama,0,1,1,1,0,0,0,0,negative,negative,158,104,236,Diabetes
+35,M,Oromia,Adama,1,1,1,0,1,1,0,0,negative,negative,135,84,109,Typhoid
+43,F,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,121,76,87,TB
+37,F,SNNPR,Hosanna,1,0,1,1,0,0,0,0,negative,negative,116,85,92,TB
+29,M,SNNPR,Hosanna,1,1,1,0,0,0,1,0,positive,positive,110,81,85,Malaria
+37,M,Addis Ababa,Bole,1,1,1,0,0,0,1,0,positive,positive,117,78,90,Malaria
+60,M,Amhara,Gondar,1,0,0,1,0,0,0,0,negative,negative,121,79,99,TB
+43,F,Amhara,Debre Birhan,0,0,1,0,1,1,0,0,negative,negative,126,87,101,Typhoid
+63,F,Amhara,Bahir Dar,0,0,1,1,0,0,0,0,negative,negative,119,85,91,TB
+45,F,Addis Ababa,Bole,0,1,0,0,0,0,0,0,negative,negative,183,117,110,Hypertension
+71,F,Tigray,Wukro,0,0,1,1,0,0,0,0,negative,negative,169,108,107,Hypertension
+45,F,Tigray,Wukro,1,0,1,0,0,1,0,0,negative,negative,149,99,235,Diabetes
+52,F,Tigray,Shire,1,1,1,1,0,1,0,0,negative,negative,140,77,98,Pneumonia
+26,M,Oromia,Nekemte,1,1,1,1,1,0,0,0,negative,negative,124,83,90,Typhoid
+43,F,SNNPR,Dilla,0,0,1,1,0,0,0,0,negative,negative,121,85,92,TB
+72,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,146,89,196,Diabetes
+25,F,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,116,74,89,TB
+61,F,SNNPR,Arba Minch,0,1,1,1,0,0,0,0,negative,negative,120,73,102,TB
+22,F,Oromia,Jimma,1,0,1,1,1,1,0,0,negative,negative,120,80,100,Typhoid
+55,M,Oromia,Jimma,1,1,1,0,0,0,0,0,negative,negative,135,80,109,Pneumonia
+54,M,Addis Ababa,Arada,0,1,1,1,0,0,0,0,negative,negative,150,99,239,Diabetes
+37,M,Tigray,Adigrat,0,0,1,0,0,0,0,0,negative,negative,154,98,238,Diabetes
+28,M,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,126,90,103,Pneumonia
+42,F,Oromia,Adama,0,0,1,1,0,1,1,0,negative,negative,156,99,228,Diabetes
+50,M,SNNPR,Hawassa,1,1,0,1,0,0,1,0,negative,negative,122,84,89,TB
+40,M,Amhara,Bahir Dar,1,1,1,1,0,0,1,0,negative,negative,134,86,95,Pneumonia
+22,M,SNNPR,Hawassa,1,1,1,0,0,1,0,1,negative,negative,120,76,102,Typhoid
+35,F,Amhara,Gondar,1,1,0,1,1,0,0,0,negative,negative,125,80,91,Typhoid
+70,M,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,125,75,102,Pneumonia
+60,M,SNNPR,Arba Minch,0,1,0,0,0,1,0,0,negative,negative,188,110,98,Hypertension
+74,M,Tigray,Mekelle,0,0,0,0,0,0,0,0,negative,negative,170,116,110,Hypertension
+36,M,Addis Ababa,Lideta,1,1,1,0,0,1,1,0,positive,positive,113,79,92,Malaria
+67,M,Addis Ababa,Bole,1,1,1,0,0,1,0,0,negative,negative,178,118,105,Hypertension
+37,F,Oromia,Harar,1,1,1,0,1,0,0,0,negative,negative,121,82,97,Typhoid
+59,F,Amhara,Dessie,0,1,1,0,1,0,0,0,negative,negative,140,103,250,Diabetes
+35,M,SNNPR,Dilla,1,1,1,1,1,1,0,0,negative,negative,128,90,92,Typhoid
+50,F,Amhara,Dessie,1,0,1,1,0,0,1,0,negative,negative,117,79,104,TB
+44,M,Tigray,Adigrat,0,0,1,0,1,0,0,0,negative,negative,141,85,181,Diabetes
+58,F,SNNPR,Dilla,0,0,1,0,0,0,0,1,negative,negative,138,97,200,Diabetes
+47,F,Tigray,Wukro,1,1,1,1,1,1,0,0,negative,negative,131,75,110,Typhoid
+36,F,Amhara,Debre Markos,1,1,1,1,1,1,0,0,negative,negative,122,81,103,Typhoid
+47,F,Tigray,Wukro,0,1,1,1,1,0,0,1,negative,negative,131,79,98,Typhoid
+53,F,Tigray,Mekelle,0,0,1,1,0,0,0,0,negative,negative,160,100,106,Hypertension
+28,M,SNNPR,Arba Minch,1,1,1,1,1,0,0,0,negative,negative,133,89,110,Typhoid
+41,M,Oromia,Nekemte,1,1,1,1,0,0,0,1,negative,negative,143,85,185,Diabetes
+28,M,SNNPR,Hosanna,1,0,1,0,0,0,1,0,positive,positive,120,80,92,Malaria
+50,F,Addis Ababa,Bole,0,0,1,1,0,0,0,0,negative,negative,115,73,101,TB
+40,F,SNNPR,Hosanna,1,0,1,1,1,0,0,0,negative,negative,126,71,95,TB
+68,M,Addis Ababa,Arada,0,1,1,0,0,0,0,0,negative,negative,156,118,107,Hypertension
+63,M,Amhara,Debre Birhan,0,0,1,1,0,1,0,0,negative,negative,129,75,99,TB
+45,M,Amhara,Gondar,1,0,1,0,0,1,0,0,positive,positive,122,78,92,Malaria
+56,F,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,154,115,105,Hypertension
+53,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,124,85,102,Pneumonia
+35,F,Oromia,Harar,0,0,0,0,0,0,0,0,negative,negative,154,103,208,Diabetes
+40,M,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,111,80,94,Malaria
+42,F,Addis Ababa,Arada,0,1,1,0,1,0,0,0,negative,negative,158,92,186,Diabetes
+51,F,Tigray,Axum,0,1,1,0,0,0,0,0,negative,negative,129,84,96,Typhoid
+75,F,Oromia,Jimma,0,0,0,1,0,0,0,0,negative,negative,178,117,110,Hypertension
+34,M,Amhara,Gondar,0,1,1,1,0,0,0,0,negative,negative,128,75,86,TB
+37,F,Amhara,Bahir Dar,1,1,1,0,1,0,1,0,positive,positive,122,85,94,Malaria
+78,M,SNNPR,Hawassa,0,0,0,0,0,0,0,1,negative,negative,181,115,116,Hypertension
+49,M,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,144,103,196,Diabetes
+35,M,Addis Ababa,Kirkos,1,1,1,0,0,0,1,0,positive,positive,127,73,91,Malaria
+47,M,Addis Ababa,Kirkos,1,1,1,1,0,0,1,0,negative,negative,152,97,98,Hypertension
+54,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,149,89,242,Diabetes
+60,F,Addis Ababa,Lideta,0,1,0,1,1,0,0,0,negative,negative,158,114,112,Hypertension
+42,F,Amhara,Debre Birhan,1,1,1,0,1,1,0,0,negative,negative,124,81,92,Typhoid
+57,M,Tigray,Wukro,0,0,0,0,0,0,0,1,negative,negative,188,102,97,Hypertension
+32,M,Addis Ababa,Arada,1,0,1,1,0,0,0,1,negative,negative,127,77,97,TB
+22,M,Addis Ababa,Yeka,1,1,1,0,0,0,1,1,positive,positive,111,75,95,Malaria
+28,F,Addis Ababa,Lideta,1,0,1,1,1,0,0,0,negative,negative,132,83,91,Pneumonia
+80,F,Amhara,Debre Birhan,0,1,1,0,0,0,0,0,negative,negative,164,104,115,Hypertension
+34,F,Tigray,Mekelle,1,1,1,1,0,1,1,0,positive,positive,110,83,89,Malaria
+68,M,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,136,76,109,Pneumonia
+26,M,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,127,78,99,Pneumonia
+55,F,Tigray,Axum,1,0,1,1,0,0,0,0,negative,negative,129,85,86,TB
+25,F,Tigray,Shire,1,1,1,1,0,0,0,1,negative,negative,119,83,88,TB
+5,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,134,80,94,Pneumonia
+52,M,Tigray,Axum,1,1,1,1,0,1,0,0,negative,negative,123,73,98,TB
+68,M,Tigray,Adigrat,1,0,1,1,0,0,1,0,negative,negative,136,75,97,Pneumonia
+36,F,Addis Ababa,Bole,1,1,1,0,1,0,1,0,positive,positive,113,78,92,Malaria
+67,M,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,152,103,101,Hypertension
+47,M,Addis Ababa,Kirkos,1,1,1,1,1,1,0,0,negative,negative,133,76,99,Typhoid
+32,F,Tigray,Shire,1,1,1,0,1,0,1,0,positive,positive,118,73,98,Malaria
+36,F,Tigray,Shire,1,1,1,1,0,1,0,0,negative,negative,131,82,110,Typhoid
+38,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,118,72,102,TB
+56,F,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,152,96,226,Diabetes
+20,F,Oromia,Dire Dawa,1,0,1,1,0,0,0,1,negative,negative,138,76,96,Pneumonia
+65,F,Addis Ababa,Lideta,0,1,0,0,0,0,0,0,negative,negative,160,113,101,Hypertension
+35,F,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,155,89,215,Diabetes
+37,M,Amhara,Gondar,1,1,1,0,1,1,0,0,negative,negative,124,88,109,Typhoid
+45,M,Oromia,Nekemte,1,0,1,0,0,0,0,0,negative,negative,118,82,105,TB
+65,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,119,85,87,TB
+28,F,Amhara,Gondar,1,1,1,1,1,0,0,0,negative,negative,139,81,92,Pneumonia
+24,F,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,120,78,90,Typhoid
+42,M,Amhara,Bahir Dar,0,0,1,0,1,0,0,0,negative,negative,155,101,99,Hypertension
+61,M,Tigray,Shire,1,1,1,1,0,1,1,0,negative,negative,123,88,94,Pneumonia
+29,M,Amhara,Dessie,1,1,1,0,0,0,0,0,positive,positive,125,75,88,Malaria
+26,F,Tigray,Mekelle,1,1,0,0,0,0,0,0,negative,negative,125,88,94,Typhoid
+59,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,159,119,115,Hypertension
+40,M,SNNPR,Dilla,1,1,1,1,1,0,0,1,negative,negative,124,80,102,Typhoid
+45,F,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,130,85,102,TB
+49,F,Oromia,Harar,0,0,1,0,0,1,0,0,negative,negative,135,96,240,Diabetes
+27,M,Tigray,Shire,1,0,1,1,1,0,0,0,negative,negative,127,81,97,Typhoid
+23,M,Amhara,Dessie,1,1,1,1,1,0,1,0,positive,positive,115,70,89,Malaria
+34,M,Amhara,Bahir Dar,1,0,1,1,0,0,0,0,negative,negative,130,83,95,TB
+6,F,Oromia,Jimma,1,0,1,1,0,0,0,0,negative,negative,134,83,108,Pneumonia
+54,M,SNNPR,Arba Minch,0,1,1,0,0,0,1,0,negative,negative,158,102,189,Diabetes
+69,F,Tigray,Adigrat,0,1,0,0,0,0,1,0,negative,negative,171,95,102,Hypertension
+35,M,Oromia,Jimma,1,0,1,1,0,1,0,0,negative,negative,116,85,86,TB
+35,M,Tigray,Mekelle,0,1,0,0,0,0,1,0,positive,positive,113,80,98,Malaria
+72,M,Addis Ababa,Kirkos,1,0,1,0,1,0,0,1,negative,negative,190,97,117,Hypertension
+33,M,Amhara,Debre Birhan,1,1,1,0,1,0,0,0,negative,negative,133,76,102,Typhoid
+33,M,Amhara,Debre Birhan,1,1,1,1,0,1,0,0,negative,negative,122,90,93,Typhoid
+45,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,134,79,93,Pneumonia
+66,M,Tigray,Shire,0,0,0,1,0,0,0,0,negative,negative,156,98,244,Diabetes
+38,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,122,82,102,Pneumonia
+16,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,126,87,100,Pneumonia
+35,F,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,128,71,97,Malaria
+38,F,SNNPR,Arba Minch,1,1,0,0,1,0,1,1,positive,positive,122,72,94,Malaria
+68,F,Addis Ababa,Kirkos,0,1,0,1,0,0,0,0,negative,negative,172,108,110,Hypertension
+25,F,Tigray,Wukro,1,1,1,1,1,0,0,0,negative,negative,130,75,94,Pneumonia
+23,F,Tigray,Mekelle,1,0,1,1,0,0,0,0,negative,negative,140,78,91,Pneumonia
+32,F,Addis Ababa,Kirkos,1,1,1,1,1,0,0,0,negative,negative,129,84,106,Typhoid
+46,F,SNNPR,Dilla,1,1,1,0,0,0,1,0,positive,positive,127,75,98,Malaria
+41,F,Tigray,Wukro,0,0,1,1,0,1,1,0,negative,negative,123,90,109,Pneumonia
+41,F,Addis Ababa,Lideta,0,0,0,1,0,0,0,0,negative,negative,138,96,239,Diabetes
+55,M,Tigray,Axum,1,1,1,1,0,0,0,1,negative,negative,133,76,90,Pneumonia
+24,F,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,111,83,89,Malaria
+64,M,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,190,103,112,Hypertension
+40,M,Oromia,Adama,1,1,1,1,1,1,0,0,negative,negative,120,79,104,Typhoid
+80,F,Amhara,Gondar,0,1,1,0,0,0,0,0,negative,negative,153,103,97,Hypertension
+21,M,Oromia,Dire Dawa,1,1,1,1,1,1,0,0,negative,negative,126,87,93,Typhoid
+7,F,Oromia,Dire Dawa,0,1,1,1,0,0,0,0,negative,negative,120,80,108,Pneumonia
+78,M,Oromia,Nekemte,0,1,0,0,0,0,0,0,negative,negative,151,112,95,Hypertension
+67,M,Amhara,Debre Markos,0,1,1,1,0,0,0,0,negative,negative,137,96,250,Diabetes
+58,F,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,187,120,119,Hypertension
+54,M,Amhara,Dessie,0,0,1,1,0,0,0,0,negative,negative,146,96,188,Diabetes
+26,M,Addis Ababa,Yeka,1,1,1,1,0,0,1,0,negative,negative,130,88,95,Pneumonia
+40,M,Amhara,Debre Markos,1,0,1,1,1,0,0,0,negative,negative,122,72,97,TB
+63,M,Addis Ababa,Kirkos,1,1,1,1,0,1,0,0,negative,negative,128,80,95,TB
+32,M,SNNPR,Dilla,1,1,1,1,1,1,0,1,negative,negative,120,75,104,Typhoid
+33,F,Oromia,Harar,0,1,1,1,1,0,0,0,negative,negative,126,82,87,TB
+55,F,Addis Ababa,Bole,0,0,1,0,0,0,0,0,negative,negative,135,92,186,Diabetes
+23,M,Tigray,Adigrat,1,1,1,0,0,0,1,0,positive,positive,111,78,86,Malaria
+18,F,Oromia,Nekemte,1,1,1,0,1,0,1,0,positive,positive,114,83,99,Malaria
+47,M,Addis Ababa,Arada,0,0,1,0,0,0,0,1,negative,negative,185,102,116,Hypertension
+53,M,Oromia,Dire Dawa,1,1,1,0,0,0,0,0,negative,negative,183,111,105,Hypertension
+54,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,123,83,90,TB
+59,M,Amhara,Dessie,0,0,1,0,0,1,0,0,negative,negative,166,98,112,Hypertension
+37,F,Amhara,Gondar,1,1,1,0,0,1,1,0,positive,positive,116,79,91,Malaria
+27,F,Addis Ababa,Lideta,1,1,1,1,0,0,1,1,negative,negative,128,82,92,Pneumonia
+41,F,Amhara,Debre Birhan,0,0,1,1,0,0,0,0,negative,negative,141,96,216,Diabetes
+78,F,Oromia,Adama,0,0,0,0,0,0,0,0,negative,negative,160,100,105,Hypertension
+23,M,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,138,75,105,Pneumonia
+50,M,Oromia,Adama,1,0,1,1,1,1,1,0,negative,negative,130,89,105,Typhoid
+62,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,188,110,98,Hypertension
+58,M,Amhara,Dessie,0,0,1,1,0,0,0,0,negative,negative,117,76,97,TB
+46,F,Addis Ababa,Arada,0,0,1,0,0,0,0,0,negative,negative,167,104,101,Hypertension
+48,F,Addis Ababa,Bole,1,1,0,0,1,0,1,0,positive,positive,124,74,94,Malaria
+70,M,Tigray,Adigrat,0,0,1,1,0,0,1,0,negative,negative,148,96,180,Diabetes
+31,M,Tigray,Shire,1,1,0,0,0,0,1,0,positive,positive,123,72,94,Malaria
+22,F,Tigray,Axum,1,1,1,0,1,1,0,0,negative,negative,133,85,108,Typhoid
+32,F,Amhara,Dessie,1,1,1,1,1,1,0,0,negative,negative,133,78,94,Typhoid
+63,F,Addis Ababa,Yeka,0,0,1,0,1,0,0,0,negative,negative,159,89,218,Diabetes
+52,F,Amhara,Debre Birhan,1,1,1,0,1,1,1,0,negative,negative,134,76,92,Typhoid
+32,M,Tigray,Wukro,1,1,1,0,1,0,1,0,positive,positive,111,76,89,Malaria
+66,M,Amhara,Gondar,0,1,0,1,0,0,0,1,negative,negative,154,88,246,Diabetes
+30,M,Oromia,Dire Dawa,1,1,1,0,1,0,1,0,positive,positive,127,78,99,Malaria
+79,M,SNNPR,Arba Minch,0,1,0,0,0,0,0,0,negative,negative,168,104,116,Hypertension
+46,F,Tigray,Adigrat,1,1,1,0,1,0,1,0,positive,positive,128,79,86,Malaria
+79,F,Oromia,Nekemte,0,1,0,0,0,0,0,0,negative,negative,172,117,111,Hypertension
+70,M,Amhara,Gondar,1,0,1,1,0,0,0,0,negative,negative,132,77,110,Pneumonia
+53,F,Addis Ababa,Kirkos,1,0,1,1,0,0,0,0,negative,negative,139,87,92,Pneumonia
+16,M,Amhara,Bahir Dar,1,1,1,0,1,0,0,0,positive,positive,113,75,97,Malaria
+13,M,Addis Ababa,Yeka,1,0,1,1,0,0,0,0,negative,negative,134,87,94,Pneumonia
+76,M,Amhara,Debre Markos,0,1,1,0,0,0,0,1,negative,negative,151,115,116,Hypertension
+28,M,Amhara,Bahir Dar,1,1,1,1,1,0,0,0,positive,positive,125,76,91,Malaria
+65,F,Tigray,Wukro,0,0,0,0,0,0,0,0,negative,negative,151,94,192,Diabetes
+46,M,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,115,79,87,Malaria
+71,M,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,135,86,223,Diabetes
+38,M,Tigray,Mekelle,1,1,1,1,0,0,0,1,negative,negative,138,76,101,Pneumonia
+41,M,Addis Ababa,Arada,1,1,1,1,0,0,1,0,positive,positive,117,70,86,Malaria
+27,F,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,129,81,96,Malaria
+41,F,Oromia,Jimma,1,1,1,0,0,0,0,0,negative,negative,120,82,91,Typhoid
+18,M,SNNPR,Arba Minch,1,1,1,0,0,0,1,0,positive,positive,112,72,93,Malaria
+48,F,Tigray,Axum,0,1,1,0,0,0,0,0,negative,negative,152,101,193,Diabetes
+37,F,Addis Ababa,Arada,1,1,1,0,1,0,1,0,positive,positive,114,71,92,Malaria
+68,F,Oromia,Adama,0,1,1,0,0,1,0,0,negative,negative,181,95,107,Hypertension
+61,M,Amhara,Gondar,1,0,1,1,1,0,0,0,negative,negative,130,83,108,Pneumonia
+21,F,Addis Ababa,Arada,1,1,0,0,0,1,0,0,negative,negative,129,89,103,Typhoid
+71,F,Amhara,Dessie,0,0,1,0,0,0,0,0,negative,negative,159,102,217,Diabetes
+61,F,Oromia,Harar,1,1,1,1,0,1,0,0,negative,negative,123,75,99,TB
+7,F,Oromia,Dire Dawa,1,1,1,1,0,0,1,0,negative,negative,137,85,92,Pneumonia
+28,F,Tigray,Shire,1,1,1,1,0,1,0,1,negative,negative,136,89,108,Pneumonia
+27,M,Oromia,Nekemte,0,1,1,1,0,1,0,0,negative,negative,129,73,101,TB
+30,M,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,120,83,96,Malaria
+42,M,Amhara,Debre Markos,1,0,0,1,0,0,0,0,negative,negative,136,86,96,Pneumonia
+9,M,SNNPR,Hawassa,0,0,0,1,0,0,0,0,negative,negative,123,76,109,Pneumonia
+61,F,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,123,82,104,Pneumonia
+66,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,158,112,102,Hypertension
+22,F,Tigray,Shire,1,1,1,0,0,0,0,0,negative,negative,134,75,95,Pneumonia
+41,F,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,122,83,96,Malaria
+45,M,Tigray,Mekelle,1,1,1,0,1,0,1,0,negative,negative,134,88,110,Typhoid
+60,F,SNNPR,Arba Minch,1,0,1,1,0,0,1,0,negative,negative,140,89,102,Pneumonia
+53,M,Addis Ababa,Lideta,1,0,1,1,1,0,0,0,negative,negative,128,79,95,TB
+45,M,Amhara,Bahir Dar,1,0,0,1,0,0,0,1,negative,negative,129,80,93,Pneumonia
+42,F,SNNPR,Arba Minch,0,1,0,0,0,0,0,0,negative,negative,121,75,85,TB
+37,M,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,144,88,195,Diabetes
+60,F,Tigray,Mekelle,1,0,1,1,0,1,0,0,negative,negative,130,80,106,Pneumonia
+42,F,Addis Ababa,Bole,0,1,0,1,0,0,0,0,negative,negative,116,70,92,TB
+44,M,Amhara,Debre Markos,1,1,1,1,1,0,1,0,negative,negative,126,75,103,Typhoid
+46,M,Amhara,Bahir Dar,1,1,1,0,0,0,1,0,positive,positive,119,77,94,Malaria
+71,F,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,170,102,116,Hypertension
+19,M,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,127,75,99,Pneumonia
+57,M,SNNPR,Hawassa,1,1,1,1,0,0,0,1,negative,negative,130,77,95,TB
+42,F,SNNPR,Dilla,0,0,1,0,0,0,0,0,negative,negative,184,95,118,Hypertension
+39,M,Tigray,Shire,1,1,1,0,0,0,1,0,positive,positive,117,79,90,Malaria
+46,F,Amhara,Debre Birhan,0,0,1,1,0,0,0,0,negative,negative,120,79,94,TB
+29,M,Oromia,Nekemte,1,1,1,0,0,0,0,1,positive,positive,126,83,85,Malaria
+49,M,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,116,73,93,Malaria
+76,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,181,118,107,Hypertension
+59,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,117,73,102,TB
+33,F,Addis Ababa,Kirkos,1,1,1,1,0,0,1,0,negative,negative,133,84,100,Typhoid
+22,F,Addis Ababa,Lideta,1,1,1,0,0,1,0,0,negative,negative,130,89,105,Typhoid
+70,M,Oromia,Dire Dawa,0,1,1,1,0,0,0,0,negative,negative,136,98,243,Diabetes
+53,F,Amhara,Debre Birhan,1,1,1,0,0,0,0,0,negative,negative,131,80,94,Typhoid
+58,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,130,70,95,TB
+27,M,SNNPR,Hawassa,0,1,1,1,1,0,1,0,negative,negative,139,80,92,Pneumonia
+65,M,Tigray,Mekelle,0,1,1,1,0,0,0,0,negative,negative,123,76,87,TB
+44,M,Amhara,Debre Markos,0,0,1,0,0,0,0,0,negative,negative,154,93,240,Diabetes
+30,M,Amhara,Gondar,1,1,1,1,0,1,0,1,negative,negative,134,88,105,Typhoid
+44,M,Amhara,Debre Birhan,1,0,1,1,0,0,1,0,negative,negative,121,75,105,TB
+34,F,Addis Ababa,Arada,1,0,1,1,0,0,1,0,negative,negative,129,81,98,TB
+55,M,SNNPR,Wolaita,1,1,1,1,1,1,0,1,negative,negative,131,83,106,Typhoid
+32,M,Tigray,Adigrat,1,0,1,0,1,0,1,0,positive,positive,125,84,100,Malaria
+50,M,Oromia,Nekemte,1,0,1,0,0,1,0,0,negative,negative,121,89,110,Typhoid
+43,F,Oromia,Harar,0,0,0,0,0,0,0,0,negative,negative,160,113,118,Hypertension
+58,M,SNNPR,Dilla,0,0,1,1,0,0,1,0,negative,negative,123,76,101,TB
+27,M,Tigray,Shire,1,1,1,1,1,0,1,0,negative,negative,125,77,95,Pneumonia
+62,M,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,121,74,94,TB
+39,F,Amhara,Debre Markos,1,1,1,0,0,0,1,0,positive,positive,118,72,100,Malaria
+62,F,Tigray,Wukro,1,0,1,1,0,0,0,0,negative,negative,128,81,105,TB
+58,M,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,183,116,115,Hypertension
+50,M,SNNPR,Hosanna,1,1,1,0,1,1,0,0,negative,negative,125,88,105,Typhoid
+46,M,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,127,85,92,TB
+48,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,127,70,90,TB
+45,F,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,159,89,224,Diabetes
+55,M,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,124,86,90,Pneumonia
+25,F,Oromia,Dire Dawa,1,1,1,1,0,0,0,0,negative,negative,132,79,100,Pneumonia
+45,F,Tigray,Adigrat,1,1,1,0,0,1,0,0,negative,negative,127,86,101,Typhoid
+57,M,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,120,83,89,TB
+44,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,118,82,85,TB
+40,M,Addis Ababa,Lideta,1,1,1,0,1,0,0,0,negative,negative,123,89,106,Typhoid
+55,F,Addis Ababa,Yeka,1,1,1,1,0,1,1,0,negative,negative,123,76,101,TB
+64,F,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,144,85,249,Diabetes
+36,F,Tigray,Adigrat,1,1,1,1,0,1,0,0,negative,negative,117,73,89,TB
+49,F,SNNPR,Wolaita,0,1,0,0,0,0,0,0,negative,negative,152,97,105,Hypertension
+27,M,Addis Ababa,Bole,1,0,1,1,0,0,1,0,negative,negative,123,72,98,TB
+27,F,Tigray,Wukro,1,1,1,0,0,0,0,0,positive,positive,115,78,86,Malaria
+60,M,Tigray,Shire,1,1,1,0,0,0,0,0,negative,negative,138,92,208,Diabetes
+35,M,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,110,80,95,Malaria
+47,F,Amhara,Dessie,0,1,1,1,0,0,0,0,negative,negative,117,85,102,TB
+30,M,Addis Ababa,Yeka,1,0,1,1,0,0,0,0,negative,negative,128,70,94,TB
+66,M,SNNPR,Hosanna,0,0,0,1,0,0,0,0,negative,negative,140,97,250,Diabetes
+50,M,SNNPR,Hosanna,1,0,1,1,0,0,0,0,negative,negative,137,87,97,Pneumonia
+68,F,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,123,87,108,Pneumonia
+66,F,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,170,114,102,Hypertension
+50,M,Tigray,Mekelle,1,0,1,1,0,0,0,0,negative,negative,127,80,105,Typhoid
+52,F,Amhara,Debre Markos,1,1,1,0,0,0,0,0,negative,negative,179,111,115,Hypertension
+36,M,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,123,78,88,Malaria
+78,M,SNNPR,Dilla,0,1,0,0,0,1,0,0,negative,negative,190,115,109,Hypertension
+20,M,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,135,81,98,Pneumonia
+36,M,SNNPR,Dilla,1,1,1,0,0,0,1,0,positive,positive,111,74,89,Malaria
+53,M,Amhara,Debre Markos,0,0,1,0,0,0,0,0,negative,negative,139,89,198,Diabetes
+53,F,Tigray,Axum,1,1,1,0,0,0,0,0,negative,negative,147,100,201,Diabetes
+34,F,Addis Ababa,Yeka,1,0,1,1,0,0,0,0,negative,negative,117,80,92,TB
+38,M,Amhara,Debre Markos,1,0,1,1,0,0,0,1,negative,negative,122,76,96,TB
+42,F,Oromia,Nekemte,0,1,0,0,0,1,0,0,negative,negative,183,102,102,Hypertension
+36,M,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,119,79,86,TB
+34,M,Addis Ababa,Lideta,1,1,1,1,0,1,0,0,negative,negative,135,81,93,Typhoid
+72,M,Addis Ababa,Arada,0,1,1,0,0,0,0,0,negative,negative,155,104,238,Diabetes
+31,F,Addis Ababa,Yeka,1,1,1,0,0,0,0,0,positive,positive,118,79,99,Malaria
+26,F,Oromia,Nekemte,1,1,1,0,0,0,1,0,positive,positive,120,75,91,Malaria
+29,M,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,116,82,90,Malaria
+30,F,Addis Ababa,Arada,1,1,1,1,0,1,0,0,negative,negative,124,84,100,Typhoid
+62,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,179,119,103,Hypertension
+27,M,Tigray,Shire,1,1,1,0,0,0,0,0,positive,positive,124,78,88,Malaria
+30,M,Tigray,Adigrat,1,1,0,0,0,0,0,0,positive,positive,117,78,97,Malaria
+21,M,Tigray,Shire,1,1,1,0,0,1,0,0,positive,positive,114,74,94,Malaria
+47,M,SNNPR,Arba Minch,0,0,1,0,0,0,0,0,negative,negative,160,95,226,Diabetes
+32,M,Tigray,Adigrat,1,1,1,0,0,0,0,0,negative,negative,140,88,103,Pneumonia
+67,M,Addis Ababa,Bole,0,1,1,1,1,0,0,0,negative,negative,135,84,108,Pneumonia
+65,M,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,121,72,98,TB
+54,F,Amhara,Debre Markos,1,0,1,1,0,0,0,1,negative,negative,124,70,104,TB
+7,M,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,138,86,108,Pneumonia
+32,M,Amhara,Debre Markos,1,1,1,0,0,1,0,0,negative,negative,130,82,96,Typhoid
+39,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,120,89,96,Typhoid
+11,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,125,81,93,Pneumonia
+50,F,SNNPR,Arba Minch,1,1,1,1,0,0,1,0,negative,negative,133,87,93,Pneumonia
+48,F,Oromia,Dire Dawa,0,0,1,1,0,0,0,1,negative,negative,123,80,86,TB
+35,M,Addis Ababa,Bole,1,1,1,0,1,0,0,0,negative,negative,131,88,95,Typhoid
+27,M,Addis Ababa,Kirkos,1,0,1,1,0,0,0,0,negative,negative,140,86,98,Pneumonia
+55,M,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,140,90,192,Diabetes
+37,M,Oromia,Dire Dawa,0,1,1,0,0,0,1,0,positive,positive,130,70,94,Malaria
+65,F,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,127,79,94,Pneumonia
+25,M,SNNPR,Wolaita,1,1,1,1,1,1,0,0,negative,negative,128,79,100,Typhoid
+52,M,Addis Ababa,Bole,1,0,1,1,0,1,0,0,negative,negative,127,80,102,Pneumonia
+25,F,SNNPR,Wolaita,1,0,0,1,0,0,0,0,negative,negative,123,80,95,TB
+36,F,SNNPR,Hosanna,1,1,1,0,1,0,0,1,negative,negative,124,78,97,Typhoid
+19,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,136,81,94,Pneumonia
+54,M,Amhara,Debre Markos,0,0,1,0,1,0,0,0,negative,negative,183,100,106,Hypertension
+26,M,Addis Ababa,Kirkos,1,1,1,0,1,0,0,0,negative,negative,132,84,102,Typhoid
+61,F,SNNPR,Wolaita,0,0,1,1,0,0,0,0,negative,negative,137,86,232,Diabetes
+29,F,Amhara,Gondar,1,1,1,1,1,1,0,0,negative,negative,124,87,93,Typhoid
+77,M,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,164,116,109,Hypertension
+32,F,Amhara,Bahir Dar,0,0,1,1,0,1,0,0,negative,negative,129,83,103,TB
+51,F,Amhara,Debre Birhan,1,0,1,1,1,0,0,0,negative,negative,133,88,91,Typhoid
+46,F,Tigray,Shire,0,1,0,0,0,1,0,0,negative,negative,187,110,102,Hypertension
+62,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,160,105,192,Diabetes
+41,M,Amhara,Debre Markos,0,0,1,0,0,1,0,0,negative,negative,149,103,246,Diabetes
+40,F,Oromia,Jimma,1,1,0,1,0,0,0,0,positive,positive,118,81,96,Malaria
+40,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,127,81,90,TB
+16,F,Tigray,Wukro,1,0,0,1,0,0,1,0,negative,negative,139,90,110,Pneumonia
+44,M,Tigray,Adigrat,1,1,1,0,0,1,0,0,negative,negative,129,80,102,Typhoid
+39,M,Oromia,Adama,0,0,1,0,0,0,0,0,negative,negative,147,88,217,Diabetes
+71,M,Tigray,Axum,0,1,1,0,0,0,0,0,negative,negative,142,92,236,Diabetes
+53,M,Oromia,Nekemte,0,1,0,0,0,0,0,0,negative,negative,183,113,107,Hypertension
+76,F,Tigray,Shire,0,1,1,0,0,0,0,0,negative,negative,158,105,117,Hypertension
+54,M,Oromia,Harar,1,1,1,0,1,1,0,0,negative,negative,127,89,98,Typhoid
+38,F,Addis Ababa,Arada,0,0,0,1,0,0,1,0,negative,negative,157,89,188,Diabetes
+62,M,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,178,104,112,Hypertension
+59,F,Amhara,Debre Birhan,0,1,1,0,0,0,0,0,negative,negative,153,117,119,Hypertension
+62,M,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,115,85,88,TB
+30,M,SNNPR,Hosanna,0,0,1,1,0,0,0,0,negative,negative,120,83,93,TB
+16,M,Tigray,Adigrat,1,1,1,1,0,1,0,0,negative,negative,121,76,101,Pneumonia
+25,M,Addis Ababa,Bole,1,1,1,0,0,0,0,0,positive,positive,129,85,90,Malaria
+48,F,Oromia,Jimma,0,0,0,0,0,0,0,0,negative,negative,135,104,184,Diabetes
+42,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,149,102,229,Diabetes
+19,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,138,78,106,Pneumonia
+35,F,Addis Ababa,Kirkos,1,1,1,0,0,0,1,0,positive,positive,125,73,95,Malaria
+65,F,Tigray,Adigrat,0,0,1,0,0,1,0,0,negative,negative,153,103,249,Diabetes
+40,M,Addis Ababa,Bole,1,1,1,0,1,0,0,0,negative,negative,125,86,91,Typhoid
+26,F,Amhara,Gondar,1,1,1,1,1,1,0,0,negative,negative,123,84,90,Typhoid
+41,M,SNNPR,Arba Minch,1,1,1,1,1,0,0,0,negative,negative,129,81,110,Typhoid
+57,F,Oromia,Dire Dawa,0,1,0,0,0,0,1,0,negative,negative,152,117,119,Hypertension
+21,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,132,84,107,Pneumonia
+43,F,Oromia,Adama,1,0,1,1,0,0,0,1,negative,negative,130,73,88,TB
+22,F,Amhara,Bahir Dar,1,1,1,0,1,1,0,1,negative,negative,126,81,100,Typhoid
+15,M,Tigray,Shire,1,1,1,0,0,0,1,1,positive,positive,115,76,95,Malaria
+68,M,SNNPR,Hawassa,0,1,1,0,0,0,0,1,negative,negative,183,112,95,Hypertension
+45,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,142,105,184,Diabetes
+69,M,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,146,105,238,Diabetes
+24,F,Addis Ababa,Yeka,1,1,1,0,0,0,0,0,negative,negative,133,84,94,Pneumonia
+44,F,Addis Ababa,Kirkos,0,1,1,0,0,0,1,0,positive,positive,122,84,96,Malaria
+45,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,128,81,105,TB
+38,F,Amhara,Dessie,1,0,1,1,0,0,1,0,negative,negative,120,82,101,TB
+28,F,Oromia,Jimma,1,0,1,1,0,0,0,0,negative,negative,126,79,103,Pneumonia
+54,M,Amhara,Dessie,1,0,1,1,0,0,0,1,negative,negative,115,71,95,TB
+35,F,Amhara,Gondar,0,1,1,0,0,0,1,0,positive,positive,115,79,94,Malaria
+50,M,Amhara,Gondar,1,1,1,0,0,0,0,0,positive,positive,117,73,89,Malaria
+17,M,Amhara,Dessie,1,1,1,1,0,0,0,0,negative,negative,134,75,105,Pneumonia
+76,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,162,115,105,Hypertension
+30,F,Addis Ababa,Arada,1,0,1,1,0,0,0,0,negative,negative,115,85,95,TB
+23,M,Tigray,Shire,1,1,1,0,0,1,1,0,negative,negative,124,75,108,Typhoid
+34,F,Amhara,Dessie,1,1,1,0,0,0,0,0,positive,positive,123,80,89,Malaria
+41,M,SNNPR,Wolaita,1,0,0,1,0,0,0,0,negative,negative,119,73,92,TB
+26,F,Oromia,Jimma,1,1,1,1,0,0,1,0,positive,positive,112,74,99,Malaria
+61,M,Addis Ababa,Bole,1,1,0,0,0,0,1,0,negative,negative,164,101,96,Hypertension
+45,F,Tigray,Wukro,0,0,0,0,0,0,0,0,negative,negative,153,109,100,Hypertension
+35,M,Amhara,Gondar,0,0,1,1,0,0,0,0,negative,negative,159,92,200,Diabetes
+42,F,Addis Ababa,Yeka,1,1,1,1,1,0,0,0,negative,negative,125,77,91,Pneumonia
+46,F,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,121,72,93,Malaria
+60,F,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,176,109,109,Hypertension
+50,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,119,82,96,TB
+42,M,Amhara,Debre Birhan,1,1,1,0,1,0,1,0,positive,positive,127,78,92,Malaria
+51,F,SNNPR,Dilla,1,1,0,1,0,1,0,0,negative,negative,129,79,97,Typhoid
+66,M,SNNPR,Dilla,1,1,1,0,0,0,0,0,negative,negative,144,95,227,Diabetes
+48,F,Addis Ababa,Arada,1,1,1,0,0,0,0,0,negative,negative,180,120,103,Hypertension
+56,F,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,153,100,182,Diabetes
+57,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,121,78,89,TB
+28,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,121,76,104,TB
+42,F,Oromia,Jimma,0,0,1,0,0,0,0,0,negative,negative,144,85,183,Diabetes
+66,M,Tigray,Adigrat,0,0,1,0,0,0,0,0,negative,negative,179,103,101,Hypertension
+78,F,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,174,112,95,Hypertension
+67,F,SNNPR,Arba Minch,0,0,1,0,0,0,0,1,negative,negative,158,110,97,Hypertension
+23,M,Oromia,Harar,1,1,1,0,0,1,1,1,positive,positive,122,71,98,Malaria
+65,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,153,115,117,Hypertension
+50,M,Oromia,Jimma,1,0,0,1,1,1,0,0,negative,negative,129,90,90,Typhoid
+66,M,Oromia,Jimma,0,1,1,1,0,0,0,0,negative,negative,160,107,101,Hypertension
+54,M,Addis Ababa,Yeka,1,1,1,0,0,1,0,0,negative,negative,132,78,110,Typhoid
+53,M,SNNPR,Hosanna,0,0,1,1,0,0,0,0,negative,negative,121,76,103,TB
+59,M,Addis Ababa,Yeka,0,1,0,0,0,0,0,0,negative,negative,163,100,105,Hypertension
+51,F,Tigray,Adigrat,0,1,1,1,1,1,0,0,negative,negative,127,77,109,Typhoid
+15,M,Addis Ababa,Bole,1,0,0,0,0,0,1,1,positive,positive,116,76,98,Malaria
+63,M,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,163,98,115,Hypertension
+41,F,Amhara,Bahir Dar,0,0,1,0,0,0,1,0,negative,negative,154,118,117,Hypertension
+33,M,SNNPR,Dilla,1,1,1,1,0,1,1,1,negative,negative,128,84,105,Typhoid
+37,M,Tigray,Axum,1,1,1,0,0,0,0,0,negative,negative,135,82,91,Typhoid
+48,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,126,83,90,TB
+60,F,SNNPR,Wolaita,0,1,1,0,0,0,0,1,negative,negative,143,89,222,Diabetes
+54,F,Addis Ababa,Kirkos,0,1,0,0,0,0,0,0,negative,negative,119,76,97,TB
+41,M,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,120,85,88,Malaria
+48,F,Addis Ababa,Arada,1,1,1,1,0,0,0,0,negative,negative,121,70,101,TB
+46,M,Oromia,Nekemte,1,1,1,0,1,0,1,1,positive,positive,113,76,90,Malaria
+44,M,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,177,114,113,Hypertension
+10,F,Oromia,Dire Dawa,1,1,1,1,0,0,1,0,negative,negative,139,86,105,Pneumonia
+39,M,SNNPR,Hawassa,1,1,1,0,0,0,1,0,positive,positive,117,85,86,Malaria
+44,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,129,78,103,TB
+11,F,Addis Ababa,Bole,1,1,0,1,0,0,0,0,negative,negative,124,77,96,Pneumonia
+67,M,Oromia,Dire Dawa,1,0,0,1,1,0,0,0,negative,negative,135,82,104,Pneumonia
+47,M,Amhara,Gondar,0,0,0,1,0,0,0,0,negative,negative,173,115,112,Hypertension
+41,F,Oromia,Nekemte,1,1,1,1,0,0,1,0,positive,positive,117,74,88,Malaria
+25,M,Addis Ababa,Kirkos,1,1,0,0,1,1,0,0,positive,positive,123,73,86,Malaria
+32,M,Tigray,Axum,1,1,1,1,1,1,0,0,negative,negative,129,79,100,Typhoid
+50,M,Amhara,Dessie,1,1,1,1,1,0,1,0,negative,negative,124,77,105,Typhoid
+39,M,Amhara,Dessie,0,1,1,1,1,0,0,0,negative,negative,135,91,227,Diabetes
+62,M,Amhara,Dessie,1,0,0,1,0,0,0,0,negative,negative,122,88,109,Pneumonia
+41,M,Addis Ababa,Bole,1,1,1,1,1,0,1,0,positive,positive,120,79,95,Malaria
+55,F,SNNPR,Hosanna,1,0,1,1,0,0,1,0,negative,negative,125,72,93,TB
+57,F,Tigray,Wukro,0,1,0,0,0,0,0,0,negative,negative,183,116,108,Hypertension
+41,F,Amhara,Debre Birhan,0,1,1,1,0,0,0,0,negative,negative,129,75,88,TB
+58,M,Amhara,Debre Birhan,0,0,1,0,0,0,0,0,negative,negative,186,109,112,Hypertension
+34,F,Addis Ababa,Bole,1,0,1,0,1,0,0,0,negative,negative,129,78,101,TB
+61,M,Tigray,Mekelle,0,0,1,1,0,0,0,0,negative,negative,159,86,185,Diabetes
+32,M,Addis Ababa,Lideta,1,1,0,0,1,0,1,1,positive,positive,120,78,94,Malaria
+35,M,Amhara,Debre Birhan,1,0,0,1,0,1,0,0,negative,negative,125,87,96,Pneumonia
+74,M,Amhara,Bahir Dar,0,0,0,0,0,0,0,0,negative,negative,154,90,202,Diabetes
+37,M,Oromia,Jimma,1,1,1,0,1,1,0,0,negative,negative,134,89,94,Typhoid
+64,F,Oromia,Harar,0,1,0,0,0,0,1,0,negative,negative,174,109,114,Hypertension
+43,M,Oromia,Harar,1,1,1,1,1,1,0,0,negative,negative,127,87,109,Typhoid
+8,M,Oromia,Dire Dawa,1,1,1,1,1,0,0,0,negative,negative,133,83,101,Pneumonia
+37,F,Tigray,Adigrat,1,1,1,1,1,1,1,0,negative,negative,121,82,92,Typhoid
+50,M,Addis Ababa,Lideta,1,1,0,0,0,0,0,0,negative,negative,164,108,104,Hypertension
+53,M,Amhara,Bahir Dar,1,1,1,0,0,0,0,0,negative,negative,133,80,97,Typhoid
+27,M,Oromia,Adama,1,1,1,0,0,0,1,0,positive,positive,115,77,85,Malaria
+35,F,Addis Ababa,Bole,1,0,1,1,0,0,0,0,negative,negative,126,78,99,TB
+49,M,Oromia,Jimma,1,1,1,0,1,1,0,0,negative,negative,132,87,106,Typhoid
+50,F,Tigray,Wukro,0,1,0,1,1,1,0,0,negative,negative,123,88,102,Pneumonia
+43,F,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,124,84,102,Pneumonia
+29,M,Amhara,Dessie,1,1,1,1,1,1,0,0,negative,negative,124,78,99,Typhoid
+28,F,SNNPR,Dilla,0,0,1,1,0,0,1,0,negative,negative,130,72,96,TB
+37,F,Addis Ababa,Kirkos,1,1,1,1,1,0,0,0,negative,negative,129,82,95,TB
+64,F,Addis Ababa,Yeka,0,1,1,1,0,0,0,1,negative,negative,159,102,244,Diabetes
+24,F,Tigray,Adigrat,1,1,1,0,1,0,1,0,positive,positive,111,79,85,Malaria
+32,F,Addis Ababa,Kirkos,1,1,1,1,1,0,1,1,negative,negative,121,83,105,Typhoid
+29,F,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,128,80,95,Malaria
+44,F,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,153,94,212,Diabetes
+24,M,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,112,77,90,Malaria
+65,M,Tigray,Mekelle,0,0,1,0,1,0,0,0,negative,negative,150,97,207,Diabetes
+60,M,Tigray,Axum,1,1,1,1,0,1,1,0,negative,negative,120,79,107,Pneumonia
+68,M,Amhara,Bahir Dar,1,1,1,0,0,0,0,0,negative,negative,138,77,91,Pneumonia
+39,F,Oromia,Adama,0,1,1,1,0,0,0,0,negative,negative,135,78,98,Typhoid
+53,M,Addis Ababa,Yeka,0,0,0,1,0,0,0,0,negative,negative,144,86,230,Diabetes
+35,F,SNNPR,Wolaita,0,1,1,1,0,0,0,0,negative,negative,125,76,92,TB
+24,M,Oromia,Adama,1,0,1,0,0,0,0,0,negative,negative,130,82,105,Pneumonia
+57,M,Addis Ababa,Lideta,1,0,0,1,0,0,0,1,negative,negative,128,87,95,Pneumonia
+64,F,Tigray,Adigrat,1,1,0,1,0,0,0,0,negative,negative,120,80,98,Pneumonia
+16,F,Tigray,Axum,1,1,1,1,0,0,0,1,negative,negative,120,86,100,Pneumonia
+58,F,Oromia,Adama,0,0,1,1,0,0,0,0,negative,negative,151,97,247,Diabetes
+74,M,SNNPR,Hawassa,0,0,1,0,0,1,0,0,negative,negative,155,87,240,Diabetes
+64,M,Tigray,Wukro,1,1,0,1,0,0,0,0,negative,negative,120,82,91,Pneumonia
+48,M,SNNPR,Hawassa,1,0,1,1,0,1,0,0,negative,negative,129,76,105,Typhoid
+48,F,Oromia,Jimma,0,1,1,1,0,1,0,0,negative,negative,142,100,182,Diabetes
+23,F,Amhara,Debre Markos,1,1,0,0,1,1,0,0,positive,positive,127,72,87,Malaria
+27,M,Amhara,Bahir Dar,1,1,0,0,1,1,0,0,negative,negative,134,78,105,Typhoid
+79,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,155,97,100,Hypertension
+41,M,Addis Ababa,Lideta,1,0,1,1,1,1,0,0,negative,negative,132,81,95,Typhoid
+50,M,Amhara,Dessie,1,1,1,1,0,1,0,0,negative,negative,120,86,110,Typhoid
+51,M,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,125,73,104,TB
+35,M,Tigray,Wukro,1,1,1,1,0,0,1,0,positive,positive,122,74,93,Malaria
+51,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,118,81,88,TB
+31,F,Tigray,Mekelle,1,1,1,0,1,0,1,0,positive,positive,112,79,94,Malaria
+40,M,Tigray,Adigrat,1,1,1,0,1,0,1,0,positive,positive,111,85,96,Malaria
+18,F,Amhara,Debre Birhan,0,0,1,1,0,0,0,0,negative,negative,120,90,96,Pneumonia
+48,M,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,153,108,101,Hypertension
+59,M,Addis Ababa,Yeka,0,0,1,0,0,0,0,0,negative,negative,148,93,243,Diabetes
+22,F,Addis Ababa,Kirkos,1,1,1,0,0,0,1,0,positive,positive,117,77,86,Malaria
+44,F,Amhara,Gondar,0,1,1,0,0,0,0,0,negative,negative,178,99,99,Hypertension
+47,F,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,165,110,110,Hypertension
+52,M,Tigray,Mekelle,1,1,1,1,0,0,0,0,negative,negative,124,74,94,TB
+36,F,Oromia,Dire Dawa,0,0,1,1,0,0,0,0,negative,negative,130,82,93,TB
+50,M,SNNPR,Arba Minch,1,1,1,1,0,1,0,0,negative,negative,131,83,93,Typhoid
+58,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,120,85,101,TB
+24,M,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,118,76,97,Malaria
+78,F,Oromia,Dire Dawa,0,1,1,1,0,0,0,0,negative,negative,164,108,112,Hypertension
+19,M,Addis Ababa,Kirkos,1,1,1,0,0,1,1,0,positive,positive,124,74,92,Malaria
+53,M,Tigray,Mekelle,1,1,1,0,0,0,0,0,negative,negative,171,102,114,Hypertension
+20,F,Addis Ababa,Lideta,1,0,1,0,1,0,0,0,positive,positive,125,76,98,Malaria
+31,M,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,118,70,93,TB
+31,M,Amhara,Bahir Dar,1,1,1,1,1,0,0,0,negative,negative,123,81,101,Typhoid
+59,F,Amhara,Bahir Dar,0,1,1,0,1,0,0,0,negative,negative,155,119,100,Hypertension
+24,M,SNNPR,Hawassa,1,1,1,0,0,0,0,0,negative,negative,130,89,95,Typhoid
+69,M,SNNPR,Dilla,0,0,1,0,0,0,0,0,negative,negative,141,97,217,Diabetes
+64,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,140,79,91,Pneumonia
+46,M,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,143,93,222,Diabetes
+43,M,Oromia,Dire Dawa,0,0,1,0,0,1,0,0,negative,negative,148,105,249,Diabetes
+35,F,Amhara,Debre Markos,0,1,1,1,1,0,1,0,positive,positive,110,72,95,Malaria
+25,M,Amhara,Dessie,0,1,1,1,1,0,0,0,negative,negative,124,86,100,Typhoid
+19,F,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,124,80,99,Pneumonia
+74,M,Tigray,Adigrat,0,0,1,1,1,0,0,0,negative,negative,155,95,191,Diabetes
+58,F,Addis Ababa,Kirkos,1,0,1,1,0,0,0,0,negative,negative,126,79,90,TB
+59,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,135,104,247,Diabetes
+28,M,Oromia,Nekemte,1,0,1,1,1,0,0,0,negative,negative,128,83,110,Typhoid
+55,F,SNNPR,Arba Minch,1,1,1,1,1,1,0,1,negative,negative,132,84,95,Typhoid
+71,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,144,93,190,Diabetes
+10,F,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,131,85,107,Pneumonia
+51,F,Amhara,Bahir Dar,0,1,1,0,0,0,0,0,negative,negative,151,119,102,Hypertension
+46,F,Amhara,Debre Birhan,0,1,0,0,0,0,0,0,negative,negative,171,96,104,Hypertension
+80,M,Tigray,Axum,0,1,0,0,0,0,0,0,negative,negative,157,107,118,Hypertension
+29,M,Oromia,Adama,1,1,1,0,1,1,0,0,negative,negative,122,81,105,Typhoid
+28,F,Tigray,Axum,1,1,1,1,1,0,0,0,negative,negative,130,87,93,Typhoid
+69,F,Addis Ababa,Lideta,1,1,1,1,0,1,0,0,negative,negative,123,79,109,Pneumonia
+35,M,SNNPR,Wolaita,0,0,1,1,0,0,0,0,negative,negative,135,104,207,Diabetes
+52,F,Amhara,Bahir Dar,1,0,1,1,0,0,0,0,negative,negative,127,87,106,Pneumonia
+48,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,1,negative,negative,134,83,100,Pneumonia
+51,M,Oromia,Nekemte,0,0,1,1,0,0,0,0,negative,negative,115,80,92,TB
+55,F,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,121,81,101,Pneumonia
+55,M,Oromia,Dire Dawa,1,1,1,1,1,0,0,0,negative,negative,131,76,103,Pneumonia
+70,M,SNNPR,Hosanna,0,0,1,0,0,0,0,0,negative,negative,143,94,185,Diabetes
+30,F,Addis Ababa,Bole,1,0,1,0,1,0,0,0,positive,positive,126,74,98,Malaria
+28,M,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,128,72,94,Malaria
+61,M,Oromia,Dire Dawa,0,0,1,1,0,0,0,0,negative,negative,127,79,102,TB
+78,F,Oromia,Harar,0,1,1,0,0,0,0,0,negative,negative,151,119,111,Hypertension
+61,M,Amhara,Gondar,1,0,1,1,0,0,0,0,negative,negative,116,83,104,TB
+41,F,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,164,111,114,Hypertension
+40,F,Amhara,Debre Birhan,1,0,1,0,0,0,0,0,negative,negative,123,79,108,Typhoid
+62,F,Oromia,Harar,0,0,1,0,0,0,0,1,negative,negative,152,97,228,Diabetes
+51,M,Amhara,Bahir Dar,1,0,1,1,0,0,0,0,negative,negative,125,73,93,TB
+37,F,Addis Ababa,Kirkos,1,1,1,1,1,1,1,0,negative,negative,135,82,90,Typhoid
+47,F,Addis Ababa,Arada,1,1,0,0,0,0,1,1,positive,positive,116,80,85,Malaria
+19,F,Addis Ababa,Bole,1,1,1,0,0,0,1,0,positive,positive,130,76,99,Malaria
+66,M,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,178,99,118,Hypertension
+57,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,125,77,98,Pneumonia
+40,F,Oromia,Jimma,1,1,1,0,0,0,0,0,positive,positive,122,73,99,Malaria
+40,F,Oromia,Jimma,0,0,1,1,0,1,0,0,negative,negative,142,101,220,Diabetes
+49,F,Addis Ababa,Lideta,0,1,1,1,0,1,0,0,negative,negative,125,85,91,Typhoid
+45,F,Addis Ababa,Bole,0,1,1,0,1,1,0,0,negative,negative,135,78,94,Typhoid
+68,M,Amhara,Bahir Dar,1,1,1,1,0,0,0,0,negative,negative,128,88,95,Pneumonia
+69,F,SNNPR,Hosanna,0,0,0,1,0,0,0,0,negative,negative,152,95,232,Diabetes
+36,M,Addis Ababa,Arada,0,1,1,0,0,0,1,0,positive,positive,124,85,86,Malaria
+68,M,SNNPR,Hosanna,1,1,1,1,1,0,1,0,negative,negative,125,82,110,Pneumonia
+45,M,Oromia,Dire Dawa,1,0,1,1,0,0,0,0,negative,negative,119,72,101,TB
+51,M,Addis Ababa,Kirkos,0,1,1,0,1,0,0,0,negative,negative,177,114,114,Hypertension
+53,M,Amhara,Gondar,0,1,1,1,0,0,0,0,negative,negative,158,104,212,Diabetes
+53,M,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,149,86,236,Diabetes
+37,M,Amhara,Debre Birhan,1,1,1,0,0,1,1,0,positive,positive,112,72,99,Malaria
+68,F,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,126,90,91,Pneumonia
+74,F,Addis Ababa,Bole,0,1,0,0,1,0,1,0,negative,negative,173,119,107,Hypertension
+47,F,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,136,87,104,Pneumonia
+60,M,Amhara,Debre Markos,0,0,1,1,0,0,0,0,negative,negative,160,97,208,Diabetes
+54,M,Tigray,Adigrat,1,1,1,1,1,1,0,0,negative,negative,130,87,95,Typhoid
+45,F,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,152,97,227,Diabetes
+26,F,Addis Ababa,Yeka,0,0,1,1,0,0,0,0,negative,negative,122,70,91,TB
+65,M,Addis Ababa,Lideta,1,0,0,1,0,0,0,0,negative,negative,122,78,86,TB
+38,M,SNNPR,Wolaita,1,1,1,0,1,0,1,0,positive,positive,116,83,100,Malaria
+73,M,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,168,119,120,Hypertension
+17,F,Amhara,Dessie,1,1,0,0,0,0,1,0,positive,positive,125,70,93,Malaria
+33,M,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,128,71,95,TB
+67,F,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,152,105,223,Diabetes
+77,F,Tigray,Shire,0,0,1,0,0,0,0,1,negative,negative,177,105,95,Hypertension
+20,M,Oromia,Jimma,1,1,1,0,1,0,0,0,negative,negative,123,85,100,Typhoid
+28,M,Tigray,Shire,1,1,1,0,0,0,1,0,positive,positive,126,82,97,Malaria
+74,F,Amhara,Dessie,0,0,0,0,0,0,0,0,negative,negative,148,89,180,Diabetes
+43,M,Tigray,Shire,1,0,1,0,1,1,0,0,negative,negative,126,77,94,Typhoid
+29,M,Tigray,Wukro,1,1,1,1,1,1,0,0,negative,negative,134,86,90,Typhoid
+45,F,SNNPR,Hosanna,0,0,1,1,0,0,0,0,negative,negative,152,105,214,Diabetes
+22,F,Amhara,Debre Birhan,0,1,1,1,0,0,0,0,negative,negative,137,82,93,Pneumonia
+11,M,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,138,80,90,Pneumonia
+36,M,Amhara,Debre Birhan,0,0,1,1,0,0,0,0,negative,negative,117,79,92,TB
+70,M,Amhara,Gondar,0,1,0,0,0,0,0,0,negative,negative,143,98,195,Diabetes
+64,F,Amhara,Gondar,1,1,0,1,0,0,0,0,negative,negative,139,78,95,Pneumonia
+61,M,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,123,81,105,Pneumonia
+60,M,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,153,112,101,Hypertension
+22,M,Tigray,Wukro,1,1,1,1,1,0,0,0,negative,negative,131,86,95,Typhoid
+54,F,Oromia,Adama,1,1,1,0,1,0,0,0,negative,negative,123,89,92,Typhoid
+35,M,Addis Ababa,Bole,1,1,1,1,0,0,0,1,negative,negative,124,76,100,TB
+57,M,Oromia,Harar,0,0,1,0,1,0,0,0,negative,negative,118,74,97,TB
+24,M,Oromia,Jimma,1,1,0,0,0,0,1,0,positive,positive,112,73,88,Malaria
+56,M,Amhara,Gondar,1,0,1,1,0,0,0,0,negative,negative,127,81,109,Pneumonia
+53,M,Tigray,Wukro,0,1,1,1,0,0,0,0,negative,negative,183,98,99,Hypertension
+36,M,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,119,74,104,TB
+49,M,Oromia,Harar,1,0,0,1,0,0,0,0,negative,negative,115,76,103,TB
+57,M,Addis Ababa,Arada,0,0,1,0,0,0,0,0,negative,negative,152,96,229,Diabetes
+33,M,Oromia,Nekemte,0,0,1,1,0,0,0,0,negative,negative,120,85,92,TB
+66,F,Oromia,Jimma,0,1,1,0,0,0,1,0,negative,negative,139,94,247,Diabetes
+46,F,Tigray,Shire,0,1,0,0,1,0,0,1,negative,negative,153,98,95,Hypertension
+58,F,SNNPR,Hosanna,0,0,1,0,0,1,0,0,negative,negative,146,96,216,Diabetes
+27,M,Tigray,Adigrat,1,1,1,1,1,1,1,0,negative,negative,136,78,91,Pneumonia
+21,F,Addis Ababa,Kirkos,1,1,1,1,1,1,0,0,negative,negative,131,89,93,Typhoid
+21,M,Tigray,Mekelle,1,1,1,1,1,1,0,1,negative,negative,121,84,101,Typhoid
+52,F,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,146,99,234,Diabetes
+67,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,178,103,108,Hypertension
+60,M,Oromia,Nekemte,1,1,1,1,0,1,0,0,negative,negative,133,78,99,Pneumonia
+65,M,Oromia,Adama,1,0,1,1,0,1,0,0,negative,negative,117,78,103,TB
+35,M,Oromia,Nekemte,1,1,1,0,0,0,0,0,positive,positive,122,85,92,Malaria
+44,M,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,159,101,110,Hypertension
+28,F,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,124,73,104,TB
+6,M,Tigray,Axum,1,0,0,1,0,1,0,0,negative,negative,125,78,92,Pneumonia
+12,M,Oromia,Nekemte,1,0,0,1,0,0,0,0,negative,negative,138,89,94,Pneumonia
+20,F,Oromia,Harar,1,1,1,0,1,0,1,0,positive,positive,122,78,94,Malaria
+43,M,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,135,102,202,Diabetes
+16,F,Addis Ababa,Bole,1,1,1,0,1,0,1,0,positive,positive,122,72,87,Malaria
+52,F,Addis Ababa,Yeka,1,1,1,0,1,0,0,0,negative,negative,135,76,98,Typhoid
+37,M,Oromia,Nekemte,1,1,1,0,0,0,1,0,positive,positive,125,79,92,Malaria
+49,F,Oromia,Dire Dawa,1,0,1,1,0,0,0,0,negative,negative,124,82,97,TB
+50,F,Addis Ababa,Arada,1,0,1,1,1,0,0,0,negative,negative,146,103,211,Diabetes
+66,F,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,189,96,108,Hypertension
+36,F,SNNPR,Arba Minch,0,1,1,1,1,0,1,0,negative,negative,126,78,108,Typhoid
+55,F,Addis Ababa,Kirkos,0,0,0,0,0,0,0,0,negative,negative,165,96,103,Hypertension
+60,M,SNNPR,Wolaita,0,0,0,1,0,0,0,0,negative,negative,118,83,95,TB
+42,M,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,183,99,117,Hypertension
+63,M,Addis Ababa,Lideta,0,0,1,1,0,1,1,0,negative,negative,118,77,95,TB
+46,F,SNNPR,Wolaita,0,0,1,0,0,0,0,0,negative,negative,149,94,244,Diabetes
+44,M,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,135,86,97,Pneumonia
+64,M,Tigray,Mekelle,1,1,0,1,0,0,0,0,negative,negative,163,108,105,Hypertension
+46,M,Oromia,Harar,1,1,1,1,1,1,0,0,negative,negative,124,84,106,Typhoid
+51,M,Oromia,Nekemte,0,0,1,1,0,0,0,0,negative,negative,148,86,221,Diabetes
+38,M,Oromia,Nekemte,1,0,1,1,0,1,0,0,negative,negative,130,82,96,Pneumonia
+73,M,SNNPR,Arba Minch,0,0,1,0,0,0,0,0,negative,negative,145,94,186,Diabetes
+40,F,Addis Ababa,Lideta,1,0,1,0,0,0,1,0,positive,positive,115,84,98,Malaria
+65,F,SNNPR,Arba Minch,1,0,1,1,0,0,1,0,negative,negative,136,83,107,Pneumonia
+75,F,Oromia,Adama,0,0,1,0,0,0,0,0,negative,negative,139,91,190,Diabetes
+42,F,Oromia,Nekemte,1,0,1,1,1,0,1,0,negative,negative,125,76,96,Typhoid
+51,M,SNNPR,Wolaita,0,1,1,0,0,1,0,0,negative,negative,155,90,227,Diabetes
+57,M,Tigray,Axum,1,0,1,1,0,0,0,0,negative,negative,116,71,98,TB
+44,F,Tigray,Adigrat,1,1,1,1,0,0,0,0,negative,negative,129,79,102,TB
+66,M,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,141,102,248,Diabetes
+26,M,SNNPR,Wolaita,1,0,1,1,0,0,0,1,negative,negative,130,81,91,Pneumonia
+34,F,Addis Ababa,Lideta,1,1,0,1,0,0,1,0,negative,negative,140,78,106,Pneumonia
+40,F,SNNPR,Hosanna,1,0,1,0,1,0,0,0,positive,positive,118,78,98,Malaria
+49,M,Addis Ababa,Yeka,1,1,1,0,0,0,1,0,positive,positive,120,77,88,Malaria
+54,F,Addis Ababa,Lideta,1,0,1,0,1,1,0,0,negative,negative,124,76,99,Typhoid
+55,M,SNNPR,Hawassa,1,1,1,1,1,1,0,0,negative,negative,127,78,90,TB
+33,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,130,70,97,TB
+33,M,Addis Ababa,Lideta,1,1,1,1,1,1,0,0,negative,negative,125,75,90,Typhoid
+48,F,SNNPR,Dilla,1,1,1,0,0,0,0,0,positive,positive,122,73,85,Malaria
+40,F,Amhara,Debre Markos,0,1,1,0,0,0,0,0,negative,negative,137,103,245,Diabetes
+45,F,SNNPR,Hosanna,1,1,1,0,0,0,0,1,positive,positive,116,70,99,Malaria
+28,M,Tigray,Shire,0,0,1,1,1,1,0,0,negative,negative,132,88,98,Pneumonia
+19,M,SNNPR,Wolaita,1,1,1,0,0,0,1,0,positive,positive,127,80,88,Malaria
+39,F,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,138,87,95,Pneumonia
+63,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,139,77,101,Pneumonia
+38,F,Amhara,Debre Markos,1,1,1,0,0,0,1,1,positive,positive,123,81,99,Malaria
+73,M,SNNPR,Hawassa,0,1,0,0,0,0,0,0,negative,negative,179,106,105,Hypertension
+55,M,SNNPR,Dilla,0,0,1,1,0,0,0,1,negative,negative,156,105,250,Diabetes
+37,M,Addis Ababa,Lideta,1,1,1,1,1,1,0,1,negative,negative,121,83,101,Typhoid
+33,M,Addis Ababa,Yeka,1,1,1,1,0,0,1,0,negative,negative,119,81,100,TB
+16,M,Oromia,Dire Dawa,1,1,1,0,1,0,0,0,positive,positive,125,75,90,Malaria
+74,F,Tigray,Mekelle,1,0,1,0,0,0,0,0,negative,negative,137,89,233,Diabetes
+39,F,Oromia,Dire Dawa,1,1,0,0,0,1,1,0,positive,positive,110,75,99,Malaria
+20,F,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,116,71,86,Malaria
+14,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,129,85,99,Pneumonia
+29,F,SNNPR,Hosanna,1,1,1,1,1,1,0,0,negative,negative,122,79,105,Typhoid
+39,M,Amhara,Bahir Dar,1,1,1,0,1,1,0,1,negative,negative,129,81,101,Typhoid
+37,M,Tigray,Axum,1,1,0,0,0,0,0,0,negative,negative,127,83,99,Pneumonia
+67,M,Addis Ababa,Yeka,0,1,1,0,0,0,0,0,negative,negative,139,102,186,Diabetes
+46,M,SNNPR,Dilla,0,0,1,1,0,1,0,0,negative,negative,120,70,104,TB
+49,F,Tigray,Mekelle,1,1,1,1,0,0,1,0,positive,positive,113,84,97,Malaria
+16,M,Tigray,Shire,1,1,1,0,1,0,1,0,positive,positive,117,80,93,Malaria
+45,M,Oromia,Adama,0,1,0,0,0,0,0,1,negative,negative,176,119,120,Hypertension
+43,M,Tigray,Mekelle,0,0,0,0,0,0,0,0,negative,negative,178,115,114,Hypertension
+27,F,Tigray,Mekelle,0,1,1,1,0,0,0,0,negative,negative,126,70,92,TB
+44,M,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,167,106,99,Hypertension
+28,F,Oromia,Harar,1,0,1,1,1,0,1,0,positive,positive,130,80,90,Malaria
+57,F,Amhara,Debre Markos,0,1,1,0,1,0,0,0,negative,negative,135,105,182,Diabetes
+59,M,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,124,81,96,Pneumonia
+53,F,Addis Ababa,Yeka,0,1,1,0,0,0,0,1,negative,negative,140,105,224,Diabetes
+19,F,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,128,74,92,Malaria
+39,F,Oromia,Adama,1,1,1,0,0,0,1,0,negative,negative,133,83,97,Typhoid
+24,M,Oromia,Dire Dawa,1,1,1,0,1,0,0,0,positive,positive,124,80,99,Malaria
+61,M,Oromia,Jimma,1,0,1,1,1,0,0,0,negative,negative,120,70,89,TB
+52,F,Addis Ababa,Kirkos,1,1,1,1,0,1,0,1,negative,negative,131,80,97,Pneumonia
+75,M,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,157,111,113,Hypertension
+5,F,Addis Ababa,Bole,1,0,1,1,0,0,1,0,negative,negative,130,89,105,Pneumonia
+26,F,Addis Ababa,Lideta,1,1,0,1,1,1,0,0,negative,negative,126,77,107,Typhoid
+24,F,Amhara,Debre Birhan,1,0,1,1,1,0,0,0,negative,negative,125,75,91,Pneumonia
+55,M,Addis Ababa,Yeka,1,1,1,1,1,1,0,0,negative,negative,135,83,110,Typhoid
+28,M,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,124,76,110,Typhoid
+23,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,126,76,94,Typhoid
+40,F,Tigray,Mekelle,0,1,1,0,1,0,0,0,negative,negative,149,99,238,Diabetes
+50,M,Addis Ababa,Lideta,1,0,1,1,0,1,0,0,negative,negative,117,85,94,TB
+10,M,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,132,80,94,Pneumonia
+40,M,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,149,86,229,Diabetes
+45,M,Oromia,Harar,1,1,1,1,1,0,0,0,negative,negative,134,88,102,Typhoid
+39,M,Amhara,Debre Birhan,1,1,1,1,1,1,0,0,negative,negative,123,77,99,Typhoid
+36,M,SNNPR,Arba Minch,1,1,0,1,1,0,0,0,negative,negative,121,90,109,Typhoid
+79,M,Addis Ababa,Arada,0,1,1,0,1,0,0,0,negative,negative,162,112,105,Hypertension
+28,F,SNNPR,Arba Minch,1,1,1,1,1,0,0,1,negative,negative,127,77,92,Typhoid
+63,F,SNNPR,Hawassa,0,0,1,0,0,0,0,0,negative,negative,171,120,109,Hypertension
+39,F,Amhara,Debre Markos,0,1,1,0,0,0,0,0,negative,negative,132,77,103,Pneumonia
+37,M,Oromia,Jimma,1,1,1,0,1,0,0,0,negative,negative,129,77,100,Typhoid
+45,M,Tigray,Shire,1,1,1,1,0,1,0,0,negative,negative,124,82,101,Typhoid
+77,M,Tigray,Axum,0,0,1,0,0,0,0,0,negative,negative,160,108,98,Hypertension
+45,F,Amhara,Bahir Dar,1,1,1,1,0,0,0,1,negative,negative,118,85,101,TB
+35,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,123,75,98,TB
+64,F,Tigray,Adigrat,1,0,1,1,0,0,1,0,negative,negative,160,95,198,Diabetes
+48,F,SNNPR,Arba Minch,1,1,1,1,1,1,0,0,negative,negative,121,86,94,Typhoid
+13,M,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,129,80,100,Pneumonia
+29,M,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,122,90,95,Pneumonia
+27,M,Amhara,Dessie,1,1,1,0,1,0,1,0,positive,positive,130,85,92,Malaria
+33,F,Addis Ababa,Yeka,0,0,1,1,0,0,0,0,negative,negative,122,76,101,TB
+73,M,Oromia,Nekemte,0,0,1,0,0,0,0,0,negative,negative,148,87,244,Diabetes
+27,F,SNNPR,Hawassa,0,0,1,1,0,0,0,0,negative,negative,120,76,97,TB
+21,M,SNNPR,Hawassa,1,1,1,0,0,0,0,0,positive,positive,130,75,87,Malaria
+60,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,124,79,95,Pneumonia
+72,M,Oromia,Harar,0,0,1,0,0,0,0,0,negative,negative,190,100,100,Hypertension
+62,F,Oromia,Dire Dawa,0,0,0,0,0,1,0,0,negative,negative,190,120,118,Hypertension
+36,M,Oromia,Harar,1,1,1,1,0,1,0,0,negative,negative,137,84,93,Pneumonia
+75,F,Amhara,Bahir Dar,0,1,0,0,0,0,0,0,negative,negative,186,118,110,Hypertension
+63,F,Oromia,Nekemte,0,0,1,0,0,0,0,0,negative,negative,173,97,108,Hypertension
+57,M,Oromia,Harar,0,1,1,0,0,0,0,0,negative,negative,163,113,105,Hypertension
+68,F,Amhara,Bahir Dar,1,1,1,1,0,0,1,0,negative,negative,140,90,93,Pneumonia
+25,M,Tigray,Mekelle,1,1,1,1,0,1,0,0,negative,negative,132,76,108,Typhoid
+65,M,Oromia,Jimma,0,0,1,0,0,0,0,0,negative,negative,159,85,238,Diabetes
+61,F,Addis Ababa,Arada,1,0,0,1,0,0,0,0,negative,negative,118,72,105,TB
+47,F,Amhara,Bahir Dar,0,0,1,1,0,0,1,0,negative,negative,122,86,90,Pneumonia
+56,F,Tigray,Shire,1,1,0,1,0,1,0,0,negative,negative,127,79,94,TB
+62,F,SNNPR,Wolaita,0,0,0,0,1,0,0,0,negative,negative,157,86,212,Diabetes
+27,M,SNNPR,Arba Minch,1,0,1,1,0,0,0,0,negative,negative,129,84,87,TB
+37,M,Addis Ababa,Arada,1,1,1,0,0,0,1,0,positive,positive,115,84,98,Malaria
+53,F,Tigray,Axum,0,0,0,0,0,0,0,0,negative,negative,175,106,104,Hypertension
+60,M,Tigray,Shire,1,0,0,1,0,0,0,0,negative,negative,129,78,102,Pneumonia
+73,M,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,135,101,201,Diabetes
+34,M,Addis Ababa,Yeka,1,1,1,0,1,1,0,0,negative,negative,128,78,97,Typhoid
+26,M,Addis Ababa,Arada,1,1,1,1,1,1,0,0,negative,negative,126,84,110,Typhoid
+66,F,Tigray,Adigrat,0,1,0,1,1,0,0,0,negative,negative,174,97,99,Hypertension
+79,M,Addis Ababa,Bole,0,1,0,0,0,0,0,0,negative,negative,175,106,111,Hypertension
+78,F,Amhara,Debre Markos,0,1,0,0,0,0,0,0,negative,negative,189,101,97,Hypertension
+48,F,Amhara,Debre Markos,1,1,1,1,0,0,1,0,negative,negative,120,76,98,TB
+28,M,Amhara,Gondar,1,1,1,1,1,1,0,0,negative,negative,133,87,107,Typhoid
+17,F,Amhara,Debre Birhan,1,1,1,1,0,0,1,0,positive,positive,124,79,87,Malaria
+38,M,Oromia,Nekemte,1,1,1,1,0,0,1,0,negative,negative,137,83,103,Pneumonia
+48,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,124,75,94,Pneumonia
+50,M,Amhara,Gondar,0,1,1,1,0,1,0,0,negative,negative,128,84,96,TB
+43,F,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,112,75,92,Malaria
+77,F,SNNPR,Arba Minch,0,1,0,0,0,0,0,1,negative,negative,187,120,118,Hypertension
+20,F,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,127,84,88,Malaria
+68,F,Tigray,Adigrat,1,0,1,1,0,1,0,0,negative,negative,137,89,94,Pneumonia
+70,M,Tigray,Wukro,0,1,1,0,0,0,0,0,negative,negative,184,104,117,Hypertension
+57,M,Amhara,Dessie,1,1,1,1,0,1,1,0,negative,negative,118,84,101,TB
+30,F,Addis Ababa,Arada,1,1,1,0,0,1,0,0,positive,positive,125,79,86,Malaria
+54,M,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,156,100,100,Hypertension
+51,F,Tigray,Axum,1,1,1,1,1,1,0,0,negative,negative,130,83,108,Typhoid
+64,M,Amhara,Bahir Dar,0,0,1,0,0,0,0,0,negative,negative,183,110,111,Hypertension
+72,F,Oromia,Nekemte,0,0,1,0,0,0,0,1,negative,negative,159,95,204,Diabetes
+68,F,Tigray,Wukro,0,1,1,0,0,0,0,0,negative,negative,167,100,109,Hypertension
+65,F,Amhara,Gondar,0,1,1,1,0,0,0,0,negative,negative,120,86,108,Pneumonia
+50,M,Addis Ababa,Yeka,0,1,0,0,0,1,0,0,negative,negative,187,107,102,Hypertension
+36,F,Amhara,Dessie,1,0,1,1,0,0,1,0,negative,negative,139,75,110,Pneumonia
+75,F,Oromia,Jimma,0,1,0,0,1,0,0,0,negative,negative,160,97,115,Hypertension
+26,M,Oromia,Jimma,1,1,1,0,0,0,1,0,positive,positive,127,83,100,Malaria
+43,M,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,120,76,102,Pneumonia
+52,F,SNNPR,Hosanna,1,1,1,0,0,0,0,0,negative,negative,129,78,109,Typhoid
+21,M,Tigray,Axum,1,1,0,1,0,0,1,0,negative,negative,121,84,95,Pneumonia
+51,M,Oromia,Nekemte,0,0,0,0,0,0,1,0,negative,negative,149,89,232,Diabetes
+74,F,Addis Ababa,Lideta,1,1,1,1,0,1,0,0,negative,negative,135,90,180,Diabetes
+15,F,Amhara,Gondar,1,1,1,0,1,0,1,0,positive,positive,117,77,85,Malaria
+60,M,SNNPR,Hosanna,1,0,1,1,0,0,0,0,negative,negative,128,77,92,TB
+55,M,Addis Ababa,Lideta,1,1,1,1,0,1,0,0,negative,negative,123,87,95,Typhoid
+63,M,Amhara,Dessie,1,0,1,0,0,0,0,0,negative,negative,127,79,93,Pneumonia
+74,M,Tigray,Axum,0,1,0,0,0,0,0,0,negative,negative,175,110,110,Hypertension
+17,M,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,122,79,104,Pneumonia
+63,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,146,100,202,Diabetes
+41,M,SNNPR,Dilla,0,0,1,0,0,0,0,1,negative,negative,170,109,101,Hypertension
+64,M,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,115,84,93,TB
+70,M,Addis Ababa,Arada,0,0,1,0,0,0,1,1,negative,negative,188,109,104,Hypertension
+71,F,Addis Ababa,Yeka,0,0,1,0,0,0,0,0,negative,negative,169,98,108,Hypertension
+36,F,SNNPR,Hosanna,0,1,1,1,0,0,0,0,negative,negative,137,75,98,Pneumonia
+45,M,Addis Ababa,Kirkos,1,0,1,1,0,0,0,1,negative,negative,127,74,99,TB
+40,F,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,110,76,86,Malaria
+55,F,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,122,70,89,TB
+52,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,140,81,90,Pneumonia
+49,F,Oromia,Harar,1,0,1,0,0,0,0,0,negative,negative,116,85,85,TB
+47,F,Amhara,Dessie,0,0,1,0,0,0,0,1,negative,negative,167,104,104,Hypertension
+33,M,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,127,74,89,TB
+35,F,Addis Ababa,Lideta,1,1,1,0,1,0,1,0,positive,positive,120,77,91,Malaria
+58,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,170,100,98,Hypertension
+54,M,Tigray,Mekelle,1,1,1,1,1,1,0,0,negative,negative,121,75,97,Typhoid
+21,M,Oromia,Adama,0,0,1,1,0,0,0,0,negative,negative,128,82,109,Pneumonia
+60,F,Tigray,Wukro,1,1,1,1,0,0,0,0,negative,negative,118,80,100,TB
+64,M,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,123,85,92,TB
+65,M,Tigray,Axum,1,0,1,1,0,0,0,0,negative,negative,124,84,91,TB
+43,M,Oromia,Nekemte,1,0,1,1,0,0,0,1,negative,negative,121,77,105,TB
+73,M,SNNPR,Hawassa,0,0,0,0,0,0,0,0,negative,negative,141,85,216,Diabetes
+62,M,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,160,101,186,Diabetes
+47,M,Tigray,Adigrat,1,1,1,0,1,0,0,0,positive,positive,128,82,87,Malaria
+39,M,SNNPR,Arba Minch,1,0,1,1,0,0,0,0,negative,negative,115,71,88,TB
+49,F,SNNPR,Arba Minch,1,1,1,0,0,0,0,0,positive,positive,123,79,94,Malaria
+38,F,Tigray,Wukro,1,1,1,0,1,0,0,0,negative,negative,131,90,100,Typhoid
+76,F,Addis Ababa,Kirkos,0,0,0,1,0,0,0,0,negative,negative,188,116,116,Hypertension
+44,M,Tigray,Wukro,0,1,0,0,1,1,0,0,negative,negative,169,103,105,Hypertension
+32,M,SNNPR,Dilla,1,1,0,0,1,0,1,1,positive,positive,126,80,98,Malaria
+42,M,Addis Ababa,Kirkos,0,0,0,1,0,0,1,0,negative,negative,158,104,201,Diabetes
+43,F,Addis Ababa,Bole,1,1,1,0,0,0,0,1,positive,positive,120,70,99,Malaria
+40,F,Amhara,Gondar,0,1,0,0,0,0,1,0,negative,negative,184,99,113,Hypertension
+44,M,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,123,76,99,Pneumonia
+28,M,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,127,74,99,TB
+28,F,Addis Ababa,Lideta,1,1,1,0,1,1,1,0,positive,positive,123,72,96,Malaria
+58,F,Amhara,Bahir Dar,0,0,0,0,0,0,0,0,negative,negative,156,107,104,Hypertension
+45,M,Amhara,Debre Birhan,1,1,1,1,1,1,0,0,negative,negative,133,75,100,Typhoid
+38,M,Addis Ababa,Bole,1,1,1,0,1,1,0,0,negative,negative,134,85,110,Typhoid
+41,F,SNNPR,Wolaita,1,1,1,1,1,1,0,0,negative,negative,128,79,105,Typhoid
+31,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,126,75,108,Pneumonia
+10,F,SNNPR,Dilla,1,0,0,1,0,0,1,0,negative,negative,136,83,109,Pneumonia
+64,F,Tigray,Shire,0,0,0,0,0,0,0,0,negative,negative,149,93,205,Diabetes
+42,M,Oromia,Dire Dawa,1,1,1,0,1,0,1,0,positive,positive,126,72,100,Malaria
+55,F,SNNPR,Wolaita,0,1,1,1,0,1,0,1,negative,negative,120,75,109,Typhoid
+37,M,Addis Ababa,Arada,0,1,1,0,1,0,1,0,positive,positive,130,75,92,Malaria
+17,F,SNNPR,Dilla,1,1,1,1,0,0,1,0,positive,positive,113,76,90,Malaria
+48,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,129,70,103,TB
+75,F,Amhara,Dessie,0,0,1,0,0,1,0,0,negative,negative,159,100,104,Hypertension
+31,M,Amhara,Dessie,1,1,1,1,0,0,1,0,positive,positive,111,85,85,Malaria
+54,F,SNNPR,Arba Minch,1,0,1,1,1,0,0,0,negative,negative,124,77,108,Typhoid
+37,F,Addis Ababa,Lideta,1,1,1,1,1,0,0,0,negative,negative,115,70,99,TB
+49,M,Amhara,Bahir Dar,1,1,1,1,0,1,0,0,negative,negative,122,87,105,Typhoid
+31,M,Oromia,Nekemte,1,0,1,0,0,0,0,0,negative,negative,122,90,90,Typhoid
+37,F,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,124,77,110,Pneumonia
+6,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,129,89,105,Pneumonia
+44,M,Amhara,Gondar,1,1,1,1,1,1,0,0,negative,negative,129,75,94,Typhoid
+47,F,Addis Ababa,Lideta,1,1,1,1,0,0,0,0,negative,negative,117,75,98,TB
+60,F,Addis Ababa,Lideta,0,1,1,0,0,0,0,0,negative,negative,147,86,181,Diabetes
+68,F,Tigray,Adigrat,0,0,1,0,0,1,0,0,negative,negative,150,94,196,Diabetes
+42,F,Oromia,Adama,1,1,1,0,0,0,1,0,positive,positive,130,74,91,Malaria
+39,F,Addis Ababa,Yeka,1,1,0,1,0,0,0,0,negative,negative,123,83,90,TB
+20,M,Oromia,Jimma,1,1,1,0,0,1,0,0,negative,negative,126,75,91,Typhoid
+16,F,Amhara,Debre Markos,1,0,1,0,0,1,1,0,positive,positive,128,72,88,Malaria
+32,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,121,84,103,TB
+74,F,Addis Ababa,Bole,0,1,0,0,0,0,0,0,negative,negative,185,108,110,Hypertension
+49,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,122,84,87,TB
+48,M,Tigray,Mekelle,1,1,1,0,0,0,0,0,positive,positive,110,76,93,Malaria
+40,M,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,187,117,103,Hypertension
+60,F,Amhara,Bahir Dar,1,1,1,1,1,0,0,0,negative,negative,136,79,94,Pneumonia
+54,F,Addis Ababa,Yeka,0,1,0,0,0,0,1,0,negative,negative,170,99,109,Hypertension
+42,M,SNNPR,Wolaita,1,0,1,1,1,1,0,0,negative,negative,124,85,93,Typhoid
+42,F,Oromia,Jimma,0,0,1,1,0,0,0,1,negative,negative,149,104,202,Diabetes
+23,F,SNNPR,Dilla,1,1,1,1,1,1,0,0,negative,negative,125,81,94,Typhoid
+75,F,Oromia,Nekemte,1,1,0,0,0,1,0,0,negative,negative,145,92,213,Diabetes
+49,M,Tigray,Axum,0,0,1,1,0,0,0,0,negative,negative,117,80,92,TB
+38,F,Amhara,Debre Markos,1,1,1,0,0,0,1,0,positive,positive,120,73,89,Malaria
+28,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,124,83,92,Pneumonia
+63,F,Addis Ababa,Arada,0,0,1,1,0,1,0,1,negative,negative,141,96,181,Diabetes
+41,M,Addis Ababa,Yeka,1,1,1,0,1,0,0,0,positive,positive,119,83,97,Malaria
+44,M,Amhara,Bahir Dar,0,0,0,0,0,0,0,0,negative,negative,135,97,215,Diabetes
+30,M,Oromia,Harar,1,1,1,1,0,1,0,0,negative,negative,122,80,103,TB
+57,M,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,118,73,86,TB
+25,M,Tigray,Shire,1,1,1,0,1,1,0,1,negative,negative,133,75,97,Typhoid
+23,M,Addis Ababa,Arada,1,1,1,0,0,0,0,0,negative,negative,139,76,92,Pneumonia
+32,M,Oromia,Jimma,1,0,1,0,0,0,1,0,positive,positive,130,83,86,Malaria
+46,F,Amhara,Debre Markos,0,1,0,1,0,1,0,0,negative,negative,190,109,111,Hypertension
+48,M,Oromia,Adama,1,1,1,1,0,1,0,0,negative,negative,129,70,100,TB
+49,M,Amhara,Dessie,1,1,1,1,1,0,0,0,negative,negative,124,81,109,Typhoid
+75,F,Tigray,Adigrat,0,1,1,0,0,0,0,0,negative,negative,135,90,216,Diabetes
+35,F,Tigray,Adigrat,0,0,1,0,0,0,0,0,negative,negative,147,90,200,Diabetes
+40,M,SNNPR,Hosanna,1,1,1,0,0,0,1,0,positive,positive,121,72,98,Malaria
+42,M,Addis Ababa,Yeka,0,0,0,1,1,0,0,0,negative,negative,139,97,189,Diabetes
+45,M,Amhara,Gondar,1,0,0,0,0,0,1,0,positive,positive,113,77,89,Malaria
+59,F,Addis Ababa,Bole,1,1,0,1,0,0,0,0,negative,negative,122,71,89,TB
+38,M,SNNPR,Dilla,1,1,1,0,0,0,0,0,positive,positive,129,80,92,Malaria
+60,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,128,73,95,TB
+36,F,Tigray,Mekelle,1,0,0,1,0,1,0,0,negative,negative,138,90,106,Pneumonia
+36,F,Tigray,Axum,1,0,1,0,0,0,0,1,positive,positive,119,79,98,Malaria
+63,F,SNNPR,Dilla,0,1,1,0,0,1,0,0,negative,negative,174,120,103,Hypertension
+70,M,SNNPR,Hawassa,0,1,1,0,1,0,0,0,negative,negative,169,111,105,Hypertension
+69,M,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,185,111,104,Hypertension
+43,F,SNNPR,Wolaita,1,1,1,0,1,0,0,0,positive,positive,120,76,97,Malaria
+58,M,Tigray,Wukro,1,0,1,1,0,1,0,0,negative,negative,128,87,108,Pneumonia
+54,M,Oromia,Nekemte,0,0,1,0,1,0,0,0,negative,negative,180,101,113,Hypertension
+15,F,Addis Ababa,Arada,1,1,1,1,0,0,0,0,negative,negative,136,89,105,Pneumonia
+61,F,Tigray,Axum,0,1,0,1,0,0,0,0,negative,negative,163,107,118,Hypertension
+49,M,Amhara,Bahir Dar,1,1,1,1,1,1,0,0,negative,negative,135,88,109,Typhoid
+46,M,SNNPR,Arba Minch,1,1,1,0,1,0,1,0,positive,positive,117,71,96,Malaria
+26,F,Addis Ababa,Bole,1,0,1,1,1,1,0,0,negative,negative,120,78,98,Typhoid
+45,F,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,122,87,96,Typhoid
+10,F,Oromia,Adama,1,1,1,1,0,0,0,0,negative,negative,123,89,95,Pneumonia
+52,F,SNNPR,Arba Minch,0,1,1,0,0,0,0,1,negative,negative,146,104,250,Diabetes
+31,M,Addis Ababa,Kirkos,1,0,0,1,0,1,0,0,negative,negative,127,77,96,TB
+43,F,Addis Ababa,Arada,1,0,0,0,0,0,0,0,negative,negative,169,106,101,Hypertension
+66,F,Addis Ababa,Lideta,0,0,1,0,0,0,0,0,negative,negative,146,98,182,Diabetes
+22,M,Oromia,Harar,0,1,1,1,0,0,0,0,negative,negative,127,76,98,Typhoid
+59,M,Addis Ababa,Kirkos,1,1,0,1,0,0,0,1,negative,negative,119,81,105,TB
+47,M,Oromia,Harar,0,1,1,1,0,0,0,0,negative,negative,124,76,104,TB
+35,M,Amhara,Debre Markos,1,1,1,1,1,1,0,0,negative,negative,127,78,94,Typhoid
+42,M,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,118,74,92,TB
+56,M,Oromia,Dire Dawa,1,1,1,1,1,0,0,0,negative,negative,122,81,104,Pneumonia
+64,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,123,85,95,TB
+52,F,Tigray,Adigrat,1,0,1,0,1,1,0,1,negative,negative,125,83,100,Typhoid
+37,M,Amhara,Gondar,1,1,1,0,1,1,0,0,negative,negative,124,78,108,Typhoid
+46,F,Amhara,Bahir Dar,0,1,0,0,0,0,0,0,negative,negative,166,99,99,Hypertension
+47,M,Tigray,Shire,1,1,1,0,0,1,0,0,positive,positive,111,83,100,Malaria
+64,M,Amhara,Gondar,0,1,0,0,1,0,0,0,negative,negative,179,117,112,Hypertension
+58,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,170,117,108,Hypertension
+70,M,SNNPR,Arba Minch,1,1,1,0,0,0,0,0,negative,negative,190,105,118,Hypertension
+30,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,127,75,94,TB
+27,F,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,129,80,109,Pneumonia
+15,F,SNNPR,Arba Minch,1,1,1,0,1,0,1,0,positive,positive,128,81,98,Malaria
+31,M,SNNPR,Wolaita,1,1,1,1,0,1,0,0,negative,negative,126,80,94,Typhoid
+39,F,Oromia,Adama,1,1,1,0,1,1,0,0,negative,negative,121,85,102,Typhoid
+50,M,SNNPR,Hawassa,1,1,1,1,0,0,0,1,negative,negative,125,77,99,TB
+32,F,SNNPR,Hawassa,1,1,1,1,1,0,0,0,negative,negative,123,75,110,Typhoid
+51,F,Oromia,Dire Dawa,0,0,1,0,0,0,0,0,negative,negative,149,90,239,Diabetes
+54,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,128,88,92,Pneumonia
+46,F,Oromia,Harar,1,1,1,1,0,0,0,0,negative,negative,121,80,99,Pneumonia
+49,F,Tigray,Shire,0,1,1,1,0,0,0,0,negative,negative,147,103,212,Diabetes
+6,M,Tigray,Shire,1,1,1,1,0,0,1,0,negative,negative,125,81,106,Pneumonia
+39,M,Oromia,Adama,1,1,0,1,0,0,0,1,negative,negative,128,82,100,Pneumonia
+73,M,Oromia,Harar,0,0,1,0,1,0,0,0,negative,negative,138,94,208,Diabetes
+69,F,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,128,88,104,Pneumonia
+44,M,SNNPR,Hosanna,1,0,1,1,1,0,0,0,negative,negative,121,76,94,Typhoid
+65,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,127,86,103,Pneumonia
+9,F,Oromia,Jimma,1,1,0,1,0,1,0,0,negative,negative,126,75,102,Pneumonia
+20,M,Amhara,Gondar,1,0,1,1,0,1,1,0,negative,negative,136,88,100,Pneumonia
+52,F,Addis Ababa,Bole,1,1,1,1,1,1,0,0,negative,negative,135,87,90,Typhoid
+60,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,154,112,107,Hypertension
+68,M,SNNPR,Dilla,0,0,0,0,0,0,0,0,negative,negative,180,101,120,Hypertension
+72,M,Addis Ababa,Lideta,1,0,0,0,0,0,0,0,negative,negative,159,91,209,Diabetes
+16,F,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,137,82,92,Pneumonia
+55,F,Tigray,Wukro,0,1,1,0,0,0,0,0,negative,negative,154,114,105,Hypertension
+63,M,Oromia,Nekemte,0,0,1,0,0,0,0,0,negative,negative,160,92,186,Diabetes
+49,M,SNNPR,Hosanna,0,1,0,1,0,0,0,0,negative,negative,157,105,115,Hypertension
+72,M,Oromia,Dire Dawa,0,1,1,0,0,0,0,1,negative,negative,135,91,237,Diabetes
+22,F,Oromia,Harar,0,1,1,0,1,1,1,1,positive,positive,130,72,99,Malaria
+45,M,Addis Ababa,Kirkos,1,1,1,0,1,1,0,0,negative,negative,120,75,104,Typhoid
+53,F,Addis Ababa,Kirkos,1,1,1,1,1,1,0,0,negative,negative,132,78,95,Typhoid
+56,F,Amhara,Bahir Dar,1,1,1,1,0,1,0,0,negative,negative,133,81,98,Pneumonia
+42,M,Tigray,Wukro,1,0,1,1,0,0,0,1,negative,negative,120,70,94,TB
+49,F,Amhara,Debre Markos,0,1,1,0,0,0,0,1,negative,negative,185,103,113,Hypertension
+56,M,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,129,76,101,Pneumonia
+39,F,Tigray,Wukro,0,0,1,1,0,0,1,0,negative,negative,127,78,101,TB
+44,M,Tigray,Wukro,0,0,1,1,0,0,0,0,negative,negative,142,98,184,Diabetes
+56,F,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,125,79,91,Pneumonia
+36,F,Amhara,Gondar,0,0,1,1,0,0,0,0,negative,negative,128,75,91,TB
+49,M,Addis Ababa,Lideta,0,0,1,1,0,0,0,0,negative,negative,129,85,99,TB
+46,F,SNNPR,Hawassa,0,1,1,1,0,0,0,0,negative,negative,138,95,205,Diabetes
+68,M,Addis Ababa,Bole,0,1,1,1,1,0,0,0,negative,negative,149,97,198,Diabetes
+39,F,Amhara,Bahir Dar,0,0,1,1,0,0,0,0,negative,negative,139,105,249,Diabetes
+21,M,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,120,85,109,Pneumonia
+49,M,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,166,112,114,Hypertension
+21,M,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,123,88,108,Pneumonia
+55,M,Tigray,Mekelle,1,0,1,1,0,0,0,0,negative,negative,130,80,97,TB
+15,M,SNNPR,Dilla,1,1,1,0,0,0,1,0,positive,positive,115,71,89,Malaria
+61,M,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,178,104,112,Hypertension
+35,F,SNNPR,Dilla,1,0,1,0,0,0,1,0,negative,negative,135,100,232,Diabetes
+29,M,SNNPR,Hawassa,0,0,1,0,1,0,0,0,negative,negative,126,72,93,TB
+49,M,Tigray,Mekelle,1,1,1,1,0,0,1,0,negative,negative,118,80,99,TB
+42,F,Tigray,Axum,1,1,1,1,0,1,0,0,negative,negative,115,79,95,TB
+32,F,Oromia,Jimma,1,0,1,1,0,1,0,0,negative,negative,120,71,92,TB
+58,F,Tigray,Mekelle,0,0,1,0,0,0,1,0,negative,negative,144,98,206,Diabetes
+35,F,SNNPR,Arba Minch,1,0,1,1,1,1,0,0,negative,negative,133,90,91,Typhoid
+73,F,Oromia,Harar,0,0,1,0,0,0,0,0,negative,negative,144,92,190,Diabetes
+27,M,SNNPR,Dilla,1,1,1,0,1,0,1,0,positive,positive,113,73,97,Malaria
+33,F,Amhara,Gondar,1,1,0,0,0,0,1,0,positive,positive,125,71,89,Malaria
+52,M,SNNPR,Hawassa,0,0,0,0,0,0,0,0,negative,negative,174,108,99,Hypertension
+28,M,Tigray,Wukro,1,1,1,1,0,1,0,1,negative,negative,131,90,107,Pneumonia
+5,M,SNNPR,Hosanna,1,1,1,1,1,0,0,1,negative,negative,121,79,106,Pneumonia
+45,F,Tigray,Mekelle,0,1,1,0,1,0,0,0,negative,negative,165,115,95,Hypertension
+43,M,Oromia,Harar,1,1,1,0,0,1,0,0,negative,negative,123,80,102,Typhoid
+18,F,Oromia,Jimma,1,1,0,0,0,0,1,0,positive,positive,130,74,86,Malaria
+43,F,Tigray,Shire,1,1,1,1,0,0,0,0,negative,negative,121,79,94,TB
+50,F,Amhara,Gondar,1,0,1,1,0,0,0,1,negative,negative,128,73,98,TB
+39,F,Oromia,Dire Dawa,1,1,1,0,0,1,0,0,negative,negative,122,86,106,Typhoid
+26,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,116,81,101,TB
+12,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,131,81,93,Pneumonia
+60,F,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,177,118,104,Hypertension
+65,M,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,175,112,95,Hypertension
+54,M,Amhara,Gondar,0,0,1,1,1,0,0,0,negative,negative,118,75,90,TB
+38,F,SNNPR,Arba Minch,1,1,1,0,0,0,1,0,positive,positive,122,79,93,Malaria
+26,M,Tigray,Axum,1,1,0,0,0,0,1,0,positive,positive,115,84,100,Malaria
+30,M,Addis Ababa,Yeka,1,1,1,1,1,1,0,1,negative,negative,126,82,95,Typhoid
+52,F,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,145,87,222,Diabetes
+46,M,SNNPR,Hawassa,0,1,1,1,0,0,0,0,negative,negative,115,82,94,TB
+33,M,Amhara,Dessie,0,1,1,1,1,1,0,1,negative,negative,121,87,102,Typhoid
+55,M,SNNPR,Hawassa,1,1,1,1,0,0,0,0,negative,negative,119,79,87,TB
+42,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,179,108,99,Hypertension
+61,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,127,78,98,TB
+44,F,Addis Ababa,Arada,0,1,0,0,0,0,0,0,negative,negative,181,118,113,Hypertension
+52,M,Tigray,Wukro,0,0,1,0,0,0,1,0,negative,negative,157,91,198,Diabetes
+60,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,137,77,93,Pneumonia
+64,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,119,76,103,TB
+54,F,Tigray,Axum,0,0,1,0,0,0,0,0,negative,negative,159,101,247,Diabetes
+28,M,SNNPR,Hosanna,1,1,1,0,0,1,0,1,negative,negative,122,81,98,Typhoid
+58,F,Tigray,Adigrat,0,0,1,0,0,1,0,0,negative,negative,156,99,214,Diabetes
+59,M,Addis Ababa,Kirkos,0,0,0,0,0,0,1,0,negative,negative,153,89,233,Diabetes
+39,F,Amhara,Bahir Dar,1,1,0,0,0,0,1,0,positive,positive,126,82,95,Malaria
+47,F,Tigray,Mekelle,0,1,1,1,1,0,0,0,negative,negative,128,74,94,TB
+43,F,Oromia,Dire Dawa,0,1,1,0,0,0,1,0,negative,negative,189,110,104,Hypertension
+24,M,Amhara,Debre Birhan,1,1,1,0,1,0,1,1,positive,positive,112,84,85,Malaria
+46,M,Oromia,Harar,1,0,1,1,1,1,1,0,negative,negative,121,82,90,Typhoid
+52,M,Amhara,Debre Markos,0,1,1,0,0,0,0,0,negative,negative,153,100,197,Diabetes
+46,M,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,127,85,94,TB
+35,F,SNNPR,Arba Minch,0,0,0,0,0,0,0,0,negative,negative,135,90,212,Diabetes
+34,M,Amhara,Bahir Dar,1,0,0,1,0,0,0,0,negative,negative,124,74,86,TB
+26,F,SNNPR,Dilla,1,1,1,1,0,0,1,0,negative,negative,128,80,96,Typhoid
+47,M,Addis Ababa,Yeka,1,1,1,0,0,0,1,0,positive,positive,117,75,98,Malaria
+38,F,Addis Ababa,Yeka,1,1,1,0,1,0,1,0,positive,positive,122,82,90,Malaria
+48,M,Tigray,Mekelle,0,0,0,0,0,0,0,0,negative,negative,147,96,223,Diabetes
+54,F,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,149,104,244,Diabetes
+36,M,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,160,102,237,Diabetes
+50,F,SNNPR,Dilla,1,1,1,0,0,0,1,0,positive,positive,127,71,99,Malaria
+53,F,Addis Ababa,Bole,0,1,1,1,0,0,0,0,negative,negative,190,107,100,Hypertension
+31,F,Addis Ababa,Lideta,1,1,1,1,1,0,1,0,negative,negative,132,78,95,Pneumonia
+16,F,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,113,74,85,Malaria
+71,M,SNNPR,Dilla,0,0,1,0,1,0,0,0,negative,negative,187,112,99,Hypertension
+34,M,Tigray,Wukro,1,0,1,1,0,1,0,1,negative,negative,135,85,104,Pneumonia
+74,F,Addis Ababa,Kirkos,0,1,1,0,0,0,0,0,negative,negative,160,91,192,Diabetes
+46,F,Oromia,Nekemte,1,0,1,1,0,0,0,0,negative,negative,123,78,93,TB
+34,F,Addis Ababa,Lideta,1,0,1,0,0,1,0,0,positive,positive,114,77,95,Malaria
+27,F,Addis Ababa,Arada,1,1,1,0,0,1,1,0,positive,positive,124,84,86,Malaria
+34,F,Tigray,Shire,1,1,1,1,0,1,0,0,negative,negative,133,88,99,Typhoid
+19,F,Amhara,Gondar,1,1,1,0,1,0,1,0,positive,positive,124,75,89,Malaria
+68,M,Oromia,Harar,0,1,0,0,0,0,0,0,negative,negative,169,115,100,Hypertension
+34,M,Tigray,Mekelle,1,0,1,1,1,1,0,0,negative,negative,132,75,104,Typhoid
+39,F,SNNPR,Dilla,1,1,1,1,1,1,0,1,negative,negative,135,83,109,Typhoid
+42,M,SNNPR,Hawassa,1,0,1,1,0,0,1,0,positive,positive,119,73,92,Malaria
+42,F,SNNPR,Hawassa,0,1,1,1,0,0,0,0,negative,negative,119,82,94,TB
+80,M,Amhara,Bahir Dar,0,1,0,0,0,1,0,0,negative,negative,161,98,112,Hypertension
+46,F,SNNPR,Dilla,1,1,0,1,0,1,0,0,negative,negative,127,83,95,Typhoid
+23,M,Amhara,Gondar,1,1,1,0,1,0,1,0,positive,positive,123,85,96,Malaria
+36,M,SNNPR,Dilla,0,1,1,1,0,0,1,0,negative,negative,142,96,188,Diabetes
+43,F,Tigray,Adigrat,1,1,1,1,0,0,0,0,negative,negative,126,77,108,Pneumonia
+57,F,Addis Ababa,Yeka,0,0,1,0,0,0,0,1,negative,negative,154,86,183,Diabetes
+55,F,Oromia,Jimma,1,1,1,0,1,0,0,0,negative,negative,128,87,105,Typhoid
+31,M,Addis Ababa,Bole,1,1,0,1,0,1,0,0,negative,negative,131,90,99,Typhoid
+47,M,Tigray,Mekelle,0,0,1,0,0,0,0,0,negative,negative,157,85,217,Diabetes
+35,F,Amhara,Dessie,1,1,1,0,0,0,1,1,positive,positive,127,85,92,Malaria
+34,M,Addis Ababa,Bole,1,0,1,0,0,0,1,0,positive,positive,125,72,99,Malaria
+17,F,Addis Ababa,Yeka,1,1,1,0,0,0,0,0,positive,positive,123,76,92,Malaria
+44,F,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,171,117,95,Hypertension
+60,M,Amhara,Debre Markos,0,1,0,1,0,1,0,0,negative,negative,187,113,99,Hypertension
+21,F,SNNPR,Arba Minch,1,1,1,0,1,1,0,0,positive,positive,128,74,90,Malaria
+51,M,Tigray,Adigrat,0,1,0,0,0,0,0,0,negative,negative,184,104,101,Hypertension
+26,M,Amhara,Gondar,1,1,0,1,1,1,0,0,negative,negative,133,84,100,Typhoid
+33,F,Amhara,Debre Birhan,1,1,1,1,0,1,0,0,negative,negative,126,83,95,Typhoid
+43,F,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,173,100,114,Hypertension
+34,F,SNNPR,Hawassa,1,1,1,0,0,0,0,0,negative,negative,132,80,101,Pneumonia
+52,M,Addis Ababa,Arada,1,1,1,0,1,1,0,0,negative,negative,129,89,98,Typhoid
+60,F,Amhara,Debre Markos,1,1,1,1,0,0,0,0,negative,negative,130,82,94,Pneumonia
+37,F,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,122,80,93,TB
+38,F,Addis Ababa,Yeka,1,1,1,1,0,1,0,0,negative,negative,135,82,109,Typhoid
+69,M,SNNPR,Hawassa,0,1,0,1,0,0,0,0,negative,negative,137,85,211,Diabetes
+46,M,SNNPR,Arba Minch,1,1,1,0,1,1,1,0,positive,positive,125,70,89,Malaria
+40,M,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,140,83,94,Pneumonia
+77,M,SNNPR,Wolaita,0,1,0,0,0,0,0,0,negative,negative,187,115,104,Hypertension
+28,F,Addis Ababa,Yeka,1,1,0,0,0,0,1,0,positive,positive,124,72,98,Malaria
+8,F,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,123,87,97,Pneumonia
+73,F,Addis Ababa,Bole,0,1,1,1,0,0,0,0,negative,negative,156,91,215,Diabetes
+41,F,Oromia,Harar,0,0,1,1,1,0,0,1,negative,negative,143,102,191,Diabetes
+40,M,Tigray,Wukro,1,1,1,0,1,0,0,0,positive,positive,111,74,98,Malaria
+20,F,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,136,85,99,Pneumonia
+51,M,Oromia,Jimma,0,1,1,0,0,1,0,0,negative,negative,138,91,249,Diabetes
+12,M,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,129,75,94,Pneumonia
+54,M,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,130,72,104,TB
+47,F,Addis Ababa,Yeka,1,1,1,0,1,0,1,0,negative,negative,135,84,109,Typhoid
+39,M,Addis Ababa,Yeka,1,1,1,0,1,0,1,0,positive,positive,120,71,98,Malaria
+62,M,SNNPR,Hawassa,0,1,1,1,0,0,0,0,negative,negative,137,85,197,Diabetes
+63,F,SNNPR,Hawassa,0,1,1,0,0,0,0,0,negative,negative,188,104,111,Hypertension
+73,M,Oromia,Adama,0,0,1,0,0,0,0,0,negative,negative,146,96,244,Diabetes
+34,M,SNNPR,Hawassa,1,1,1,1,0,1,0,1,negative,negative,115,71,87,TB
+42,M,Amhara,Bahir Dar,0,1,1,0,0,0,0,0,negative,negative,118,70,85,TB
+66,F,Addis Ababa,Lideta,1,1,0,0,0,0,1,0,negative,negative,162,111,118,Hypertension
+22,F,Amhara,Gondar,1,1,1,0,1,0,1,0,positive,positive,126,76,96,Malaria
+72,F,Oromia,Adama,0,1,1,1,0,0,0,0,negative,negative,157,88,211,Diabetes
+26,F,Amhara,Debre Markos,0,0,0,1,0,0,0,1,negative,negative,128,79,88,TB
+63,F,Addis Ababa,Bole,0,1,1,0,0,0,1,0,negative,negative,189,104,117,Hypertension
+40,F,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,128,84,94,TB
+80,M,Addis Ababa,Bole,0,1,0,0,0,0,0,0,negative,negative,185,115,117,Hypertension
+29,F,Addis Ababa,Lideta,1,1,1,0,0,0,1,0,positive,positive,117,82,85,Malaria
+46,F,Tigray,Adigrat,0,0,1,1,0,0,0,0,negative,negative,128,83,103,TB
+43,F,Tigray,Axum,0,0,1,0,0,0,0,0,negative,negative,178,119,103,Hypertension
+53,M,Oromia,Dire Dawa,1,1,1,1,0,1,0,0,negative,negative,119,81,92,TB
+41,F,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,161,105,120,Hypertension
+49,F,Amhara,Gondar,1,0,1,0,1,1,1,0,positive,positive,119,73,95,Malaria
+40,F,Addis Ababa,Bole,1,1,1,1,0,1,0,0,negative,negative,127,70,90,TB
+35,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,122,72,95,TB
+74,M,Addis Ababa,Arada,0,1,0,0,0,0,0,0,negative,negative,155,109,100,Hypertension
+46,F,Amhara,Debre Birhan,1,1,1,0,0,0,0,0,positive,positive,117,75,97,Malaria
+31,F,Oromia,Dire Dawa,1,1,1,1,0,0,0,0,negative,negative,129,86,90,Pneumonia
+29,M,SNNPR,Hawassa,1,1,1,0,1,0,0,0,negative,negative,121,75,91,Typhoid
+41,M,Addis Ababa,Yeka,0,1,1,0,0,0,0,1,negative,negative,173,106,114,Hypertension
+25,F,Addis Ababa,Lideta,0,1,1,1,0,0,0,0,negative,negative,117,82,105,TB
+69,F,Addis Ababa,Bole,0,1,1,0,0,1,0,0,negative,negative,172,101,116,Hypertension
+41,M,SNNPR,Dilla,0,0,1,1,0,0,0,0,negative,negative,139,85,200,Diabetes
+40,F,SNNPR,Hosanna,1,0,1,0,0,0,0,0,negative,negative,155,102,236,Diabetes
+39,F,SNNPR,Arba Minch,1,1,1,0,0,0,1,0,positive,positive,130,79,96,Malaria
+33,F,Oromia,Adama,1,1,1,1,1,0,0,0,negative,negative,127,79,97,Pneumonia
+44,M,Amhara,Debre Markos,0,1,0,0,0,0,0,0,negative,negative,184,117,103,Hypertension
+46,M,SNNPR,Dilla,1,1,0,0,0,0,1,0,positive,positive,110,82,96,Malaria
+47,F,Tigray,Axum,1,0,1,0,1,0,0,0,negative,negative,130,86,97,Typhoid
+51,F,SNNPR,Wolaita,1,1,1,1,1,1,0,0,negative,negative,128,84,101,Typhoid
+16,F,SNNPR,Arba Minch,1,0,1,0,0,0,0,0,positive,positive,114,71,98,Malaria
+48,F,SNNPR,Arba Minch,1,1,1,1,1,0,0,0,negative,negative,124,77,94,Typhoid
+42,F,SNNPR,Wolaita,0,1,1,1,0,0,0,0,negative,negative,157,85,216,Diabetes
+56,F,Amhara,Debre Markos,1,0,1,1,1,0,0,0,negative,negative,124,84,102,TB
+49,M,Amhara,Dessie,0,0,0,0,0,0,1,0,negative,negative,181,107,119,Hypertension
+68,M,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,158,120,99,Hypertension
+18,F,Addis Ababa,Yeka,1,1,1,0,1,0,1,0,positive,positive,128,82,85,Malaria
+45,F,SNNPR,Hawassa,0,1,0,0,0,0,0,0,negative,negative,154,89,183,Diabetes
+58,F,Tigray,Wukro,0,1,0,1,0,0,1,0,negative,negative,141,96,186,Diabetes
+40,M,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,153,101,111,Hypertension
+72,M,Tigray,Shire,0,1,1,0,0,0,0,1,negative,negative,163,105,101,Hypertension
+75,M,Tigray,Wukro,0,0,1,0,1,1,0,0,negative,negative,147,101,220,Diabetes
+41,F,Oromia,Dire Dawa,1,1,1,1,0,1,0,0,negative,negative,123,87,109,Pneumonia
+70,M,SNNPR,Hawassa,0,1,1,0,0,0,0,1,negative,negative,153,100,229,Diabetes
+50,M,Amhara,Gondar,1,1,1,1,1,0,0,0,negative,negative,128,86,110,Pneumonia
+39,F,SNNPR,Wolaita,0,1,1,0,0,0,0,0,negative,negative,151,90,216,Diabetes
+44,F,Amhara,Bahir Dar,1,1,1,1,1,1,0,0,negative,negative,133,90,109,Typhoid
+20,M,Oromia,Jimma,1,1,1,0,1,0,0,0,negative,negative,127,83,100,Typhoid
+38,M,Amhara,Debre Markos,1,1,0,0,0,1,1,0,positive,positive,110,85,89,Malaria
+40,F,Amhara,Debre Birhan,0,0,0,0,0,0,0,0,negative,negative,182,104,99,Hypertension
+33,F,Addis Ababa,Arada,1,0,1,1,1,1,0,0,negative,negative,123,74,91,TB
+43,F,Amhara,Bahir Dar,1,0,1,1,0,0,0,0,negative,negative,128,73,103,TB
+75,F,Oromia,Dire Dawa,0,0,1,0,0,0,1,0,negative,negative,156,97,247,Diabetes
+32,F,Tigray,Mekelle,1,1,1,0,0,0,0,0,negative,negative,131,81,104,Typhoid
+47,M,Amhara,Bahir Dar,0,0,1,0,1,1,0,0,negative,negative,142,98,186,Diabetes
+36,F,Addis Ababa,Bole,1,0,1,0,1,0,0,0,positive,positive,110,70,86,Malaria
+45,F,Addis Ababa,Lideta,1,1,1,0,1,0,0,0,negative,negative,130,84,106,Typhoid
+48,F,SNNPR,Hawassa,0,1,1,0,1,0,0,0,negative,negative,151,98,229,Diabetes
+40,M,Oromia,Jimma,1,0,1,1,0,0,0,0,negative,negative,124,82,102,TB
+41,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,117,79,97,TB
+35,M,Addis Ababa,Bole,1,1,1,0,0,0,1,0,positive,positive,130,76,92,Malaria
+51,M,SNNPR,Hosanna,0,0,1,1,0,1,1,1,negative,negative,122,72,102,TB
+19,M,Tigray,Wukro,0,1,1,1,0,0,1,0,negative,negative,139,80,109,Pneumonia
+43,M,Oromia,Nekemte,0,1,1,1,0,0,0,0,negative,negative,182,120,120,Hypertension
+23,M,SNNPR,Hosanna,1,1,1,0,0,0,0,0,positive,positive,110,81,92,Malaria
+20,M,Tigray,Wukro,1,1,1,1,0,0,1,0,positive,positive,126,79,89,Malaria
+50,M,Tigray,Axum,1,1,1,0,0,0,0,0,positive,positive,125,83,100,Malaria
+46,F,SNNPR,Dilla,0,1,1,0,0,0,0,0,negative,negative,172,95,97,Hypertension
+65,M,SNNPR,Dilla,0,1,1,0,0,0,1,0,negative,negative,162,109,115,Hypertension
+15,F,Tigray,Axum,1,0,1,1,0,0,0,0,negative,negative,127,85,108,Pneumonia
+41,M,Tigray,Shire,0,0,1,0,0,0,0,0,negative,negative,141,102,227,Diabetes
+74,M,Tigray,Mekelle,0,0,0,0,0,0,0,0,negative,negative,180,112,113,Hypertension
+24,M,Addis Ababa,Yeka,1,1,1,1,1,1,0,0,negative,negative,121,76,110,Typhoid
+27,M,Addis Ababa,Kirkos,1,0,1,1,0,0,0,0,negative,negative,116,77,105,TB
+24,M,Oromia,Adama,1,1,1,1,0,0,1,0,positive,positive,115,70,97,Malaria
+78,F,Amhara,Gondar,0,0,1,0,0,0,0,0,negative,negative,150,120,110,Hypertension
+52,M,Amhara,Debre Markos,0,0,0,0,0,0,0,0,negative,negative,190,104,95,Hypertension
+60,F,Oromia,Nekemte,0,0,0,0,0,0,0,1,negative,negative,174,112,110,Hypertension
+43,F,Tigray,Shire,1,1,1,1,1,1,0,0,negative,negative,131,81,98,Typhoid
+47,F,Addis Ababa,Kirkos,0,0,1,0,0,0,0,0,negative,negative,147,94,246,Diabetes
+40,M,Oromia,Dire Dawa,1,0,1,1,0,0,0,0,negative,negative,121,78,94,TB
+47,F,Addis Ababa,Bole,1,1,1,1,1,0,1,0,negative,negative,128,87,104,Typhoid
+20,M,SNNPR,Arba Minch,1,0,1,0,1,0,0,0,negative,negative,135,79,108,Typhoid
+42,F,Oromia,Jimma,1,1,1,1,0,0,1,0,negative,negative,115,79,95,TB
+26,M,Tigray,Axum,1,1,1,0,1,0,1,0,positive,positive,117,85,95,Malaria
+25,M,Oromia,Jimma,1,1,1,0,1,1,0,0,negative,negative,124,88,102,Typhoid
+42,M,Oromia,Harar,1,1,1,0,1,1,0,0,negative,negative,133,76,109,Typhoid
+45,M,Tigray,Mekelle,1,1,0,0,0,0,0,0,negative,negative,152,119,108,Hypertension
+50,M,Addis Ababa,Bole,1,1,1,1,0,1,1,0,negative,negative,135,86,103,Typhoid
+50,F,Tigray,Mekelle,0,1,1,0,0,0,0,0,negative,negative,187,114,96,Hypertension
+34,M,Addis Ababa,Arada,1,0,1,1,0,1,0,0,negative,negative,129,85,91,Pneumonia
+61,M,Amhara,Dessie,0,1,1,0,0,0,0,0,negative,negative,185,111,96,Hypertension
+57,F,Oromia,Nekemte,1,1,1,1,0,0,0,0,negative,negative,120,77,88,TB
+36,M,SNNPR,Wolaita,1,1,1,0,1,0,0,1,negative,negative,129,83,96,Typhoid
+48,M,Tigray,Axum,1,1,1,0,0,0,0,0,positive,positive,128,85,100,Malaria
+21,F,Oromia,Dire Dawa,1,1,0,0,0,0,0,0,positive,positive,112,84,91,Malaria
+52,M,SNNPR,Arba Minch,1,1,1,1,1,0,0,0,negative,negative,127,87,108,Typhoid
+35,F,Amhara,Dessie,1,1,1,0,0,0,1,0,positive,positive,119,81,87,Malaria
+37,M,Tigray,Shire,1,1,0,1,0,0,0,0,negative,negative,130,71,91,TB
+59,F,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,163,103,108,Hypertension
+69,F,Tigray,Mekelle,0,0,1,0,0,1,0,0,negative,negative,158,109,100,Hypertension
+18,F,Oromia,Jimma,1,1,1,0,1,1,1,0,positive,positive,121,77,90,Malaria
+50,M,Oromia,Dire Dawa,1,1,1,0,0,0,1,0,positive,positive,112,85,92,Malaria
+64,M,SNNPR,Hosanna,0,1,1,0,1,1,0,0,negative,negative,156,119,96,Hypertension
+6,F,Oromia,Dire Dawa,1,1,0,1,0,0,0,0,negative,negative,126,89,90,Pneumonia
+58,M,Oromia,Harar,0,0,1,0,0,0,0,0,negative,negative,147,96,223,Diabetes
+19,M,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,124,88,97,Pneumonia
+57,F,Oromia,Jimma,0,0,1,0,0,0,0,0,negative,negative,149,88,205,Diabetes
+68,F,Tigray,Mekelle,0,1,1,0,0,0,0,1,negative,negative,144,97,228,Diabetes
+51,F,Amhara,Gondar,1,0,1,0,1,1,0,0,negative,negative,123,86,95,Typhoid
+57,M,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,127,82,103,TB
+65,M,Amhara,Dessie,0,0,1,1,0,0,0,0,negative,negative,147,92,190,Diabetes
+61,M,Amhara,Debre Birhan,1,0,1,1,0,0,1,0,negative,negative,116,82,89,TB
+41,M,Addis Ababa,Arada,0,0,1,1,0,1,0,0,negative,negative,159,97,186,Diabetes
+47,F,Addis Ababa,Lideta,1,0,1,1,0,0,0,0,negative,negative,139,76,100,Pneumonia
+28,M,SNNPR,Hawassa,1,1,1,1,1,1,1,0,negative,negative,123,75,103,Typhoid
+46,M,Tigray,Adigrat,1,1,1,0,1,0,0,0,positive,positive,124,75,98,Malaria
+41,F,Addis Ababa,Arada,1,0,1,1,0,0,0,0,positive,positive,130,71,97,Malaria
+45,M,Oromia,Jimma,0,1,1,0,0,0,0,0,negative,negative,142,91,233,Diabetes
+30,M,SNNPR,Hosanna,1,1,1,0,1,0,0,0,positive,positive,115,81,94,Malaria
+58,F,Addis Ababa,Kirkos,1,1,0,1,0,0,0,0,negative,negative,119,85,93,TB
+53,M,Amhara,Debre Markos,0,0,1,0,1,0,0,0,negative,negative,154,115,118,Hypertension
+56,F,Amhara,Bahir Dar,0,0,1,1,1,0,0,0,negative,negative,123,81,93,TB
+28,F,Tigray,Axum,1,1,1,0,1,0,1,0,positive,positive,120,71,98,Malaria
+59,F,Addis Ababa,Lideta,0,1,0,1,0,0,0,0,negative,negative,179,110,115,Hypertension
+41,M,SNNPR,Dilla,1,1,1,0,1,0,0,0,negative,negative,124,78,105,Typhoid
+54,F,Oromia,Jimma,0,1,0,0,0,1,0,0,negative,negative,164,120,120,Hypertension
+41,M,Amhara,Gondar,1,1,1,0,1,0,1,0,positive,positive,127,78,89,Malaria
+41,M,Tigray,Axum,0,0,1,0,0,0,0,1,negative,negative,182,108,116,Hypertension
+36,F,Tigray,Mekelle,1,1,1,0,1,0,0,0,positive,positive,124,71,95,Malaria
+65,M,Tigray,Shire,0,0,1,1,0,0,1,0,negative,negative,117,70,105,TB
+40,F,Tigray,Wukro,1,1,1,1,1,1,0,0,negative,negative,133,88,109,Typhoid
+30,F,Amhara,Gondar,1,1,1,0,1,1,0,0,negative,negative,120,82,99,Typhoid
+37,M,Tigray,Mekelle,1,1,1,1,1,1,0,0,negative,negative,127,82,98,Typhoid
+50,F,Oromia,Harar,1,0,1,1,1,0,0,0,negative,negative,127,80,102,Typhoid
+43,F,Tigray,Mekelle,0,1,0,1,0,0,0,0,negative,negative,151,104,227,Diabetes
+52,F,Oromia,Jimma,0,0,1,0,0,0,0,0,negative,negative,150,97,222,Diabetes
+31,F,Oromia,Harar,1,1,1,0,0,0,1,0,positive,positive,118,79,97,Malaria
+64,F,SNNPR,Dilla,0,1,1,1,0,0,0,0,negative,negative,177,113,96,Hypertension
+31,F,Oromia,Adama,1,1,1,0,0,0,0,0,positive,positive,122,85,96,Malaria
+60,F,Oromia,Nekemte,1,0,1,1,1,0,0,0,negative,negative,125,81,99,Pneumonia
+53,F,Addis Ababa,Arada,0,1,0,0,0,0,1,0,negative,negative,176,108,117,Hypertension
+49,F,Tigray,Shire,1,0,1,1,0,0,1,0,negative,negative,152,103,201,Diabetes
+53,M,Tigray,Mekelle,0,1,0,1,0,0,0,0,negative,negative,120,82,94,TB
+39,F,Amhara,Debre Birhan,0,0,1,0,0,1,0,0,negative,negative,146,92,182,Diabetes
+45,M,Oromia,Jimma,0,1,0,1,0,0,1,0,negative,negative,182,106,99,Hypertension
+71,F,Tigray,Wukro,0,1,0,0,0,1,0,0,negative,negative,166,104,116,Hypertension
+38,F,SNNPR,Hosanna,0,1,1,1,0,1,0,0,negative,negative,126,84,98,TB
+45,M,SNNPR,Arba Minch,1,1,1,0,0,0,1,0,positive,positive,114,82,92,Malaria
+61,F,Oromia,Harar,1,0,0,1,0,0,0,0,negative,negative,131,83,99,Pneumonia
+55,F,Addis Ababa,Yeka,0,1,1,0,0,0,0,0,negative,negative,165,110,107,Hypertension
+58,F,Tigray,Mekelle,1,1,0,1,0,1,0,0,negative,negative,129,77,92,Pneumonia
+55,M,Amhara,Bahir Dar,1,1,1,1,0,0,1,0,negative,negative,127,81,101,TB
+35,F,Tigray,Shire,1,0,1,0,1,1,0,0,negative,negative,124,88,103,Typhoid
+15,M,Tigray,Adigrat,1,0,1,1,0,0,1,0,positive,positive,121,83,87,Malaria
+47,F,Tigray,Mekelle,1,1,1,0,0,0,0,0,positive,positive,112,79,94,Malaria
+62,F,Oromia,Harar,1,0,1,1,0,0,0,0,negative,negative,140,87,107,Pneumonia
+21,F,Amhara,Debre Markos,1,0,1,1,1,1,0,0,negative,negative,127,75,95,Typhoid
+46,F,SNNPR,Wolaita,0,1,0,0,0,0,0,1,negative,negative,136,96,188,Diabetes
+25,F,SNNPR,Hawassa,1,1,1,1,1,1,0,0,negative,negative,130,80,98,Typhoid
+43,F,Amhara,Bahir Dar,1,0,1,1,0,0,0,0,negative,negative,136,90,110,Pneumonia
+42,M,Addis Ababa,Arada,1,0,1,1,1,1,0,0,negative,negative,126,75,94,Typhoid
+57,F,Amhara,Debre Markos,0,0,1,1,1,0,0,0,negative,negative,126,75,88,TB
+46,F,Addis Ababa,Lideta,1,1,1,1,0,1,0,0,negative,negative,132,85,101,Pneumonia
+42,F,SNNPR,Wolaita,0,1,1,0,1,0,0,0,negative,negative,137,102,185,Diabetes
+43,M,Addis Ababa,Bole,0,0,1,0,0,0,0,0,negative,negative,188,106,113,Hypertension
+35,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,126,82,92,Pneumonia
+47,F,Amhara,Bahir Dar,0,1,1,1,0,1,0,1,negative,negative,118,71,104,TB
+66,F,Addis Ababa,Lideta,0,0,1,0,0,0,0,0,negative,negative,169,98,120,Hypertension
+46,M,Amhara,Dessie,0,0,1,0,1,0,1,0,negative,negative,158,88,182,Diabetes
+18,F,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,124,78,102,Pneumonia
+44,F,Addis Ababa,Kirkos,0,1,0,0,0,0,0,0,negative,negative,153,97,198,Diabetes
+48,M,Tigray,Adigrat,1,0,1,1,0,0,1,0,positive,positive,130,81,100,Malaria
+28,F,Oromia,Jimma,1,1,0,0,0,1,0,0,negative,negative,124,83,96,Typhoid
+64,M,Amhara,Debre Birhan,0,1,1,0,1,0,0,0,negative,negative,155,85,198,Diabetes
+73,F,Oromia,Dire Dawa,1,1,1,0,0,1,0,0,negative,negative,180,103,109,Hypertension
+48,M,Addis Ababa,Bole,1,1,1,1,0,0,0,0,negative,negative,121,78,102,Pneumonia
+65,F,SNNPR,Arba Minch,1,0,1,1,0,0,0,0,negative,negative,122,72,91,TB
+11,F,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,135,83,104,Pneumonia
+15,M,Addis Ababa,Bole,1,1,1,0,0,0,0,0,positive,positive,117,75,94,Malaria
+29,M,Tigray,Adigrat,0,0,0,1,0,0,0,0,negative,negative,128,85,91,TB
+43,F,Amhara,Gondar,0,1,1,0,0,0,0,0,negative,negative,176,120,105,Hypertension
+24,M,Tigray,Wukro,1,0,1,1,0,0,0,0,negative,negative,126,79,97,Pneumonia
+38,M,SNNPR,Hosanna,1,1,1,1,0,0,0,0,negative,negative,115,82,93,TB
+60,M,SNNPR,Wolaita,0,0,1,1,0,0,0,1,negative,negative,130,80,96,TB
+61,M,Addis Ababa,Lideta,0,1,1,0,0,1,0,0,negative,negative,174,116,100,Hypertension
+61,F,Oromia,Adama,1,0,1,1,0,0,0,1,negative,negative,131,88,99,Pneumonia
+40,F,Addis Ababa,Lideta,1,0,1,0,0,0,0,0,positive,positive,111,73,97,Malaria
+22,M,Tigray,Wukro,1,1,1,1,1,1,0,0,negative,negative,129,80,105,Typhoid
+57,M,Addis Ababa,Lideta,1,1,1,0,0,0,0,0,negative,negative,126,81,99,Pneumonia
+35,M,Tigray,Axum,0,1,1,0,0,0,0,0,negative,negative,143,93,233,Diabetes
+37,M,Addis Ababa,Kirkos,1,1,1,0,1,0,0,0,positive,positive,114,85,89,Malaria
+36,M,SNNPR,Wolaita,1,1,1,0,0,0,1,0,positive,positive,114,81,86,Malaria
+25,F,Tigray,Axum,1,0,1,1,0,1,1,0,negative,negative,125,88,98,Typhoid
+43,F,SNNPR,Hosanna,1,1,1,1,0,1,0,0,negative,negative,123,77,104,Typhoid
+52,F,Oromia,Jimma,1,0,1,1,0,0,0,0,negative,negative,128,80,106,Pneumonia
+55,F,Addis Ababa,Arada,0,1,1,0,0,1,1,0,negative,negative,189,103,115,Hypertension
+53,F,Amhara,Dessie,0,1,1,0,0,0,0,1,negative,negative,187,103,119,Hypertension
+38,F,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,145,105,212,Diabetes
+63,M,Tigray,Wukro,0,1,1,1,0,0,0,0,negative,negative,131,89,106,Pneumonia
+50,F,Oromia,Jimma,1,0,1,1,1,0,0,0,negative,negative,121,80,89,TB
+29,F,Tigray,Shire,1,1,1,1,0,1,0,0,negative,negative,135,86,106,Typhoid
+41,F,Oromia,Jimma,1,0,1,0,0,0,1,0,positive,positive,130,79,99,Malaria
+34,M,SNNPR,Hawassa,1,1,0,0,0,0,0,0,positive,positive,125,77,94,Malaria
+50,F,Tigray,Wukro,1,1,1,0,1,0,1,0,positive,positive,110,76,97,Malaria
+16,M,SNNPR,Wolaita,1,1,1,0,0,1,1,0,positive,positive,130,78,86,Malaria
+60,M,Addis Ababa,Yeka,1,1,0,1,0,0,0,0,negative,negative,137,88,104,Pneumonia
+36,F,Amhara,Dessie,1,1,0,1,0,0,1,1,negative,negative,124,79,107,Pneumonia
+48,F,Oromia,Jimma,0,1,1,1,1,0,1,0,negative,negative,144,90,243,Diabetes
+59,M,SNNPR,Dilla,0,0,1,0,0,0,0,0,negative,negative,167,111,95,Hypertension
+20,M,SNNPR,Arba Minch,1,1,1,1,0,1,1,0,negative,negative,130,80,103,Typhoid
+50,F,Oromia,Jimma,1,0,1,1,1,1,0,0,negative,negative,126,80,92,Typhoid
+65,M,Tigray,Axum,0,1,1,1,0,0,0,0,negative,negative,124,82,95,TB
+38,F,SNNPR,Wolaita,1,1,1,1,0,1,0,0,negative,negative,137,85,92,Pneumonia
+44,F,Amhara,Debre Birhan,0,1,1,1,0,0,0,0,negative,negative,134,88,106,Typhoid
+31,F,SNNPR,Hawassa,1,0,1,1,0,0,0,0,negative,negative,116,73,88,TB
+48,M,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,120,88,105,Typhoid
+18,M,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,123,90,94,Pneumonia
+33,F,Addis Ababa,Bole,1,1,1,0,1,0,1,0,positive,positive,119,80,97,Malaria
+64,F,SNNPR,Wolaita,1,0,1,1,0,0,0,1,negative,negative,123,71,103,TB
+71,M,Amhara,Debre Markos,0,0,0,0,0,0,0,1,negative,negative,173,112,113,Hypertension
+27,F,Addis Ababa,Kirkos,1,1,1,0,1,0,1,0,positive,positive,130,82,89,Malaria
+35,F,Oromia,Jimma,1,1,1,1,0,0,0,0,negative,negative,115,74,104,TB
+32,F,Addis Ababa,Kirkos,1,1,1,0,1,1,0,0,negative,negative,130,77,105,Typhoid
+46,F,SNNPR,Hosanna,1,0,1,1,0,1,1,0,negative,negative,117,74,102,TB
+32,M,Addis Ababa,Yeka,1,0,1,1,1,0,0,0,negative,negative,134,78,105,Typhoid
+15,F,Oromia,Jimma,1,1,1,1,0,1,0,0,negative,negative,132,75,100,Pneumonia
+40,F,Addis Ababa,Kirkos,1,1,1,0,0,0,1,0,positive,positive,122,84,99,Malaria
+67,M,Oromia,Dire Dawa,0,1,0,0,0,0,0,0,negative,negative,164,97,115,Hypertension
+35,M,Amhara,Gondar,1,1,1,1,0,0,0,0,negative,negative,128,85,93,Pneumonia
+34,F,Addis Ababa,Bole,1,1,0,0,1,0,1,0,positive,positive,110,80,94,Malaria
+50,M,SNNPR,Hosanna,1,1,0,0,0,1,0,0,negative,negative,123,78,91,Typhoid
+65,F,Tigray,Adigrat,1,0,1,1,0,0,0,0,negative,negative,138,81,99,Pneumonia
+56,F,Oromia,Jimma,0,0,1,0,0,0,0,0,negative,negative,147,103,203,Diabetes
+66,M,Amhara,Debre Birhan,0,1,1,1,0,0,0,0,negative,negative,188,106,109,Hypertension
+28,F,Amhara,Dessie,1,1,1,0,0,0,1,1,positive,positive,124,77,96,Malaria
+23,F,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,117,71,89,Malaria
+34,F,Tigray,Adigrat,1,1,1,1,0,0,0,0,negative,negative,127,75,102,Typhoid
+57,M,Amhara,Debre Markos,0,0,1,1,0,0,0,0,negative,negative,136,86,228,Diabetes
+41,F,Tigray,Wukro,1,0,1,1,0,0,0,0,negative,negative,123,75,96,TB
+44,M,Addis Ababa,Bole,1,0,1,0,0,0,0,0,negative,negative,128,84,102,TB
+8,M,Oromia,Jimma,1,0,1,1,1,0,0,1,negative,negative,130,87,103,Pneumonia
+28,F,Addis Ababa,Lideta,1,1,1,1,0,0,0,0,negative,negative,129,86,103,Typhoid
+27,F,Addis Ababa,Arada,1,1,1,1,1,1,1,1,negative,negative,130,77,91,Typhoid
+53,F,Tigray,Shire,1,1,1,0,0,0,1,0,negative,negative,135,86,99,Typhoid
+42,M,SNNPR,Wolaita,1,0,1,1,1,0,0,0,negative,negative,129,80,105,TB
+41,M,Tigray,Axum,0,1,1,0,0,0,0,1,negative,negative,184,119,105,Hypertension
+59,M,Amhara,Bahir Dar,1,1,0,1,0,0,0,0,negative,negative,115,83,86,TB
+31,F,SNNPR,Hosanna,1,1,1,0,0,0,0,0,positive,positive,124,70,88,Malaria
+27,M,Addis Ababa,Arada,1,0,0,1,1,0,1,0,negative,negative,118,74,102,TB
+62,M,Amhara,Gondar,0,0,1,1,0,0,0,0,negative,negative,171,111,100,Hypertension
+41,F,Addis Ababa,Yeka,0,0,1,0,0,0,1,0,negative,negative,135,99,222,Diabetes
+43,M,Tigray,Axum,1,0,1,1,0,0,0,0,negative,negative,137,82,92,Pneumonia
+39,F,SNNPR,Arba Minch,1,1,1,1,1,0,0,0,negative,negative,126,85,99,Typhoid
+64,F,Amhara,Debre Birhan,0,1,1,0,0,0,0,0,negative,negative,156,105,185,Diabetes
+23,M,Tigray,Wukro,1,1,1,1,0,0,0,0,negative,negative,129,75,109,Typhoid
+41,F,SNNPR,Arba Minch,1,1,1,0,0,0,0,0,positive,positive,118,74,86,Malaria
+46,M,Oromia,Harar,1,1,1,0,0,0,0,0,negative,negative,127,78,93,Typhoid
+28,M,SNNPR,Wolaita,0,1,0,1,0,0,0,0,negative,negative,136,83,94,Pneumonia
+49,M,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,159,105,221,Diabetes
+61,F,SNNPR,Dilla,0,1,1,0,1,0,0,0,negative,negative,158,94,239,Diabetes
+55,F,Tigray,Mekelle,1,1,0,1,1,0,1,0,negative,negative,179,108,97,Hypertension
+59,F,Amhara,Dessie,0,1,0,0,0,0,0,0,negative,negative,165,98,107,Hypertension
+66,M,Oromia,Dire Dawa,0,1,0,0,0,0,0,0,negative,negative,147,103,182,Diabetes
+45,M,Addis Ababa,Kirkos,0,0,1,1,0,0,0,0,negative,negative,118,77,92,TB
+45,M,Tigray,Shire,1,1,1,1,0,0,1,0,positive,positive,119,85,93,Malaria
+49,F,Amhara,Dessie,1,1,1,0,1,1,1,0,positive,positive,113,70,100,Malaria
+45,F,Tigray,Shire,0,1,0,0,0,0,1,0,negative,negative,169,105,107,Hypertension
+29,M,Addis Ababa,Lideta,1,0,1,1,0,0,1,0,negative,negative,117,72,92,TB
+62,M,Tigray,Axum,0,1,0,0,0,0,0,0,negative,negative,181,119,105,Hypertension
+56,M,SNNPR,Dilla,0,1,1,1,0,0,1,0,negative,negative,118,83,89,TB
+49,F,SNNPR,Arba Minch,1,1,1,0,0,0,1,1,positive,positive,129,82,96,Malaria
+66,F,SNNPR,Hawassa,0,1,0,0,0,0,0,0,negative,negative,156,96,97,Hypertension
+51,M,Oromia,Jimma,1,1,1,1,1,0,1,0,negative,negative,127,73,97,TB
+55,M,SNNPR,Hosanna,1,1,1,1,1,0,0,1,negative,negative,131,76,108,Typhoid
+47,F,Addis Ababa,Lideta,1,1,1,1,0,0,0,0,negative,negative,140,78,99,Pneumonia
+24,M,SNNPR,Arba Minch,1,1,1,1,0,0,0,0,negative,negative,132,89,106,Pneumonia
+72,F,Oromia,Nekemte,0,1,1,0,0,0,0,0,negative,negative,148,97,247,Diabetes
+61,F,Tigray,Mekelle,0,1,1,1,0,0,1,0,negative,negative,160,96,231,Diabetes
+39,M,Oromia,Harar,1,1,1,1,1,0,0,0,negative,negative,131,88,100,Typhoid
+35,F,SNNPR,Dilla,1,1,1,1,1,1,0,0,negative,negative,133,78,101,Typhoid
+60,F,Amhara,Bahir Dar,0,1,1,1,0,0,0,1,negative,negative,116,80,94,TB
+37,M,Addis Ababa,Lideta,0,0,1,0,0,0,0,0,negative,negative,147,88,230,Diabetes
+20,M,Tigray,Axum,1,1,1,1,1,1,0,0,negative,negative,127,75,105,Typhoid
+57,M,SNNPR,Hosanna,0,1,1,0,0,0,0,0,negative,negative,172,98,111,Hypertension
+59,M,Amhara,Debre Markos,0,0,1,1,0,0,0,0,negative,negative,144,86,227,Diabetes
+64,F,Oromia,Jimma,1,0,1,1,0,0,0,0,negative,negative,136,75,100,Pneumonia
+41,F,SNNPR,Hawassa,1,1,1,0,1,0,1,0,positive,positive,130,71,97,Malaria
+46,M,Tigray,Axum,1,1,1,0,0,1,0,1,negative,negative,125,83,107,Typhoid
+36,F,Amhara,Bahir Dar,1,1,1,1,1,0,0,0,negative,negative,121,79,102,Typhoid
+64,M,Tigray,Mekelle,0,1,1,1,1,0,0,0,negative,negative,182,113,118,Hypertension
+21,M,Tigray,Adigrat,0,1,1,0,0,0,1,0,positive,positive,112,71,92,Malaria
+30,F,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,125,72,92,TB
+40,M,SNNPR,Hosanna,1,1,1,1,1,1,0,1,negative,negative,132,89,93,Typhoid
+57,F,Addis Ababa,Kirkos,1,1,1,1,0,0,0,0,negative,negative,119,84,95,TB
+70,F,Oromia,Dire Dawa,0,1,1,0,0,0,0,0,negative,negative,183,109,95,Hypertension
+49,M,Addis Ababa,Bole,0,1,0,0,1,0,0,0,negative,negative,135,97,182,Diabetes
+30,F,SNNPR,Wolaita,1,1,1,1,1,0,0,0,negative,negative,121,77,90,Typhoid
+73,F,Tigray,Shire,0,1,1,0,0,0,1,0,negative,negative,151,97,239,Diabetes
+54,F,Addis Ababa,Lideta,0,0,1,0,0,0,0,1,negative,negative,136,99,239,Diabetes
+19,F,SNNPR,Arba Minch,1,1,0,0,0,0,0,0,positive,positive,113,73,87,Malaria
+18,F,Oromia,Adama,1,1,0,1,0,0,0,0,negative,negative,138,88,104,Pneumonia
+39,M,Amhara,Debre Birhan,1,0,1,1,0,0,0,0,negative,negative,130,70,91,TB
+54,F,Amhara,Bahir Dar,0,0,1,0,0,0,0,0,negative,negative,163,118,107,Hypertension
+47,F,SNNPR,Arba Minch,0,1,0,0,0,0,0,0,negative,negative,159,101,120,Hypertension
+75,F,Addis Ababa,Arada,0,0,1,0,0,0,0,0,negative,negative,155,103,117,Hypertension
+30,F,Addis Ababa,Kirkos,1,1,1,0,0,1,1,0,positive,positive,130,73,100,Malaria
+40,F,Addis Ababa,Kirkos,1,1,1,1,1,0,0,0,negative,negative,131,83,102,Typhoid
+50,M,Addis Ababa,Lideta,1,1,1,1,0,0,0,1,negative,negative,122,77,93,TB
+48,F,Oromia,Harar,0,1,0,0,0,0,0,0,negative,negative,171,95,114,Hypertension
+44,M,Oromia,Adama,1,1,1,1,0,1,0,0,negative,negative,133,77,108,Typhoid
+29,F,Tigray,Wukro,1,1,0,1,1,0,0,0,negative,negative,126,84,102,Pneumonia
+74,M,Addis Ababa,Arada,0,1,0,1,0,0,0,0,negative,negative,149,105,211,Diabetes
+66,F,Tigray,Adigrat,1,1,0,0,0,0,0,0,negative,negative,155,111,118,Hypertension
+41,M,SNNPR,Dilla,1,0,0,1,1,0,0,0,negative,negative,140,88,109,Pneumonia
+47,M,Tigray,Wukro,1,1,1,1,0,1,0,0,negative,negative,127,80,100,Typhoid
+54,M,SNNPR,Dilla,1,1,1,1,1,0,0,0,negative,negative,125,80,100,Typhoid
+46,F,Tigray,Shire,1,1,0,0,0,1,0,0,negative,negative,123,78,92,Typhoid
+39,M,Oromia,Dire Dawa,1,0,1,1,0,1,0,0,negative,negative,116,82,90,TB
+66,M,Amhara,Debre Markos,1,0,1,1,0,0,0,0,negative,negative,125,87,102,Pneumonia
+41,M,Amhara,Gondar,0,1,1,1,0,0,0,0,negative,negative,181,109,119,Hypertension
+49,M,Addis Ababa,Yeka,0,0,1,1,1,0,0,0,negative,negative,128,77,92,Typhoid
+45,M,SNNPR,Dilla,1,1,1,0,0,0,0,0,positive,positive,115,81,94,Malaria
+50,M,Amhara,Bahir Dar,0,1,1,0,1,0,0,0,negative,negative,160,115,103,Hypertension
+75,M,Addis Ababa,Arada,0,0,0,0,1,0,0,0,negative,negative,155,100,115,Hypertension
+34,F,Tigray,Shire,1,1,1,1,1,0,1,0,negative,negative,137,90,98,Pneumonia
+44,F,Amhara,Dessie,0,1,0,0,0,0,0,0,negative,negative,171,97,116,Hypertension
+41,M,Tigray,Mekelle,1,1,1,0,0,0,0,0,negative,negative,153,95,101,Hypertension
+6,F,Amhara,Gondar,1,1,1,1,1,0,0,0,negative,negative,140,83,96,Pneumonia
+47,M,Addis Ababa,Bole,0,0,1,0,1,0,0,0,negative,negative,127,78,103,Pneumonia
+54,F,Tigray,Mekelle,1,0,1,1,0,0,0,0,negative,negative,128,89,90,Pneumonia
+49,F,Tigray,Shire,1,1,1,1,0,0,0,0,positive,positive,115,70,89,Malaria
+31,M,Tigray,Mekelle,1,1,1,1,0,0,0,0,negative,negative,121,73,95,TB
+41,F,Amhara,Gondar,1,1,1,1,1,1,0,0,negative,negative,134,84,97,Typhoid
+42,M,Tigray,Adigrat,0,1,1,1,0,0,0,1,negative,negative,125,75,95,TB
+57,F,Amhara,Dessie,1,0,1,1,0,0,0,0,negative,negative,122,70,93,TB
+59,M,Addis Ababa,Arada,1,0,1,1,0,0,0,0,negative,negative,122,81,95,TB
+58,F,Addis Ababa,Kirkos,1,0,1,0,0,0,0,0,negative,negative,156,116,101,Hypertension
+33,M,Tigray,Shire,1,0,1,1,0,0,1,0,negative,negative,137,86,106,Pneumonia
+64,M,Oromia,Nekemte,0,0,1,0,0,0,0,0,negative,negative,135,101,205,Diabetes
+54,F,Oromia,Jimma,1,0,1,1,0,1,0,0,negative,negative,127,73,88,TB
+55,F,Addis Ababa,Lideta,0,1,0,0,0,1,0,0,negative,negative,163,111,116,Hypertension
+50,M,Addis Ababa,Yeka,1,0,1,1,0,0,0,0,negative,negative,127,89,102,Pneumonia
+55,M,Addis Ababa,Bole,0,1,1,0,0,0,0,0,negative,negative,169,120,103,Hypertension
+54,F,Tigray,Shire,1,0,1,1,0,0,0,0,negative,negative,125,79,105,TB
+39,F,Tigray,Wukro,1,1,0,0,1,1,0,0,negative,negative,130,76,104,Typhoid
+71,F,Tigray,Wukro,0,0,1,0,0,0,0,0,negative,negative,147,100,247,Diabetes
+38,F,Oromia,Dire Dawa,0,0,1,1,0,0,0,0,negative,negative,127,73,105,TB
+40,M,Oromia,Dire Dawa,1,1,1,1,1,0,0,1,negative,negative,126,88,108,Typhoid
+73,F,Amhara,Debre Birhan,0,0,1,1,0,0,0,0,negative,negative,147,95,205,Diabetes
+49,M,Tigray,Shire,1,1,1,1,1,1,0,0,negative,negative,135,90,92,Typhoid
+52,F,Oromia,Harar,1,1,1,1,0,1,0,1,negative,negative,128,73,100,TB
+29,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,122,72,105,TB
+50,M,SNNPR,Wolaita,1,1,1,1,0,0,0,0,negative,negative,120,86,102,Typhoid
+43,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,128,76,95,TB
+5,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,126,76,98,Pneumonia
+66,M,Oromia,Harar,0,0,1,0,0,0,0,0,negative,negative,177,113,95,Hypertension
+31,M,Oromia,Harar,1,0,1,1,1,0,0,0,negative,negative,134,75,92,Typhoid
+31,M,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,127,75,87,TB
+47,M,Amhara,Debre Birhan,0,0,1,0,0,0,0,0,negative,negative,135,95,208,Diabetes
+45,M,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,118,75,99,Malaria
+35,F,Addis Ababa,Lideta,1,1,1,0,1,0,1,0,positive,positive,114,75,85,Malaria
+25,F,Addis Ababa,Lideta,1,1,1,0,0,0,0,0,positive,positive,123,70,98,Malaria
+41,F,Tigray,Adigrat,0,1,0,0,0,0,0,0,negative,negative,166,110,110,Hypertension
+69,F,Oromia,Dire Dawa,1,0,1,0,0,0,0,0,negative,negative,137,89,245,Diabetes
+73,F,Amhara,Debre Birhan,0,1,1,0,0,0,0,0,negative,negative,137,105,228,Diabetes
+32,F,Oromia,Adama,1,0,1,1,0,0,0,0,negative,negative,115,76,87,TB
+65,F,Tigray,Adigrat,0,1,1,1,0,0,0,0,negative,negative,166,99,112,Hypertension
+63,M,Tigray,Shire,1,1,1,0,1,0,0,0,negative,negative,183,109,95,Hypertension
+47,F,Oromia,Harar,0,1,1,0,0,1,0,0,negative,negative,153,110,104,Hypertension
+33,M,Amhara,Dessie,0,1,1,0,0,0,0,0,positive,positive,111,80,87,Malaria
+17,M,Oromia,Dire Dawa,1,1,1,0,0,1,1,0,positive,positive,119,85,90,Malaria
+80,M,Addis Ababa,Kirkos,1,1,0,0,0,0,0,0,negative,negative,167,115,109,Hypertension
+61,M,Addis Ababa,Arada,0,0,0,0,0,0,0,0,negative,negative,189,119,118,Hypertension
+35,M,Tigray,Mekelle,1,1,1,1,0,0,0,0,negative,negative,117,76,92,TB
+34,F,SNNPR,Dilla,1,0,1,1,0,0,0,0,negative,negative,120,85,100,Pneumonia
+16,F,Tigray,Wukro,1,0,1,1,0,0,0,0,negative,negative,121,76,96,Pneumonia
+57,F,Amhara,Debre Markos,0,0,1,1,1,0,0,0,negative,negative,123,81,92,TB
+34,F,Addis Ababa,Bole,1,1,1,1,0,0,0,1,negative,negative,123,83,98,TB
+74,F,Addis Ababa,Kirkos,0,1,1,0,0,0,1,0,negative,negative,158,91,215,Diabetes
+74,M,Oromia,Jimma,0,0,1,0,0,0,0,1,negative,negative,171,104,112,Hypertension
+53,F,Addis Ababa,Bole,1,1,1,0,1,0,0,0,negative,negative,128,89,99,Typhoid
+5,F,Amhara,Debre Birhan,1,1,1,1,0,0,0,0,negative,negative,122,83,103,Pneumonia
+44,M,SNNPR,Wolaita,1,1,1,0,0,0,1,0,positive,positive,123,84,99,Malaria
+47,F,Tigray,Shire,1,0,1,0,0,1,0,0,negative,negative,124,81,103,Pneumonia
+36,F,Amhara,Dessie,1,0,0,0,1,0,1,1,positive,positive,114,78,94,Malaria
+55,M,SNNPR,Wolaita,1,0,1,1,0,0,0,0,negative,negative,122,71,99,TB
+41,F,Addis Ababa,Yeka,1,1,0,0,1,0,1,0,positive,positive,117,77,86,Malaria
+48,M,SNNPR,Hawassa,1,1,1,1,0,1,0,1,negative,negative,123,79,110,Typhoid
+28,M,SNNPR,Hosanna,1,1,1,0,1,0,1,0,positive,positive,119,81,95,Malaria
+60,F,Amhara,Debre Markos,0,0,1,0,1,0,0,0,negative,negative,145,89,189,Diabetes
+53,F,SNNPR,Hosanna,1,0,1,0,1,0,0,0,negative,negative,125,80,107,Typhoid
+53,M,Tigray,Axum,1,1,1,1,0,0,0,0,negative,negative,120,76,90,TB
+28,F,SNNPR,Hosanna,1,1,1,0,0,0,1,0,positive,positive,120,75,100,Malaria
+53,F,SNNPR,Hawassa,1,1,1,0,1,1,0,0,negative,negative,120,88,95,Typhoid
+74,M,Amhara,Debre Markos,0,1,0,0,0,0,0,0,negative,negative,177,100,101,Hypertension
+48,F,SNNPR,Hawassa,1,1,1,0,0,0,0,0,negative,negative,164,118,115,Hypertension
+48,M,Addis Ababa,Yeka,0,0,0,1,0,0,1,0,negative,negative,159,105,105,Hypertension
+43,F,Addis Ababa,Lideta,0,0,1,1,0,0,0,1,negative,negative,118,73,98,TB
+13,F,Addis Ababa,Arada,1,0,1,1,0,0,0,0,negative,negative,132,75,99,Pneumonia
+57,F,SNNPR,Dilla,0,1,1,1,1,0,0,0,negative,negative,126,84,99,TB
+15,F,Amhara,Gondar,1,1,1,0,0,0,1,0,positive,positive,125,83,85,Malaria
+75,F,Amhara,Bahir Dar,1,0,1,0,0,0,0,0,negative,negative,182,110,97,Hypertension
+23,M,Amhara,Debre Markos,1,0,1,1,0,1,0,1,negative,negative,123,86,96,Pneumonia
+49,F,Amhara,Debre Markos,1,1,1,1,1,0,1,0,negative,negative,132,86,109,Typhoid
+52,F,Addis Ababa,Yeka,1,1,1,1,0,0,0,0,negative,negative,140,82,110,Pneumonia
+22,M,SNNPR,Hawassa,1,1,0,1,0,0,0,0,negative,negative,130,79,101,Pneumonia
+23,F,Addis Ababa,Lideta,1,1,1,1,0,0,0,1,negative,negative,131,90,99,Typhoid
+58,F,Amhara,Bahir Dar,0,1,0,0,0,0,0,0,negative,negative,151,111,118,Hypertension
+44,F,Oromia,Jimma,0,1,0,1,0,0,0,0,negative,negative,144,85,202,Diabetes
+47,F,Amhara,Debre Markos,0,0,1,1,0,0,0,0,negative,negative,146,90,225,Diabetes
+45,M,Oromia,Nekemte,0,1,0,1,0,0,0,0,negative,negative,133,75,92,Pneumonia
+73,M,Oromia,Jimma,0,0,1,1,0,0,0,0,negative,negative,154,104,235,Diabetes
+51,F,SNNPR,Hosanna,0,1,1,0,0,0,1,0,negative,negative,155,117,117,Hypertension
+52,M,Amhara,Bahir Dar,1,1,1,1,1,0,1,0,negative,negative,122,87,103,Typhoid
+48,M,Amhara,Bahir Dar,0,1,1,1,0,1,0,0,negative,negative,121,73,99,TB
+34,F,SNNPR,Dilla,1,1,0,0,0,0,1,0,negative,negative,126,77,109,Typhoid
+47,F,Tigray,Mekelle,1,1,1,0,0,1,0,0,positive,positive,118,81,98,Malaria
+46,M,Tigray,Wukro,1,1,1,0,0,0,1,0,positive,positive,130,84,89,Malaria
+24,F,Amhara,Bahir Dar,1,1,1,0,1,1,0,0,negative,negative,121,85,104,Typhoid
+27,F,Amhara,Bahir Dar,1,1,1,0,0,0,1,0,positive,positive,122,82,92,Malaria
+48,M,Amhara,Dessie,1,1,0,0,0,0,0,0,negative,negative,154,103,115,Hypertension
+50,F,Amhara,Gondar,1,1,1,0,0,0,0,0,positive,positive,127,76,90,Malaria
+49,F,Addis Ababa,Bole,1,1,1,0,1,1,0,0,negative,negative,130,83,101,Typhoid
+32,M,Addis Ababa,Bole,0,0,1,0,0,0,0,0,negative,negative,128,85,102,TB
+48,F,Amhara,Dessie,0,0,1,0,0,1,0,0,negative,negative,149,96,246,Diabetes
+51,F,Tigray,Wukro,1,1,1,1,0,0,0,0,negative,negative,118,84,95,TB
+35,F,SNNPR,Dilla,1,1,1,1,0,0,0,0,negative,negative,126,84,90,TB
+42,F,Amhara,Dessie,0,1,1,1,0,0,0,0,negative,negative,137,87,246,Diabetes
+45,F,Oromia,Nekemte,0,0,1,0,0,0,0,0,negative,negative,147,101,212,Diabetes
+51,F,Oromia,Nekemte,1,1,1,0,1,1,0,0,negative,negative,131,88,103,Typhoid
+15,M,Oromia,Adama,1,0,1,0,0,0,1,0,positive,positive,128,85,93,Malaria
+48,M,SNNPR,Arba Minch,0,1,1,0,0,0,0,0,negative,negative,178,95,120,Hypertension
+47,F,Oromia,Harar,0,0,0,0,0,1,0,0,negative,negative,143,85,210,Diabetes
+58,F,Addis Ababa,Yeka,1,0,1,1,1,0,0,0,negative,negative,125,80,88,TB

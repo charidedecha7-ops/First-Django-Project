@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Medical History{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Add Medical History</h1>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <p><strong>Patient:</strong> {{ patient.full_name }} ({{ patient.patient_id }})</p>
+            <p><strong>Age:</strong> {{ patient.age }} years</p>
+            <p><strong>Gender:</strong> {{ patient.get_gender_display }}</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <form method="post">
+                {% csrf_token %}
+                
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label class="form-label">Diagnosis *</label>
+                        {{ form.diagnosis }}
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <label class="form-label">Doctor</label>
+                        {{ form.doctor }}
+                    </div>
+                    
+                    <div class="col-12">
+                        <label class="form-label">Symptoms *</label>
+                        {{ form.symptoms }}
+                    </div>
+                    
+                    <div class="col-12">
+                        <label class="form-label">Treatment *</label>
+                        {{ form.treatment }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Blood Pressure</label>
+                        {{ form.blood_pressure }}
+                        <small class="text-muted">e.g., 120/80</small>
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Temperature (°C)</label>
+                        {{ form.temperature }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Heart Rate</label>
+                        {{ form.heart_rate }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Weight (kg)</label>
+                        {{ form.weight }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Height (cm)</label>
+                        {{ form.height }}
+                    </div>
+                    
+                    <div class="col-md-4">
+                        <label class="form-label">Glucose Level (mg/dL)</label>
+                        {{ form.glucose_level }}
+                    </div>
+                    
+                    <div class="col-12">
+                        <label class="form-label">Notes</label>
+                        {{ form.notes }}
+                    </div>
+                </div>
+                
+                <div class="mt-4">
+                    <button type="submit" class="btn btn-primary">
+                        <i class="bi bi-save"></i> Save Medical History
+                    </button>
+                    <a href="{% url 'patient_detail' patient.pk %}" class="btn btn-secondary">
+                        Cancel
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-control, .form-select {
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        padding: 0.375rem 0.75rem;
+    }
+</style>
+{% endblock %}

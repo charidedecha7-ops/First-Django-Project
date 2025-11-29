@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+
+{% block title %}Prescriptions{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Prescriptions</h1>
+
+    <!-- Filter -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <form method="get" class="row g-3">
+                <div class="col-md-10">
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-select">
+                        <option value="">All Status</option>
+                        <option value="pending" {% if request.GET.status == 'pending' %}selected{% endif %}>Pending</option>
+                        <option value="dispensed" {% if request.GET.status == 'dispensed' %}selected{% endif %}>Dispensed</option>
+                        <option value="cancelled" {% if request.GET.status == 'cancelled' %}selected{% endif %}>Cancelled</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">&nbsp;</label>
+                    <button type="submit" class="btn btn-primary w-100">Filter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Prescriptions Table -->
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Prescription ID</th>
+                            <th>Patient</th>
+                            <th>Doctor</th>
+                            <th>Diagnosis</th>
+                            <th>Date</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for prescription in prescriptions %}
+                        <tr>
+                            <td><strong>{{ prescription.prescription_id }}</strong></td>
+                            <td>{{ prescription.patient.full_name }}</td>
+                            <td>{% if prescription.doctor %}Dr. {{ prescription.doctor.user.get_full_name }}{% else %}N/A{% endif %}</td>
+                            <td>{{ prescription.diagnosis }}</td>
+                            <td>{{ prescription.created_at|date:"Y-m-d" }}</td>
+                            <td>
+                                <span class="badge bg-{% if prescription.status == 'dispensed' %}success{% elif prescription.status == 'cancelled' %}danger{% else %}warning{% endif %}">
+                                    {{ prescription.get_status_display }}
+                                </span>
+                            </td>
+                            <td>
+                                <a href="{% url 'prescription_detail' prescription.pk %}" class="btn btn-sm btn-outline-primary">
+                                    <i class="bi bi-eye"></i> View
+                                </a>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr>
+                            <td colspan="7" class="text-center text-muted">No prescriptions found.</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+
+{% block title %}Laboratory Tests{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>Laboratory Tests</h1>
+    </div>
+
+    <!-- Filters -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <form method="get" class="row g-3">
+                <div class="col-md-10">
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-select">
+                        <option value="">All Status</option>
+                        {% for value, label in status_choices %}
+                            <option value="{{ value }}" {% if request.GET.status == value %}selected{% endif %}>
+                                {{ label }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">&nbsp;</label>
+                    <button type="submit" class="btn btn-primary w-100">Filter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Tests Table -->
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Test ID</th>
+                            <th>Patient</th>
+                            <th>Test Name</th>
+                            <th>Type</th>
+                            <th>Requested Date</th>
+                            <th>Status</th>
+                            <th>Cost</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for test in tests %}
+                        <tr>
+                            <td><strong>{{ test.test_id }}</strong></td>
+                            <td>{{ test.patient.full_name }}</td>
+                            <td>{{ test.test_name }}</td>
+                            <td>{{ test.test_type }}</td>
+                            <td>{{ test.requested_date|date:"Y-m-d H:i" }}</td>
+                            <td>
+                                <span class="badge bg-{% if test.status == 'completed' %}success{% elif test.status == 'in_progress' %}warning{% else %}info{% endif %}">
+                                    {{ test.get_status_display }}
+                                </span>
+                            </td>
+                            <td>{{ test.cost }} ETB</td>
+                            <td>
+                                <a href="{% url 'lab_test_detail' test.pk %}" class="btn btn-sm btn-outline-primary">
+                                    <i class="bi bi-eye"></i> View
+                                </a>
+                                {% if test.status != 'completed' %}
+                                <a href="{% url 'lab_test_update_results' test.pk %}" class="btn btn-sm btn-outline-success">
+                                    <i class="bi bi-pencil"></i> Update
+                                </a>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr>
+                            <td colspan="8" class="text-center text-muted">No lab tests found.</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

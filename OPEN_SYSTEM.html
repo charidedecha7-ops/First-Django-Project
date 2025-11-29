@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethiopian Hospital System - Quick Access</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #2c5f2d 0%, #1e4620 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        .flag {
+            height: 8px;
+            background: linear-gradient(to right, #2c5f2d 33%, #fcdc04 33%, #fcdc04 66%, #da121a 66%);
+            border-radius: 20px 20px 0 0;
+            margin: -40px -40px 30px -40px;
+        }
+        h1 {
+            color: #2c5f2d;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.2em;
+        }
+        .status {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .status h2 {
+            color: #28a745;
+            margin-bottom: 10px;
+        }
+        .links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .link-btn {
+            display: block;
+            background: #2c5f2d;
+            color: white;
+            text-decoration: none;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            transition: all 0.3s;
+            font-weight: bold;
+        }
+        .link-btn:hover {
+            background: #1e4620;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .link-btn.primary {
+            background: #da121a;
+            font-size: 1.2em;
+            grid-column: 1 / -1;
+        }
+        .link-btn.primary:hover {
+            background: #b00f15;
+        }
+        .credentials {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .credentials h3 {
+            color: #2c5f2d;
+            margin-bottom: 15px;
+        }
+        .cred-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            background: white;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border-left: 4px solid #2c5f2d;
+        }
+        .cred-label {
+            font-weight: bold;
+            color: #666;
+        }
+        .cred-value {
+            color: #2c5f2d;
+            font-family: monospace;
+            font-weight: bold;
+        }
+        .icon {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        .footer {
+            text-align: center;
+            color: #666;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="flag"></div>
+        
+        <div class="icon">🏥</div>
+        <h1>Ethiopian Hospital System</h1>
+        <p class="subtitle">Management System with Machine Learning</p>
+        
+        <div class="status">
+            <h2>✅ System is Running!</h2>
+            <p>Server is active on port 8000</p>
+        </div>
+        
+        <div class="links">
+            <a href="http://127.0.0.1:8000" class="link-btn primary" target="_blank">
+                🚀 OPEN SYSTEM
+            </a>
+            
+            <a href="http://127.0.0.1:8000/login/" class="link-btn" target="_blank">
+                🔐 Login Page
+            </a>
+            
+            <a href="http://127.0.0.1:8000/dashboard/" class="link-btn" target="_blank">
+                📊 Dashboard
+            </a>
+            
+            <a href="http://127.0.0.1:8000/patients/" class="link-btn" target="_blank">
+                👥 Patients
+            </a>
+            
+            <a href="http://127.0.0.1:8000/doctors/" class="link-btn" target="_blank">
+                👨‍⚕️ Doctors
+            </a>
+            
+            <a href="http://127.0.0.1:8000/appointments/" class="link-btn" target="_blank">
+                📅 Appointments
+            </a>
+            
+            <a href="http://127.0.0.1:8000/laboratory/" class="link-btn" target="_blank">
+                🔬 Laboratory
+            </a>
+            
+            <a href="http://127.0.0.1:8000/pharmacy/" class="link-btn" target="_blank">
+                💊 Pharmacy
+            </a>
+            
+            <a href="http://127.0.0.1:8000/billing/" class="link-btn" target="_blank">
+                💰 Billing
+            </a>
+            
+            <a href="http://127.0.0.1:8000/admin/" class="link-btn" target="_blank">
+                ⚙️ Admin Panel
+            </a>
+        </div>
+        
+        <div class="credentials">
+            <h3>🔑 Your Login Credentials</h3>
+            <div class="cred-item">
+                <span class="cred-label">Username:</span>
+                <span class="cred-value">chari</span>
+            </div>
+            <div class="cred-item">
+                <span class="cred-label">Password:</span>
+                <span class="cred-value">chari123</span>
+            </div>
+            <div class="cred-item">
+                <span class="cred-label">Role:</span>
+                <span class="cred-value">Admin (Full Access)</span>
+            </div>
+        </div>
+        
+        <div class="credentials" style="margin-top: 20px;">
+            <h3>👥 Other Test Accounts</h3>
+            <div class="cred-item">
+                <span class="cred-label">Doctor:</span>
+                <span class="cred-value">doctor / doctor123</span>
+            </div>
+            <div class="cred-item">
+                <span class="cred-label">Nurse:</span>
+                <span class="cred-value">nurse / nurse123</span>
+            </div>
+            <div class="cred-item">
+                <span class="cred-label">Lab Tech:</span>
+                <span class="cred-value">lab / lab123</span>
+            </div>
+            <div class="cred-item">
+                <span class="cred-label">Pharmacist:</span>
+                <span class="cred-value">pharmacy / pharmacy123</span>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p><strong>Ethiopian Hospital Management System</strong></p>
+            <p>Built with Django & Machine Learning 🇪🇹</p>
+            <p style="margin-top: 10px; color: #999;">
+                Server: http://127.0.0.1:8000
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        // Auto-check if server is running
+        fetch('http://127.0.0.1:8000')
+            .then(response => {
+                if (response.ok) {
+                    console.log('✅ Server is running!');
+                }
+            })
+            .catch(error => {
+                document.querySelector('.status').innerHTML = `
+                    <h2 style="color: #dc3545;">⚠️ Server Not Running</h2>
+                    <p>Please run: <code>python manage.py runserver</code></p>
+                `;
+                document.querySelector('.status').style.background = '#f8d7da';
+                document.querySelector('.status').style.borderColor = '#dc3545';
+            });
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}Update Test Results{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Update Test Results</h1>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <p><strong>Test ID:</strong> {{ test.test_id }}</p>
+            <p><strong>Patient:</strong> {{ test.patient.full_name }}</p>
+            <p><strong>Test:</strong> {{ test.test_name }}</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <form method="post">
+                {% csrf_token %}
+                <div class="mb-3">
+                    <label class="form-label">Test Results *</label>
+                    <textarea name="results" class="form-control" rows="10" required>{{ test.results }}</textarea>
+                </div>
+                
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-check-circle"></i> Save Results & Mark Complete
+                </button>
+                <a href="{% url 'lab_test_detail' test.pk %}" class="btn btn-secondary">
+                    Cancel
+                </a>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

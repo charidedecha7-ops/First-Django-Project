@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+
+{% block title %}Appointment Details{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>Appointment Details</h1>
+        <a href="{% url 'appointment_list' %}" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0">Appointment Information</h5>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <tr>
+                            <th width="200">Appointment ID:</th>
+                            <td><strong>{{ appointment.appointment_id }}</strong></td>
+                        </tr>
+                        <tr>
+                            <th>Patient:</th>
+                            <td>
+                                <a href="{% url 'patient_detail' appointment.patient.pk %}">
+                                    {{ appointment.patient.full_name }}
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Doctor:</th>
+                            <td>Dr. {{ appointment.doctor.user.get_full_name }} ({{ appointment.doctor.get_specialization_display }})</td>
+                        </tr>
+                        <tr>
+                            <th>Date:</th>
+                            <td>{{ appointment.appointment_date }}</td>
+                        </tr>
+                        <tr>
+                            <th>Time:</th>
+                            <td>{{ appointment.appointment_time }}</td>
+                        </tr>
+                        <tr>
+                            <th>Status:</th>
+                            <td>
+                                <span class="badge bg-{% if appointment.status == 'completed' %}success{% elif appointment.status == 'cancelled' %}danger{% elif appointment.status == 'no_show' %}warning{% else %}info{% endif %}">
+                                    {{ appointment.get_status_display }}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Reason:</th>
+                            <td>{{ appointment.reason }}</td>
+                        </tr>
+                        {% if appointment.notes %}
+                        <tr>
+                            <th>Notes:</th>
+                            <td>{{ appointment.notes }}</td>
+                        </tr>
+                        {% endif %}
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            {% if appointment.no_show_probability %}
+            <div class="card mb-4">
+                <div class="card-header bg-warning text-dark">
+                    <h5 class="mb-0"><i class="bi bi-exclamation-triangle"></i> No-Show Risk</h5>
+                </div>
+                <div class="card-body text-center">
+                    <h2>{{ appointment.no_show_probability|floatformat:0 }}%</h2>
+                    <p class="mb-0">
+                        {% if appointment.no_show_probability > 0.7 %}
+                            <span class="badge bg-danger">High Risk</span>
+                            <br><small>Consider sending reminder SMS</small>
+                        {% elif appointment.no_show_probability > 0.4 %}
+                            <span class="badge bg-warning">Medium Risk</span>
+                        {% else %}
+                            <span class="badge bg-success">Low Risk</span>
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">Actions</h5>
+                </div>
+                <div class="card-body">
+                    <a href="{% url 'appointment_update_status' appointment.pk %}" class="btn btn-primary w-100 mb-2">
+                        <i class="bi bi-pencil"></i> Update Status
+                    </a>
+                    <button class="btn btn-outline-secondary w-100" onclick="window.print()">
+                        <i class="bi bi-printer"></i> Print
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

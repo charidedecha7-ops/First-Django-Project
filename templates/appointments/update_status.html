@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}Update Appointment Status{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Update Appointment Status</h1>
+
+    <div class="card">
+        <div class="card-body">
+            <p><strong>Appointment:</strong> {{ appointment.appointment_id }}</p>
+            <p><strong>Patient:</strong> {{ appointment.patient.full_name }}</p>
+            <p><strong>Date:</strong> {{ appointment.appointment_date }} {{ appointment.appointment_time }}</p>
+            
+            <hr>
+            
+            <form method="post">
+                {% csrf_token %}
+                <div class="mb-3">
+                    <label class="form-label">New Status</label>
+                    <select name="status" class="form-select" required>
+                        {% for value, label in status_choices %}
+                            <option value="{{ value }}" {% if appointment.status == value %}selected{% endif %}>
+                                {{ label }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-check-circle"></i> Update Status
+                </button>
+                <a href="{% url 'appointment_detail' appointment.pk %}" class="btn btn-secondary">
+                    Cancel
+                </a>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Payment{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Add Payment</h1>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <p><strong>Bill ID:</strong> {{ bill.bill_id }}</p>
+            <p><strong>Patient:</strong> {{ bill.patient.full_name }}</p>
+            <p><strong>Total Amount:</strong> {{ bill.total_amount }} ETB</p>
+            <p><strong>Paid Amount:</strong> {{ bill.paid_amount }} ETB</p>
+            <p><strong>Balance:</strong> <span class="text-danger fw-bold">{{ bill.balance }} ETB</span></p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-body">
+            <form method="post">
+                {% csrf_token %}
+                <div class="mb-3">
+                    <label class="form-label">Amount *</label>
+                    <input type="number" name="amount" class="form-control" step="0.01" max="{{ bill.balance }}" required>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label">Payment Method *</label>
+                    <select name="payment_method" class="form-select" required>
+                        <option value="">Select method</option>
+                        <option value="cash">Cash</option>
+                        <option value="card">Card</option>
+                        <option value="mobile">Mobile Money</option>
+                        <option value="insurance">Insurance</option>
+                    </select>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label">Transaction ID</label>
+                    <input type="text" name="transaction_id" class="form-control">
+                </div>
+                
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-check-circle"></i> Record Payment
+                </button>
+                <a href="{% url 'bill_detail' bill.pk %}" class="btn btn-secondary">
+                    Cancel
+                </a>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

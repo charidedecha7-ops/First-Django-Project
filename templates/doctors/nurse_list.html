@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block title %}Nurses{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Our Nurses</h1>
+
+    <div class="row g-4">
+        {% for nurse in nurses %}
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <div class="rounded-circle bg-success d-inline-flex align-items-center justify-content-center mb-3" 
+                         style="width: 100px; height: 100px;">
+                        <i class="bi bi-person fs-1 text-white"></i>
+                    </div>
+                    <h5>{{ nurse.user.get_full_name }}</h5>
+                    <p class="text-muted">{{ nurse.department }}</p>
+                    <p><small>{{ nurse.qualification }}</small></p>
+                    <p><strong>Shift:</strong> {{ nurse.get_shift_display }}</p>
+                    <p><small>License: {{ nurse.license_number }}</small></p>
+                </div>
+            </div>
+        </div>
+        {% empty %}
+        <div class="col-12">
+            <p class="text-center text-muted">No nurses found.</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

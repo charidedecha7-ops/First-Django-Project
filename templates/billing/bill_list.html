@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block title %}Bills{% endblock %}
+
+{% block content %}
+<div class="py-4">
+    <h1 class="mb-4">Bills</h1>
+
+    <!-- Filter -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <form method="get" class="row g-3">
+                <div class="col-md-10">
+                    <label class="form-label">Status</label>
+                    <select name="status" class="form-select">
+                        <option value="">All Status</option>
+                        {% for value, label in status_choices %}
+                            <option value="{{ value }}" {% if request.GET.status == value %}selected{% endif %}>
+                                {{ label }}
+                            </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <label class="form-label">&nbsp;</label>
+                    <button type="submit" class="btn btn-primary w-100">Filter</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Bills Table -->
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Bill ID</th>
+                            <th>Patient</th>
+                            <th>Total Amount</th>
+                            <th>Paid Amount</th>
+                            <th>Balance</th>
+                            <th>Status</th>
+                            <th>Date</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for bill in bills %}
+                        <tr>
+                            <td><strong>{{ bill.bill_id }}</strong></td>
+                            <td>{{ bill.patient.full_name }}</td>
+                            <td>{{ bill.total_amount }} ETB</td>
+                            <td>{{ bill.paid_amount }} ETB</td>
+                            <td>
+                                <span class="{% if bill.balance > 0 %}text-danger fw-bold{% else %}text-success{% endif %}">
+                                    {{ bill.balance }} ETB
+                                </span>
+                            </td>
+                            <td>
+                                <span class="badge bg-{% if bill.status == 'paid' %}success{% elif bill.status == 'partial' %}warning{% else %}danger{% endif %}">
+                                    {{ bill.get_status_display }}
+                                </span>
+                            </td>
+                            <td>{{ bill.created_at|date:"Y-m-d" }}</td>
+                            <td>
+                                <a href="{% url 'bill_detail' bill.pk %}" class="btn btn-sm btn-outline-primary">
+                                    <i class="bi bi-eye"></i> View
+                                </a>
+                            </td>
+                        </tr>
+                        {% empty %}
+                        <tr>
+                            <td colspan="8" class="text-center text-muted">No bills found.</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
